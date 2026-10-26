@@ -1006,7 +1006,7 @@
       const div = chartDiv("short");
       setTimeout(() => plot(div, cols.map(c => ({ type: "bar", name: c, x: pres.map(r => r.row), y: pres.map(r => r[c]), hovertemplate: `${c}<br>%{x}: %{y:,.0f} km²<extra></extra>` })),
         { barmode: "group", yaxis: { title: { text: "km² in California" }, tickformat: "," }, margin: { t: 40 } }));
-      return [note("FBFM13 FM1 and FM3 (short and tall grass) cover 51,600 km² in LF2016 Remap and nothing afterwards, while FBFM40 grass stays near 80–120 thousand km². The cells become FM2 and FM5. Reported, not corrected."),
+      return [note("FBFM13 FM1 and FM3 (short and tall grass) cover 51,600 km² in LF2016 Remap and nothing afterwards, while FBFM40 grass stays between 81,000 and 121,000 km². The former FM1/FM3 cells are coded mostly FM2 (63–68 % depending on release), then FM5 (15–20 %), with smaller shares in FM8 and FM4. Reported, not corrected."),
         note("Chart: area in km² covered by FBFM13 FM1, FM2 and FM3 and by all FBFM40 grass codes, per release. FM1 and FM3 drop to zero after LF2016 Remap while FBFM40 grass does not."),
         div, h("div", { class: "row", style: "margin-top:12px" }, figure("change/anomaly_fbfm13_grass.svg", "Anomaly panels (pipeline figure)")),
         note("Table: the three panels of the figure as rows. presence_km2: area per code and release. The other panels give, per release, the share of former FM1/FM3 cells landing on each FBFM13 code, and the share of FBFM40 grass cells carrying each FBFM13 code."),
