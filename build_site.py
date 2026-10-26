@@ -15,7 +15,7 @@ import re
 import shutil
 from pathlib import Path
 
-TASK_DIRS = ["grid", "crosswalk", "counts", "matrices", "change"]
+TASK_DIRS = ["grid", "crosswalk", "counts", "matrices", "change", "sampling"]
 KEEP_EXT = {".csv", ".svg"}
 CONVENTIONS = ["matched_release", "fixed_release"]
 PAIR_RE = re.compile(r"^([A-D])_(\w+?)_x_(\w+?)_(n_readings_[a-z0-9_]+?)_(total|\d{4})\.csv$")

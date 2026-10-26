@@ -9176,6 +9176,241 @@
    "path": "change/stability_cat_from_40_data.csv",
    "bytes": 238,
    "kind": "csv"
+  },
+  {
+   "path": "sampling/effort.svg",
+   "bytes": 100383,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/effort_data.csv",
+   "bytes": 2121,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2016_Remap_FBFM13.svg",
+   "bytes": 288487,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2016_Remap_FBFM13_data.csv",
+   "bytes": 1496,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2016_Remap_FBFM40.svg",
+   "bytes": 323807,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2016_Remap_FBFM40_data.csv",
+   "bytes": 2858,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2022_FBFM13.svg",
+   "bytes": 279021,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2022_FBFM13_data.csv",
+   "bytes": 1330,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2022_FBFM40.svg",
+   "bytes": 348521,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2022_FBFM40_data.csv",
+   "bytes": 2838,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2023_FBFM13.svg",
+   "bytes": 278193,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2023_FBFM13_data.csv",
+   "bytes": 1241,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2023_FBFM40.svg",
+   "bytes": 344933,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2023_FBFM40_data.csv",
+   "bytes": 2728,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2024_FBFM13.svg",
+   "bytes": 273181,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2024_FBFM13_data.csv",
+   "bytes": 1244,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2024_FBFM40.svg",
+   "bytes": 347461,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2024_FBFM40_data.csv",
+   "bytes": 2672,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2025_FBFM13.svg",
+   "bytes": 274789,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2025_FBFM13_data.csv",
+   "bytes": 1256,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/map_overlay_LF2025_FBFM40.svg",
+   "bytes": 346077,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/map_overlay_LF2025_FBFM40_data.csv",
+   "bytes": 2782,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/representativeness_FBFM13_fixed_release.svg",
+   "bytes": 37040,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/representativeness_FBFM13_fixed_release_data.csv",
+   "bytes": 1842,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/representativeness_FBFM13_matched_release.svg",
+   "bytes": 36739,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/representativeness_FBFM13_matched_release_data.csv",
+   "bytes": 1919,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/representativeness_FBFM40_fixed_release.svg",
+   "bytes": 74418,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/representativeness_FBFM40_fixed_release_data.csv",
+   "bytes": 4273,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/representativeness_FBFM40_matched_release.svg",
+   "bytes": 72039,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/representativeness_FBFM40_matched_release_data.csv",
+   "bytes": 4410,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/representativeness_cat_from_13_fixed_release.svg",
+   "bytes": 17622,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/representativeness_cat_from_13_fixed_release_data.csv",
+   "bytes": 729,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/representativeness_cat_from_13_matched_release.svg",
+   "bytes": 16998,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/representativeness_cat_from_13_matched_release_data.csv",
+   "bytes": 735,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/representativeness_cat_from_40_fixed_release.svg",
+   "bytes": 17622,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/representativeness_cat_from_40_fixed_release_data.csv",
+   "bytes": 729,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/representativeness_cat_from_40_matched_release.svg",
+   "bytes": 17607,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/representativeness_cat_from_40_matched_release_data.csv",
+   "bytes": 733,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/seasonal_moisture_cat_from_13_fixed_release.svg",
+   "bytes": 146968,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/seasonal_moisture_cat_from_13_fixed_release_data.csv",
+   "bytes": 14310,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/seasonal_moisture_cat_from_13_matched_release.svg",
+   "bytes": 147540,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/seasonal_moisture_cat_from_13_matched_release_data.csv",
+   "bytes": 14431,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/seasonal_moisture_cat_from_40_fixed_release.svg",
+   "bytes": 146966,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/seasonal_moisture_cat_from_40_fixed_release_data.csv",
+   "bytes": 14320,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/seasonal_moisture_cat_from_40_matched_release.svg",
+   "bytes": 147674,
+   "kind": "svg"
+  },
+  {
+   "path": "sampling/seasonal_moisture_cat_from_40_matched_release_data.csv",
+   "bytes": 14579,
+   "kind": "csv"
+  },
+  {
+   "path": "sampling/sites_by_growth_form.csv",
+   "bytes": 63,
+   "kind": "csv"
   }
  ]
 }

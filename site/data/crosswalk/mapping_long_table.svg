@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-26T16:16:10.687122</dc:date>
+    <dc:date>2026-10-26T18:47:21.267499</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -4967,7 +4967,7 @@ z
    <text style="font-style: italic; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.398" y="952.973559" transform="rotate(-0 7.398 952.973559)">* project decision; see crosswalk cell (## ▶ FUEL CATEGORY MAPPING — EDIT HERE). Rows in italics contain one.</text>
   </g>
   <g id="text_451">
-   <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="7.398" y="983.761357" transform="rotate(-0 7.398 983.761357)">FireSET EDA · run 2026-10-26T20:15:45Z · release convention: n/a (crosswalk) · decisions: GS=shrub SB=slash TU=tree FM2=grass FM6=shrub</text>
+   <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="7.398" y="983.761357" transform="rotate(-0 7.398 983.761357)">FireSET EDA · run 2026-10-26T22:47:14Z · release convention: n/a (crosswalk) · decisions: GS=shrub SB=slash TU=tree FM2=grass FM6=shrub</text>
   </g>
  </g>
 </svg>
