@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="730.08pt" viewBox="0 0 648 730.08" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-26T16:16:09.241464</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 730.08 
+L 648 730.08 
+L 648 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 19.1808 84.163776 
+L 115.5708 84.163776 
+L 115.5708 70.963776 
+L 19.1808 70.963776 
+z
+" style="fill: #efeeea; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="67.3758" y="79.512018" transform="rotate(-0 67.3758 79.512018)">category</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 115.5708 84.163776 
+L 331.0308 84.163776 
+L 331.0308 70.963776 
+L 115.5708 70.963776 
+z
+" style="fill: #efeeea; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="223.3008" y="79.512311" transform="rotate(-0 223.3008 79.512311)">FBFM13 codes</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 331.0308 84.163776 
+L 654.2208 84.163776 
+L 654.2208 70.963776 
+L 331.0308 70.963776 
+z
+" style="fill: #efeeea; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="492.6258" y="79.512311" transform="rotate(-0 492.6258 79.512311)">FBFM40 codes</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 19.1808 144.163776 
+L 115.5708 144.163776 
+L 115.5708 84.163776 
+L 19.1808 84.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="28.8198" y="116.112311" transform="rotate(-0 28.8198 116.112311)">nonburnable (0)</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 115.5708 144.163776 
+L 331.0308 144.163776 
+L 331.0308 84.163776 
+L 115.5708 84.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 98.108503)">NB1  Urban/developed</text>
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 107.110553)">NB2  Snow/ice</text>
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 116.112604)">NB3  Agriculture</text>
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 125.114069)">NB8  Open water</text>
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 134.11612)">NB9  Bare ground</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 331.0308 144.163776 
+L 654.2208 144.163776 
+L 654.2208 84.163776 
+L 331.0308 84.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 98.108503)">NB1  Urban/developed</text>
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 107.110553)">NB2  Snow/ice</text>
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 116.112604)">NB3  Agriculture</text>
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 125.114069)">NB8  Open water</text>
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 134.11612)">NB9  Bare ground</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 19.1808 252.163776 
+L 115.5708 252.163776 
+L 115.5708 144.163776 
+L 19.1808 144.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="28.8198" y="200.112018" transform="rotate(-0 28.8198 200.112018)">grass (1)</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 115.5708 252.163776 
+L 331.0308 252.163776 
+L 331.0308 144.163776 
+L 115.5708 144.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 191.11026)">FM1  Short grass (1 ft)</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 200.112311)">FM2*  Timber (grass and understory)</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 209.114362)">FM3  Tall grass (2.5 ft)</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 331.0308 252.163776 
+L 654.2208 252.163776 
+L 654.2208 144.163776 
+L 331.0308 144.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 164.104108)">GR1  Short, sparse dry climate grass</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 173.106159)">GR2  Low load, dry climate grass</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 182.10821)">GR3  Low load, very coarse, humid climate grass</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 191.11026)">GR4  Moderate load, dry climate grass</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 200.112311)">GR5  Low load, humid climate grass</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 209.114362)">GR6  Moderate load, humid climate grass</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 218.116413)">GR7  High load, dry climate grass</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 227.118463)">GR8  High load, very coarse, humid climate grass</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 236.120514)">GR9  Very high load, humid climate grass</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 19.1808 408.163776 
+L 115.5708 408.163776 
+L 115.5708 252.163776 
+L 19.1808 252.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="28.8198" y="332.112311" transform="rotate(-0 28.8198 332.112311)">shrub (2)</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 115.5708 408.163776 
+L 331.0308 408.163776 
+L 331.0308 252.163776 
+L 115.5708 252.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 318.609235)">FM4  Chaparral (6 ft)</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 327.611286)">FM5  Brush (2 ft)</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 336.613337)">FM6*  Dormant brush, hardwood slash</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 345.615387)">FM7  Southern rough</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 331.0308 408.163776 
+L 654.2208 408.163776 
+L 654.2208 252.163776 
+L 331.0308 252.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 278.100006)">GS1*  Low load, dry climate grass-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 287.102057)">GS2*  Moderate load, dry climate grass-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 296.104108)">GS3*  Moderate load, humid climate grass-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 305.106159)">GS4*  High load, humid climate grass-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 314.10821)">SH1  Low load dry climate shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 323.11026)">SH2  Moderate load dry climate shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 332.112311)">SH3  Moderate load, humid climate shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 341.114362)">SH4  Low load, humid climate timber-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 350.116413)">SH5  High load, dry climate shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 359.118464)">SH6  Low load, humid climate shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 368.120514)">SH7  Very high load, dry climate shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 377.122565)">SH8  High load, humid climate shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 386.124616)">SH9  Very high load, humid climate shrub</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 19.1808 576.163776 
+L 115.5708 576.163776 
+L 115.5708 408.163776 
+L 19.1808 408.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="28.8198" y="494.112018" transform="rotate(-0 28.8198 494.112018)">tree (3)</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 115.5708 576.163776 
+L 331.0308 576.163776 
+L 331.0308 408.163776 
+L 115.5708 408.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 485.11026)">FM8  Closed timber litter</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 494.112311)">FM9  Hardwood litter</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 503.114362)">FM10  Timber (litter and understory)</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 331.0308 576.163776 
+L 654.2208 576.163776 
+L 654.2208 408.163776 
+L 331.0308 408.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 435.598981)">TU1*  Low load dry climate timber-grass-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 444.601032)">TU2*  Moderate load, humid climate timber-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 453.603083)">TU3*  Moderate load, humid climate timber-grass-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 462.605133)">TU4*  Dwarf conifer with understory</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 471.607184)">TU5*  Very high load, dry climate timber-shrub</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 480.609235)">TL1  Low load compact conifer litter</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 489.611286)">TL2  Low load broadleaf litter</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 498.613337)">TL3  Moderate load conifer litter</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 507.615387)">TL4  Small downed logs</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 516.617438)">TL5  High load conifer litter</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 525.619489)">TL6  Moderate load broadleaf litter</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 534.62154)">TL7  Large downed logs</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 543.62359)">TL8  Long-needle litter</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 552.625641)">TL9  Very high load broadleaf litter</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 19.1808 624.163776 
+L 115.5708 624.163776 
+L 115.5708 576.163776 
+L 19.1808 576.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="28.8198" y="602.112311" transform="rotate(-0 28.8198 602.112311)">slash (4)</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 115.5708 624.163776 
+L 331.0308 624.163776 
+L 331.0308 576.163776 
+L 115.5708 576.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 593.11026)">FM11  Light logging slash</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 602.112311)">FM12  Medium logging slash</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(137.1168 611.114362)">FM13  Heavy logging slash</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 331.0308 624.163776 
+L 654.2208 624.163776 
+L 654.2208 576.163776 
+L 331.0308 576.163776 
+z
+" style="fill: #ffffff; stroke: #e6e5e1; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 588.609235)">SB1*  Low load activity fuel</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 597.611286)">SB2*  Moderate load activity fuel or low load blowdown</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 606.613337)">SB3*  High load activity fuel or moderate load blowdown</text>
+     <text style="font-style: italic; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(363.3498 615.615387)">SB4*  High load blowdown</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_19">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="6.48" y="18.549638" transform="rotate(-0 6.48 18.549638)">Mapping flow table</text>
+  </g>
+  <g id="text_20">
+   <text style="font-style: italic; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="6.48" y="702.845559" transform="rotate(-0 6.48 702.845559)">* project decision; see crosswalk cell (## ▶ FUEL CATEGORY MAPPING — EDIT HERE). Rows in italics contain one.</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="6.48" y="725.598157" transform="rotate(-0 6.48 725.598157)">FireSET EDA · run 2026-10-26T20:15:45Z · release convention: n/a (crosswalk) · decisions: GS=shrub SB=slash TU=tree FM2=grass FM6=shrub</text>
+  </g>
+ </g>
+</svg>

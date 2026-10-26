@@ -1,0 +1,64 @@
+scheme,code,abbrev,name,source_group,category,category_code,note
+FBFM13,1,FM1,Short grass (1 ft),Grass and grass-dominated,grass,1,attribute table label: 'FBFM1'; name/group: Anderson (1982)
+FBFM13,2,FM2,Timber (grass and understory),Grass and grass-dominated,grass,1,attribute table label: 'FBFM2'; name/group: Anderson (1982); project decision (FM2_CATEGORY); see crosswalk cell
+FBFM13,3,FM3,Tall grass (2.5 ft),Grass and grass-dominated,grass,1,attribute table label: 'FBFM3'; name/group: Anderson (1982)
+FBFM13,4,FM4,Chaparral (6 ft),Chaparral and shrub fields,shrub,2,attribute table label: 'FBFM4'; name/group: Anderson (1982)
+FBFM13,5,FM5,Brush (2 ft),Chaparral and shrub fields,shrub,2,attribute table label: 'FBFM5'; name/group: Anderson (1982)
+FBFM13,6,FM6,"Dormant brush, hardwood slash",Chaparral and shrub fields,shrub,2,attribute table label: 'FBFM6'; name/group: Anderson (1982); project decision (FM6_CATEGORY); see crosswalk cell
+FBFM13,7,FM7,Southern rough,Chaparral and shrub fields,shrub,2,attribute table label: 'FBFM7'; name/group: Anderson (1982)
+FBFM13,8,FM8,Closed timber litter,Timber litter,tree,3,attribute table label: 'FBFM8'; name/group: Anderson (1982)
+FBFM13,9,FM9,Hardwood litter,Timber litter,tree,3,attribute table label: 'FBFM9'; name/group: Anderson (1982)
+FBFM13,10,FM10,Timber (litter and understory),Timber litter,tree,3,attribute table label: 'FBFM10'; name/group: Anderson (1982)
+FBFM13,11,FM11,Light logging slash,Slash,slash,4,attribute table label: 'FBFM11'; name/group: Anderson (1982)
+FBFM13,12,FM12,Medium logging slash,Slash,slash,4,attribute table label: 'FBFM12'; name/group: Anderson (1982)
+FBFM13,13,FM13,Heavy logging slash,Slash,slash,4,attribute table label: 'FBFM13'; name/group: Anderson (1982)
+FBFM13,91,NB1,Urban/developed,Non-burnable,nonburnable,0,attribute table label: 'Urban'; name/group: LANDFIRE NB definition
+FBFM13,92,NB2,Snow/ice,Non-burnable,nonburnable,0,attribute table label: 'Snow/Ice'; name/group: LANDFIRE NB definition
+FBFM13,93,NB3,Agriculture,Non-burnable,nonburnable,0,attribute table label: 'Agriculture'; name/group: LANDFIRE NB definition
+FBFM13,98,NB8,Open water,Non-burnable,nonburnable,0,attribute table label: 'Water'; name/group: LANDFIRE NB definition
+FBFM13,99,NB9,Bare ground,Non-burnable,nonburnable,0,attribute table label: 'Barren'; name/group: LANDFIRE NB definition
+FBFM40,91,NB1,Urban/developed,Non-burnable,nonburnable,0,attribute table label: 'NB1'; name/group: LANDFIRE NB definition
+FBFM40,92,NB2,Snow/ice,Non-burnable,nonburnable,0,attribute table label: 'NB2'; name/group: LANDFIRE NB definition
+FBFM40,93,NB3,Agriculture,Non-burnable,nonburnable,0,attribute table label: 'NB3'; name/group: LANDFIRE NB definition
+FBFM40,98,NB8,Open water,Non-burnable,nonburnable,0,attribute table label: 'NB8'; name/group: LANDFIRE NB definition
+FBFM40,99,NB9,Bare ground,Non-burnable,nonburnable,0,attribute table label: 'NB9'; name/group: LANDFIRE NB definition
+FBFM40,101,GR1,"Short, sparse dry climate grass",Grass,grass,1,attribute table label: 'GR1'; name/group: Scott & Burgan (2005)
+FBFM40,102,GR2,"Low load, dry climate grass",Grass,grass,1,attribute table label: 'GR2'; name/group: Scott & Burgan (2005)
+FBFM40,103,GR3,"Low load, very coarse, humid climate grass",Grass,grass,1,attribute table label: 'GR3'; name/group: Scott & Burgan (2005)
+FBFM40,104,GR4,"Moderate load, dry climate grass",Grass,grass,1,attribute table label: 'GR4'; name/group: Scott & Burgan (2005)
+FBFM40,105,GR5,"Low load, humid climate grass",Grass,grass,1,attribute table label: 'GR5'; name/group: Scott & Burgan (2005)
+FBFM40,106,GR6,"Moderate load, humid climate grass",Grass,grass,1,attribute table label: 'GR6'; name/group: Scott & Burgan (2005)
+FBFM40,107,GR7,"High load, dry climate grass",Grass,grass,1,attribute table label: 'GR7'; name/group: Scott & Burgan (2005)
+FBFM40,108,GR8,"High load, very coarse, humid climate grass",Grass,grass,1,attribute table label: 'GR8'; name/group: Scott & Burgan (2005)
+FBFM40,109,GR9,"Very high load, humid climate grass",Grass,grass,1,code not in any attribute table; name/group: Scott & Burgan (2005)
+FBFM40,121,GS1,"Low load, dry climate grass-shrub",Grass-shrub,shrub,2,attribute table label: 'GS1'; name/group: Scott & Burgan (2005); project decision (GS_CATEGORY); see crosswalk cell
+FBFM40,122,GS2,"Moderate load, dry climate grass-shrub",Grass-shrub,shrub,2,attribute table label: 'GS2'; name/group: Scott & Burgan (2005); project decision (GS_CATEGORY); see crosswalk cell
+FBFM40,123,GS3,"Moderate load, humid climate grass-shrub",Grass-shrub,shrub,2,attribute table label: 'GS3'; name/group: Scott & Burgan (2005); project decision (GS_CATEGORY); see crosswalk cell
+FBFM40,124,GS4,"High load, humid climate grass-shrub",Grass-shrub,shrub,2,attribute table label: 'GS4'; name/group: Scott & Burgan (2005); project decision (GS_CATEGORY); see crosswalk cell
+FBFM40,141,SH1,Low load dry climate shrub,Shrub,shrub,2,attribute table label: 'SH1'; name/group: Scott & Burgan (2005)
+FBFM40,142,SH2,Moderate load dry climate shrub,Shrub,shrub,2,attribute table label: 'SH2'; name/group: Scott & Burgan (2005)
+FBFM40,143,SH3,"Moderate load, humid climate shrub",Shrub,shrub,2,attribute table label: 'SH3'; name/group: Scott & Burgan (2005)
+FBFM40,144,SH4,"Low load, humid climate timber-shrub",Shrub,shrub,2,attribute table label: 'SH4'; name/group: Scott & Burgan (2005)
+FBFM40,145,SH5,"High load, dry climate shrub",Shrub,shrub,2,attribute table label: 'SH5'; name/group: Scott & Burgan (2005)
+FBFM40,146,SH6,"Low load, humid climate shrub",Shrub,shrub,2,attribute table label: 'SH6'; name/group: Scott & Burgan (2005)
+FBFM40,147,SH7,"Very high load, dry climate shrub",Shrub,shrub,2,attribute table label: 'SH7'; name/group: Scott & Burgan (2005)
+FBFM40,148,SH8,"High load, humid climate shrub",Shrub,shrub,2,attribute table label: 'SH8'; name/group: Scott & Burgan (2005)
+FBFM40,149,SH9,"Very high load, humid climate shrub",Shrub,shrub,2,attribute table label: 'SH9'; name/group: Scott & Burgan (2005)
+FBFM40,161,TU1,Low load dry climate timber-grass-shrub,Timber-understory,tree,3,attribute table label: 'TU1'; name/group: Scott & Burgan (2005); project decision (TU_CATEGORY); see crosswalk cell
+FBFM40,162,TU2,"Moderate load, humid climate timber-shrub",Timber-understory,tree,3,attribute table label: 'TU2'; name/group: Scott & Burgan (2005); project decision (TU_CATEGORY); see crosswalk cell
+FBFM40,163,TU3,"Moderate load, humid climate timber-grass-shrub",Timber-understory,tree,3,attribute table label: 'TU3'; name/group: Scott & Burgan (2005); project decision (TU_CATEGORY); see crosswalk cell
+FBFM40,164,TU4,Dwarf conifer with understory,Timber-understory,tree,3,attribute table label: 'TU4'; name/group: Scott & Burgan (2005); project decision (TU_CATEGORY); see crosswalk cell
+FBFM40,165,TU5,"Very high load, dry climate timber-shrub",Timber-understory,tree,3,attribute table label: 'TU5'; name/group: Scott & Burgan (2005); project decision (TU_CATEGORY); see crosswalk cell
+FBFM40,181,TL1,Low load compact conifer litter,Timber litter,tree,3,attribute table label: 'TL1'; name/group: Scott & Burgan (2005)
+FBFM40,182,TL2,Low load broadleaf litter,Timber litter,tree,3,attribute table label: 'TL2'; name/group: Scott & Burgan (2005)
+FBFM40,183,TL3,Moderate load conifer litter,Timber litter,tree,3,attribute table label: 'TL3'; name/group: Scott & Burgan (2005)
+FBFM40,184,TL4,Small downed logs,Timber litter,tree,3,attribute table label: 'TL4'; name/group: Scott & Burgan (2005)
+FBFM40,185,TL5,High load conifer litter,Timber litter,tree,3,attribute table label: 'TL5'; name/group: Scott & Burgan (2005)
+FBFM40,186,TL6,Moderate load broadleaf litter,Timber litter,tree,3,attribute table label: 'TL6'; name/group: Scott & Burgan (2005)
+FBFM40,187,TL7,Large downed logs,Timber litter,tree,3,attribute table label: 'TL7'; name/group: Scott & Burgan (2005)
+FBFM40,188,TL8,Long-needle litter,Timber litter,tree,3,attribute table label: 'TL8'; name/group: Scott & Burgan (2005)
+FBFM40,189,TL9,Very high load broadleaf litter,Timber litter,tree,3,attribute table label: 'TL9'; name/group: Scott & Burgan (2005)
+FBFM40,201,SB1,Low load activity fuel,Slash-blowdown,slash,4,attribute table label: 'SB1'; name/group: Scott & Burgan (2005); project decision (SB_CATEGORY); see crosswalk cell
+FBFM40,202,SB2,Moderate load activity fuel or low load blowdown,Slash-blowdown,slash,4,attribute table label: 'SB2'; name/group: Scott & Burgan (2005); project decision (SB_CATEGORY); see crosswalk cell
+FBFM40,203,SB3,High load activity fuel or moderate load blowdown,Slash-blowdown,slash,4,attribute table label: 'SB3'; name/group: Scott & Burgan (2005); project decision (SB_CATEGORY); see crosswalk cell
+FBFM40,204,SB4,High load blowdown,Slash-blowdown,slash,4,attribute table label: 'SB4'; name/group: Scott & Burgan (2005); project decision (SB_CATEGORY); see crosswalk cell

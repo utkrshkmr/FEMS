@@ -1,0 +1,6 @@
+class,n_readings_total,n_readings_live,n_readings_dead_1hr,n_readings_dead_10hr,n_readings_dead_100hr,n_readings_dead_1000hr,n_readings_dead_duff
+nonburnable,8051,7305,43,40,0,658,5
+grass,3845,3356,67,200,23,199,0
+shrub,25160,23505,90,272,150,1125,18
+tree,12716,10772,72,262,134,1445,31
+slash,0,0,0,0,0,0,0

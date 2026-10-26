@@ -1,0 +1,7 @@
+# never publish rasters or caches
+*.tif
+*.tiff
+*.npy
+*.png
+__pycache__/
+.DS_Store

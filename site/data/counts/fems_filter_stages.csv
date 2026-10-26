@@ -1,0 +1,13 @@
+stage,rows
+rows in yearly files,244268
+Sample Status == Submitted,244268
+duplicate Sample Id rows removed,0
+rows with unparseable time removed,0
+local year 2015–present,244223
+site id present in site metadata,244223
+site inside California polygon,49785
+"QC: moisture missing (reported, excluded)",0
+"QC: moisture out of range (reported, excluded)",13
+California readings after QC,49772
+California sites in metadata (polygon),417
+California sites with >= 1 QC reading (used to locate readings),376

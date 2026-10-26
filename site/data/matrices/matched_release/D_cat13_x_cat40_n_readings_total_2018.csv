@@ -1,0 +1,6 @@
+cat_from_13,nonburnable,grass,shrub,tree,slash
+nonburnable,204,0,0,0,0
+grass,0,441,520,0,0
+shrub,0,157,1047,0,0
+tree,0,0,0,921,0
+slash,0,0,0,0,0

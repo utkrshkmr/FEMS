@@ -1,0 +1,12 @@
+release,product,path,action,reason
+LF2016_Remap,FBFM13,<project>/data-dump/landfire/2016_remap/fbfm13/LF2016_FBFM13_CONUS/Tif/LF2016_FBFM13_CONUS.tif,used,
+LF2016_Remap,FBFM40,<project>/data-dump/landfire/2016_remap/fbfm40/LF2016_FBFM40_CONUS/Tif/LF2016_FBFM40_CONUS.tif,used,
+LF2022,FBFM13,<project>/data-dump/landfire/2022/fbfm13/LF2022_FBFM13_CONUS/Tif/LF2022_FBFM13_CONUS.tif,used,
+LF2022,FBFM40,<project>/data-dump/landfire/2022/fbfm40/LF2022_FBFM40_CONUS/Tif/LF2022_FBFM40_CONUS.tif,used,
+LF2023,FBFM13,<project>/data-dump/landfire/2023/fbfm13/LF2023_FBFM13_CONUS/Tif/LF2023_FBFM13_CONUS.tif,used,
+LF2023,FBFM40,<project>/data-dump/landfire/2023/fbfm40/LF2023_FBFM40_CONUS/Tif/LF2023_FBFM40_CONUS.tif,used,
+LF2024,FBFM13,<project>/data-dump/landfire/2024/fbfm13/LF2024_FBFM13_CONUS/Tif/LF2024_FBFM13_CONUS.tif,used,
+LF2024,FBFM40,<project>/data-dump/landfire/2024/fbfm40/LF2024_FBFM40_CONUS/Tif/LF2024_FBFM40_CONUS.tif,used,
+LF2025,FBFM13,<project>/data-dump/landfire/2025/fbfm13/LF2025_FBFM13_CONUS/Tif/LF2025_FBFM13_CONUS.tif,used,
+LF2025,FBFM40,<project>/data-dump/landfire/2025/fbfm40/LF2025_FBFM40_CONUS/Tif/LF2025_FBFM40_CONUS.tif,used,
+LF2020,,,missing,expected in spec but not on disk (LF2020 is no longer offered for download)
