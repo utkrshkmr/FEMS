@@ -51,6 +51,12 @@ then open http://localhost:8000/.
 
 ## GitHub Pages
 
-The workflow enables Pages for the repository on its first run and publishes the `site/`
-folder. If the first run fails with a Pages permission error, open *Settings → Pages* and set
-*Source* to *GitHub Actions*, then re-run the workflow.
+One-time setup (the default workflow token cannot create the Pages site itself):
+
+1. Open *Settings → Pages* in this repository.
+2. Under *Build and deployment*, set *Source* to **GitHub Actions**.
+3. Open *Actions*, pick the failed "Deploy dashboard to GitHub Pages" run and choose
+   *Re-run all jobs* (or push any commit to `main`).
+
+After that every push to `main` publishes `site/` to https://utkrshkmr.github.io/FEMS/ in
+about a minute.
