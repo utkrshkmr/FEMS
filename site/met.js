@@ -46,7 +46,7 @@ window.PageMet = (() => {
     const row = (field, status, source, unit, how, v) => ({ field, status, source, unit, how, "flag 0": v ? share(v, 0) : "", "flag 1": v ? share(v, 1) : "", "flag 2": v ? share(v, 2) : "", "not reviewed": v ? share(v, "blank") : "" });
     const rows = [
       row("Station name", "Available", "Station metadata", "", "Shown in the station table and on the map."),
-      row("WX ID", "Closest match", "fems_station_id", "", "No field is called WX ID. The FEMS API's internal station key is shown as the closest match; please confirm this is the one you mean."),
+      row("WX ID", "Available", "fems_station_id", "", "The FEMS API's internal station key. Unique for every station, and shown in the station table."),
       row("NESS ID", "Dropped", "nesdis_id", "", "Dropped from the page as you suggested, after confirming the kept key is unique. It stays in the station CSV."),
       row("NWS ID", "Dropped", "station_id, wims_id", "", "Dropped from the page as you suggested. It stays in the station CSV, and the API uses it to look up stations."),
       row("Observation date and time", "Available", "DateTime", "UTC", "Hourly. Converted to Pacific time for daily and monthly grouping."),
@@ -120,7 +120,7 @@ window.PageMet = (() => {
       const q = st.q.trim().toLowerCase();
       const shown = raws.filter(r => !q || `${r.station_name} ${r.agency} ${r.region} ${r.fuel_cell} ${r.county_name}`.toLowerCase().includes(q));
       box.append(table(shown, { columns: ["station_name", "fems_station_id", "lat", "lon", "elevation_ft", "agency", "county_name", "region", "cell_code", "fuel_cell", "fuel_window", "nearest_fems_km", "valid_temp_months"],
-        labels: { station_name: "station", fems_station_id: "station key (closest to WX ID)", elevation_ft: "elevation (ft)", county_name: "county", cell_code: "LANDFIRE cell", fuel_cell: "cell class", fuel_window: "window class", nearest_fems_km: "km to nearest FEMS", valid_temp_months: `months with valid temperature, of ${summary.months_in_span}` },
+        labels: { station_name: "station", fems_station_id: "WX ID", elevation_ft: "elevation (ft)", county_name: "county", cell_code: "LANDFIRE cell", fuel_cell: "cell class", fuel_window: "window class", nearest_fems_km: "km to nearest FEMS", valid_temp_months: `months with valid temperature, of ${summary.months_in_span}` },
         format: { fems_station_id: v => String(v) }, sort: "station_name", asc: true, maxHeight: "480px" }), tablefoot("met/stations.csv", shown.length));
     };
     draw();
