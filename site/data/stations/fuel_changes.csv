@@ -1,0 +1,172 @@
+site_id,track,year,previous_report_year,skipped_years,added,dropped,kind,partial_year,site_name
+905,live,2016,2015,0,,"Ceanothus, Whitethorn",different species,False,Peddler
+913,dead,2016,2015,0,,100-Hour,dead fuel class,False,Pike County
+128,live,2017,2016,0,"Sage, Black",,different species,False,Bouquet Canyon
+682,live,2017,2016,0,"Manzanita, Greenleaf",,different species,False,Lake Isabella new growth
+683,live,2017,2016,0,"Manzanita, Greenleaf",,different species,False,Lake Isabella old growth
+685,live,2017,2016,0,"Pine, Ponderosa",,different species,False,Lakeshore
+1187,live,2017,2016,0,,Chamise,growth-stage label only,False,Strawberry
+128,live,2018,2017,0,,"Sage, Black",different species,False,Bouquet Canyon
+818,live,2018,2017,0,,"Chamise, New Growth",growth-stage label only,False,Mt. Woodson Station
+890,live,2018,2016,1,,"Ceanothus, Deerbrush",different species,False,Parkfield New Growth
+900,live,2018,2017,0,"Ceanothus, Deerbrush; Cedar, Incense; Manzanita, Whiteleaf",,different species,False,Peavine
+950,live,2018,2017,0,,"Chamise, New Growth",growth-stage label only,False,Potrero Station
+1030,dead,2018,2017,0,,100-Hour,dead fuel class,False,Sailor Flat
+1189,live,2018,2017,0,,"Oak, California Black",different species,False,Succor Flat
+1280,live,2018,2017,0,,"Sagebrush, Mountain Big",different species,False,Twin Lakes
+1332,live,2018,2017,0,,"Chamise, New Growth",growth-stage label only,False,White Star
+3,dead,2019,2015,3,10-Hour,,dead fuel class,False,12 Rd @ CG
+67,live,2019,2018,0,"Manzanita, Greenleaf",,different species,False,Basin
+128,live,2019,2018,0,"Sage, Black",,different species,False,Bouquet Canyon
+429,live,2019,2018,0,"Pine, Ponderosa",,different species,False,Ewing Reservoir
+471,live,2019,2018,0,,"Manzanita, Greenleaf",different species,False,Frazier Park new growth
+472,live,2019,2018,0,,"Manzanita, Greenleaf",different species,False,Frazier Park old growth
+682,live,2019,2018,0,,"Manzanita, Greenleaf",different species,False,Lake Isabella new growth
+683,live,2019,2018,0,,"Manzanita, Greenleaf",different species,False,Lake Isabella old growth
+757,live,2019,2018,0,"Pine, Ponderosa",,different species,False,McCloud (SHF)
+803,live,2019,2018,0,"Pine, Ponderosa",,different species,False,Mount Shasta
+1193,dead,2019,2018,0,,10-Hour; 100-Hour,dead fuel class,False,Sugarloaf (SHF)
+1280,live,2019,2018,0,"Sagebrush, Mountain Big",,different species,False,Twin Lakes
+1357,live,2019,2018,0,"Pine, Ponderosa",,different species,False,Yolla Bolla
+77,live,2020,2019,0,"Manzanita, Whiteleaf",,different species,False,Big Bar
+429,live,2020,2019,0,,"Pine, Ponderosa",different species,False,Ewing Reservoir
+736,live,2020,2019,0,,"Chamise, New Growth; Chamise, Old Growth",growth-stage label only,False,Lower Cow Mountain
+818,live,2020,2018,1,"Chamise, New Growth",,growth-stage label only,False,Mt. Woodson Station
+821,live,2020,2019,0,"Pine, Ponderosa",,different species,False,Mule Ck GS
+8,live,2020,2016,3,"Pine, Ponderosa",,different species,False,N. Yuba 25 Road
+872,live,2020,2016,3,"Manzanita, Whiteleaf",,different species,False,N. Yuba Old Camptonville
+890,live,2020,2018,1,"Ceanothus, Deerbrush",,different species,False,Parkfield New Growth
+900,live,2020,2019,0,,"Ceanothus, Deerbrush; Cedar, Incense; Manzanita, Whiteleaf; Pine, Ponderosa",different species,False,Peavine
+950,live,2020,2018,1,"Chamise, New Growth",,growth-stage label only,False,Potrero Station
+958,live,2020,2019,0,,"Manzanita, Eastwoods",different species,False,Quail Hollow Ranch
+1332,live,2020,2018,1,"Chamise, New Growth",,growth-stage label only,False,White Star
+25,live,2021,2020,0,"Chamise; Chamise, New Growth; Chamise, Old Growth",,different species,False,Alderpoint
+120,live,2021,2020,0,"Chamise, New Growth; Chamise, Old Growth",,growth-stage label only,False,Bonny Doon
+128,live,2021,2020,0,,"Sage, Black",different species,False,Bouquet Canyon
+470,live,2021,2020,0,,"Sage, Black",different species,False,Frazier Park
+471,live,2021,2020,0,"Manzanita, Greenleaf",,different species,False,Frazier Park new growth
+472,live,2021,2020,0,"Manzanita, Greenleaf",,different species,False,Frazier Park old growth
+596,live,2021,2020,0,"Chamise, New Growth; Chamise, Old Growth",,growth-stage label only,False,HWY 20
+582,live,2021,2020,0,"Chamise, New Growth; Chamise, Old Growth",,growth-stage label only,False,Hollister
+682,live,2021,2020,0,"Manzanita, Greenleaf",,different species,False,Lake Isabella new growth
+683,live,2021,2020,0,"Manzanita, Greenleaf",,different species,False,Lake Isabella old growth
+736,live,2021,2020,0,"Chamise, New Growth; Chamise, Old Growth",,growth-stage label only,False,Lower Cow Mountain
+900,live,2021,2020,0,"Ceanothus, Deerbrush; Cedar, Incense; Manzanita, Whiteleaf; Pine, Ponderosa",,different species,False,Peavine
+947,live,2021,2020,0,"Chamise, New Growth; Chamise, Old Growth","Manzanita, Greenleaf",different species,False,Poonkinney Ridge
+958,live,2021,2020,0,"Manzanita, Eastwoods",,different species,False,Quail Hollow Ranch
+1285,live,2021,2020,0,"Chamise; Chamise, New Growth; Chamise, Old Growth","Manzanita, Greenleaf",different species,False,Vallecito
+25,live,2022,2021,0,,"Chamise; Chamise, New Growth; Chamise, Old Growth",different species,False,Alderpoint
+492,live,2022,2021,0,"Chamise, New Growth",,growth-stage label only,False,Geysers Peak
+690,dead,2022,2021,0,,1000-Hour,dead fuel class,False,Las Trampas
+750,live,2022,2021,0,"Ceanothus, Snowbrush; Fir, Grand",,different species,False,Manzanita Lake
+900,live,2022,2021,0,,"Cedar, Incense; Pine, Ponderosa",different species,False,Peavine
+913,dead,2022,2021,0,100-Hour,,dead fuel class,False,Pike County
+1030,dead,2022,2018,3,100-Hour,,dead fuel class,False,Sailor Flat
+1085,live,2022,2021,0,"Manzanita, Greenleaf",,different species,False,Shinar Saddle
+1189,live,2022,2018,3,"Oak, California Black",,different species,False,Succor Flat
+162,live,2023,2022,0,"Fir, White","Fir, California Red",different species,False,CA-KNP Mineral King
+202,live,2023,2022,0,,Coyotebrush,different species,False,Chabot
+492,live,2023,2022,0,,"Chamise, New Growth",growth-stage label only,False,Geysers Peak
+555,live,2023,2021,1,"Manzanita, Whiteleaf",,different species,False,Henrys
+679,live,2023,2022,0,,"Sumac, Laurel",different species,False,Laguna Beach
+866,live,2023,2022,0,,"Manzanita, Greenleaf",different species,False,Oak Knoll
+913,dead,2023,2022,0,,100-Hour,dead fuel class,False,Pike County
+1085,live,2023,2022,0,,"Manzanita, Whiteleaf",different species,False,Shinar Saddle
+31,live,2024,2017,6,,"Buckwheat, Eastern Mojave; Manzanita, Eastwoods; Red Shank",different species,False,Anza
+101,dead,2024,2019,4,,1-Hour; 10-Hour; 1000-Hour; Duff,dead fuel class,False,Blatchley
+101,live,2024,2019,4,"Pine, Ponderosa","Ceanothus, Snowbrush",different species,False,Blatchley
+161,live,2024,2023,0,"Manzanita, Greenleaf",,different species,False,CA-KNP Grant Grove
+524,live,2024,2023,0,"Manzanita, Whiteleaf",,different species,False,Groveland - Coal Pit
+555,live,2024,2023,0,,"Manzanita, Greenleaf",different species,False,Henrys
+615,live,2024,2023,0,"Sage, Black",,different species,False,Irish Hills
+641,live,2024,2022,1,Chamise,,growth-stage label only,False,Kenworthy
+690,live,2024,2023,0,"Sagebrush, Black",Coyotebrush,different species,False,Las Trampas
+750,live,2024,2023,0,,"Ceanothus, Snowbrush",different species,False,Manzanita Lake
+772,live,2024,2023,0,"Chamise, New Growth",Chamise,growth-stage label only,False,Midpines - New Growth
+773,live,2024,2023,0,"Chamise, New Growth; Chamise, Old Growth",Chamise,growth-stage label only,False,Midpines - Old Growth
+866,live,2024,2023,0,"Manzanita, Greenleaf",,different species,False,Oak Knoll
+875,live,2024,2022,1,"Cedar, Incense",,different species,False,Onion Valley
+892,live,2024,2023,0,"Sage, Black",,different species,False,Parkhill
+900,live,2024,2023,0,,"Ceanothus, Deerbrush",different species,False,Peavine
+913,live,2024,2023,0,"Pine, Ponderosa",,different species,False,Pike County
+916,live,2024,2020,3,,"Manzanita, Eastwoods",different species,False,Pine Cove
+1137,live,2024,2022,1,"Fir, White; Sagebrush, Silver","Fir, California Red; Sagebrush, Little",different species,False,SO
+1033,live,2024,2017,6,,"Brittlebrush; Buckwheat, Eastern Mojave; Sagebrush, Black",different species,False,San Jacinto
+1085,live,2024,2023,0,"Ceanothus, Buckbrush",,different species,False,Shinar Saddle
+1140,live,2024,2023,0,,Chamise,growth-stage label only,False,Sonora
+1169,dead,2024,2017,6,,100-Hour; Duff,dead fuel class,False,Stampede
+1169,live,2024,2017,6,"Bitterbrush, Antelope; Manzanita, Pinemat; Pine, Ponderosa","Bitterbrush, Desert; Manzanita, Greenleaf; Sagebrush, California",different species,False,Stampede
+1189,live,2024,2022,1,"Pine, Ponderosa",,different species,False,Succor Flat
+1199,live,2024,2023,0,"Manzanita, Whiteleaf",,different species,False,Summit2 - Spring Gap
+1236,live,2024,2021,2,,"Buckwheat, Eastern Mojave",different species,False,Temecula
+1281,live,2024,2023,0,"Manzanita, Greenleaf",,different species,False,Tyler Foote
+31,live,2025,2024,0,"Buckwheat, Eastern Mojave",,different species,False,Anza
+162,live,2025,2024,0,"Manzanita, Greenleaf",,different species,False,CA-KNP Mineral King
+163,live,2025,2024,0,"Manzanita, Greenleaf",,different species,False,CA-KNP Red Fir
+365,live,2025,2024,0,"Manzanita, Greenleaf",,different species,False,Deer Hill
+443,live,2025,2020,4,Chamise,"Chamise, New Growth",growth-stage label only,False,FH-7 - New Growth
+469,live,2025,2024,0,"Chamise, New Growth; Chamise, Old Growth",,growth-stage label only,False,Fouts Springs
+496,live,2025,2023,1,"Pinyon, Twoneedle",,different species,False,Glendora Motorway
+524,live,2025,2024,0,,"Manzanita, Greenleaf",different species,False,Groveland - Coal Pit
+544,live,2025,2022,2,"Ceanothus, Buckbrush; Chamise, New Growth","Ceanothus, Deerbrush; Chamise",different species,False,Hastings New Growth
+545,live,2025,2022,2,"Ceanothus, Buckbrush; Chamise, Old Growth","Ceanothus, Deerbrush; Chamise",different species,False,Hastings Old Growth
+579,live,2025,2024,0,,Douglas-Fir,different species,False,Hog Hole
+581,live,2025,2023,1,"Oak, Live",,different species,False,Hogsback
+615,live,2025,2024,0,,"Sagebrush, Black",different species,False,Irish Hills
+676,live,2025,2024,0,"Sage, Black",,different species,False,"La Tuna Canyon, Tujunga"
+679,live,2025,2024,0,,"Sagebrush, California",different species,False,Laguna Beach
+690,live,2025,2024,0,,"Sagebrush, Black",different species,False,Las Trampas
+775,live,2025,2023,1,"Pine, Jeffrey; Sagebrush, California",,different species,False,Mill Canyon
+866,live,2025,2024,0,,"Manzanita, Greenleaf",different species,False,Oak Knoll
+875,dead,2025,2024,0,,100-Hour,dead fuel class,False,Onion Valley
+875,live,2025,2024,0,,"Cedar, Incense",different species,False,Onion Valley
+892,live,2025,2024,0,,"Sagebrush, Black",different species,False,Parkhill
+898,live,2025,2015,9,"Sage, Black; Sagebrush, California",,different species,False,Peach Motorway
+900,live,2025,2024,0,"Ceanothus, Deerbrush",,different species,False,Peavine
+913,dead,2025,2024,0,100-Hour,,dead fuel class,False,Pike County
+914,dead,2025,2024,0,10-Hour,,dead fuel class,False,Pillsbury
+914,live,2025,2024,0,"Fir, Subalpine",,different species,False,Pillsbury
+916,live,2025,2024,0,"Buckwheat, Eastern Mojave",,different species,False,Pine Cove
+952,live,2025,2022,2,"Fir, White","Fir, Grand",different species,False,Prattville
+1030,live,2025,2024,0,,"Cedar, Incense",different species,False,Sailor Flat
+1033,live,2025,2024,0,"Buckwheat, Eastern Mojave",,different species,False,San Jacinto
+1085,live,2025,2024,0,,"Ceanothus, Buckbrush",different species,False,Shinar Saddle
+1116,live,2025,2020,4,,Chamise,growth-stage label only,False,Smith Ranch
+1140,live,2025,2024,0,"Huckleberry, Thinleaf",,different species,False,Sonora
+1189,live,2025,2024,0,"Oak, California Live","Pine, Ponderosa",different species,False,Succor Flat
+1199,live,2025,2024,0,,"Manzanita, Greenleaf",different species,False,Summit2 - Spring Gap
+1236,live,2025,2024,0,"Buckwheat, Eastern Mojave",,different species,False,Temecula
+1239,live,2025,2024,0,"Sage, Purple",,different species,False,Templin Highway
+1247,live,2025,2024,0,"Chamise, New Growth",,growth-stage label only,False,Throckmorton
+1280,live,2025,2023,1,"Pine, Jeffrey",,different species,False,Twin Lakes
+1281,live,2025,2024,0,,"Manzanita, Whiteleaf",different species,False,Tyler Foote
+1287,live,2025,2022,2,,Chamise,growth-stage label only,False,Valley Springs
+1301,dead,2025,2023,1,100-Hour,,dead fuel class,False,Walker
+1329,live,2025,2024,0,"Chamise, New Growth",,growth-stage label only,False,Whiskeytown
+1452,live,2025,2024,0,"Chamise, New Growth; Chamise, Old Growth",,growth-stage label only,False,Wildwood Canyon SP
+85,dead,2026,2025,0,,100-Hour,dead fuel class,True,Big Trees
+365,live,2026,2025,0,,"Manzanita, Greenleaf",different species,True,Deer Hill
+496,live,2026,2025,0,,"Chamise, New Growth; Chamise, Old Growth; Pinyon, Twoneedle",different species,True,Glendora Motorway
+504,live,2026,2017,8,,"Chamise, New Growth; Chamise, Old Growth",growth-stage label only,True,Gold Creek
+517,live,2026,2023,2,"Bitterbrush, Antelope","Bitterbrush, Desert",different species,True,Grasshopper
+581,live,2026,2025,0,,"Oak, Live",different species,True,Hogsback
+621,live,2026,2023,2,"Bitterbrush, Antelope","Bitterbrush, Desert",different species,True,Janesville
+676,live,2026,2025,0,"Chamise, New Growth",,growth-stage label only,True,"La Tuna Canyon, Tujunga"
+677,live,2026,2025,0,,"Pine, Ponderosa",different species,True,Ladder Butte
+678,live,2026,2025,0,,"Chamise, New Growth; Chamise, Old Growth",growth-stage label only,True,Lady Bug
+690,live,2026,2025,0,"Sagebrush, California",,different species,True,Las Trampas
+691,live,2026,2025,0,"Chamise, New Growth",,growth-stage label only,True,"Laurel Canyon, Mt. Olympus"
+750,live,2026,2025,0,,"Fir, Grand",different species,True,Manzanita Lake
+775,live,2026,2025,0,,"Pine, Ponderosa; Sagebrush, California",different species,True,Mill Canyon
+898,live,2026,2025,0,"Chamise, New Growth",,growth-stage label only,True,Peach Motorway
+914,dead,2026,2025,0,,10-Hour,dead fuel class,True,Pillsbury
+914,live,2026,2025,0,,"Fir, Subalpine",different species,True,Pillsbury
+974,live,2026,2025,0,"Sagebrush, Basin Big","Sagebrush, California",different species,True,Ravendale C2D
+1030,live,2026,2025,0,"Cedar, Incense",,different species,True,Sailor Flat
+1085,live,2026,2025,0,"Ceanothus, Buckbrush","Ceanothus, Deerbrush",different species,True,Shinar Saddle
+1189,dead,2026,2025,0,,100-Hour,dead fuel class,True,Succor Flat
+1189,live,2026,2025,0,"Oak, Black","Oak, California Live",different species,True,Succor Flat
+1247,live,2026,2025,0,,"Chamise, New Growth",growth-stage label only,True,Throckmorton
+1280,live,2026,2025,0,,"Pine, Ponderosa",different species,True,Twin Lakes
+1281,live,2026,2025,0,"Manzanita, Whiteleaf",,different species,True,Tyler Foote
+1301,dead,2026,2025,0,,100-Hour,dead fuel class,True,Walker

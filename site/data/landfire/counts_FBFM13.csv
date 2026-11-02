@@ -1,0 +1,20 @@
+class,code,name,category,kind,LF2016_Remap,LF2022,LF2023,LF2024,LF2025
+FM1,1,Short grass (1 ft),grass,class,56877857,44,0,0,0
+FM2,2,Timber (grass and understory),grass,class,63860555,79928401,85559605,83333997,81344116
+FM3,3,Tall grass (2.5 ft),grass,class,464110,0,0,0,0
+FM4,4,Chaparral (6 ft),shrub,class,5460538,15678863,15992030,15706605,16210613
+FM5,5,Brush (2 ft),shrub,class,78221876,106494622,104306731,145409831,148578544
+FM6,6,"Dormant brush, hardwood slash",shrub,class,4340093,70588,72222,72075,73463
+FM7,7,Southern rough,shrub,class,803432,29768,30820,31677,34158
+FM8,8,Closed timber litter,tree,class,23476438,73294634,70757688,34902968,31536209
+FM9,9,Hardwood litter,tree,class,32221635,29256757,26845142,26916774,25723639
+FM10,10,Timber (litter and understory),tree,class,49094267,42663934,43495145,42970020,45599532
+FM11,11,Light logging slash,slash,class,884851,4238,4037,3589,1054
+FM12,12,Medium logging slash,slash,class,84488,82928,80597,88248,94794
+NB1,91,Urban/developed,nonburnable,class,23082798,26958914,30222493,27281911,27274775
+NB2,92,Snow/ice,nonburnable,class,45374,45374,45374,45374,45374
+NB3,93,Agriculture,nonburnable,class,20839156,20817998,17960164,18447719,18703608
+NB8,98,Open water,nonburnable,class,7686203,7645909,7647983,7700634,7739684
+NB9,99,Bare ground,nonburnable,class,87908209,52381342,52334283,52442892,52394751
+nodata,,No data inside California,,nodata,2434,0,0,0,0
+total,,California mask cells,,total,455354314,455354314,455354314,455354314,455354314

@@ -1,0 +1,19 @@
+code,abbrev,name,group,family,category,decision
+1,FM1,Short grass (1 ft),Grass and grass-dominated,FM1–3 grass,grass,
+2,FM2,Timber (grass and understory),Grass and grass-dominated,FM1–3 grass,grass,yes
+3,FM3,Tall grass (2.5 ft),Grass and grass-dominated,FM1–3 grass,grass,
+4,FM4,Chaparral (6 ft),Chaparral and shrub fields,FM4–7 shrub,shrub,
+5,FM5,Brush (2 ft),Chaparral and shrub fields,FM4–7 shrub,shrub,
+6,FM6,"Dormant brush, hardwood slash",Chaparral and shrub fields,FM4–7 shrub,shrub,yes
+7,FM7,Southern rough,Chaparral and shrub fields,FM4–7 shrub,shrub,
+8,FM8,Closed timber litter,Timber litter,FM8–10 timber litter,tree,
+9,FM9,Hardwood litter,Timber litter,FM8–10 timber litter,tree,
+10,FM10,Timber (litter and understory),Timber litter,FM8–10 timber litter,tree,
+11,FM11,Light logging slash,Slash,FM11–13 slash,slash,
+12,FM12,Medium logging slash,Slash,FM11–13 slash,slash,
+13,FM13,Heavy logging slash,Slash,FM11–13 slash,slash,
+91,NB1,Urban/developed,Non-burnable,NB non-burnable,nonburnable,
+92,NB2,Snow/ice,Non-burnable,NB non-burnable,nonburnable,
+93,NB3,Agriculture,Non-burnable,NB non-burnable,nonburnable,
+98,NB8,Open water,Non-burnable,NB non-burnable,nonburnable,
+99,NB9,Bare ground,Non-burnable,NB non-burnable,nonburnable,

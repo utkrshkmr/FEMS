@@ -1,0 +1,377 @@
+site_id,site_name,lat,lon,area,group,site_status,row,col,readings,first_year,last_year,live_fuels,dead_fuels,live_categories,nonburnable_releases_FBFM13,nonburnable_releases_FBFM40
+2,12 Rd @ 54 Rd,39.57055555555556,-120.49277777777777,Northern California,Tahoe NF,Active,11555,9802,24,2015,2019,,1-Hour; 10-Hour; 100-Hour; 1000-Hour; Duff,,1,1
+3,12 Rd @ CG,39.60722222222223,-120.48027777777779,Northern California,Tahoe NF,Active,11432,9872,22,2015,2019,"Ceanothus, Deerbrush; Manzanita, Pinemat",1-Hour; 10-Hour; Duff,shrub,4,4
+7,25 Road Chinquapin,39.53916666666667,-121.00194444444445,Northern California,Tahoe NF,Inactive,11296,8376,11,2015,2016,"Chinquapin, Bush",,shrub,0,0
+8,N. Yuba 25 Road,39.53916666666667,-121.00194444444445,Northern California,Tahoe NF,Active,11296,8376,97,2015,2026,"Manzanita, Whiteleaf; Pine, Ponderosa",,shrub; tree,0,0
+9,4S Ranch,33.035,-117.10333333333332,Southern California,Rancho Santa Fe Fire Protection,Active,37630,13773,2,2015,2015,"Ceanothus, Desert; Chamise",,shrub,4,4
+20,Alder,39.64888888888889,-122.73055555555555,Northern California,Mendocino NF,Active,9583,3763,4,2017,2019,Douglas-Fir,,tree,0,0
+21,Alder 1000 hr,39.64888888888889,-122.73055555555555,Northern California,Mendocino NF,Active,9583,3763,15,2017,2026,,1000-Hour,,0,0
+22,Alder 19,39.6575,-122.71861111111112,Northern California,Mendocino NF,Active,9562,3804,14,2019,2020,"Douglas-Fir; Pine, Ponderosa",1000-Hour,tree,4,4
+24,Alder New,39.64888888888889,-122.73055555555555,Northern California,Mendocino NF,Active,9583,3763,9,2017,2020,Douglas-Fir,,tree,0,0
+25,Alderpoint,40.186388888888885,-123.58944444444444,Northern California,PGE - NOCC,Active,6973,2002,106,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Coyotebrush; Manzanita, Greenleaf",,shrub,4,4
+26,Ammon,40.83527777777778,-123.59972222222221,Northern California,Six Rivers NF,Active,4644,2668,197,2015,2025,"Douglas-Fir, Coastal",1000-Hour,tree,0,0
+31,Anza,33.5558,-116.7062,Southern California,CAL FIRE Riverside Unit,Active,36006,15391,150,2015,2026,"Buckwheat, Eastern Mojave; Chamise; Manzanita, Eastwoods; Red Shank",,shrub,0,0
+32,"Apperson Manzanita, Whiteleaf New",36.95638888888889,-119.2075,Southern California,Sierra NF,Active,21937,10974,30,2015,2026,"Manzanita, Whiteleaf",,shrub,0,0
+33,"Apperson Manzanita, Whiteleaf Old",36.95638888888889,-119.2075,Southern California,Sierra NF,Active,21937,10974,78,2015,2026,"Manzanita, Whiteleaf",,shrub,0,0
+55,Bald Mountain Lookout,38.90555555555555,-120.70833333333334,Northern California,Eldorado NF,Active,13799,8572,77,2016,2026,"Manzanita, Greenleaf",,shrub,0,0
+62,"Barnes Manzanita, Whiteleaf New",37.01222222222222,-119.23527777777778,Southern California,Sierra NF,Active,21715,10945,31,2015,2026,"Manzanita, Whiteleaf",,shrub,0,0
+63,"Barnes Manzanita, Whiteleaf Old",37.01222222222222,-119.23527777777778,Southern California,Sierra NF,Active,21715,10945,78,2015,2026,"Manzanita, Whiteleaf",,shrub,0,0
+64,Barnes Mountain,37.02611111111111,-119.25083333333333,Southern California,PGE-SOCC,Active,21654,10913,4,2020,2020,"Ceanothus, Buckbrush; Manzanita, Whiteleaf",,shrub,0,0
+65,"Barnes Pine, Ponderosa",37.01222222222222,-119.23527777777778,Southern California,Sierra NF,Active,21715,10945,70,2015,2025,"Pine, Ponderosa",,tree,0,0
+67,Basin,40.37777777777778,-121.32694444444444,Northern California,Lassen NF,Active,8033,8310,74,2015,2023,"Fir, Grand; Manzanita, Greenleaf",1000-Hour,shrub; tree,0,0
+77,Big Bar,40.742222222222225,-123.24916666666667,Northern California,Shasta-Trinity NF,Inactive,5255,3507,55,2019,2021,"Manzanita, Whiteleaf; Pine, Ponderosa",1000-Hour,shrub; tree,4,4
+85,Big Trees,39.052499999999995,-120.55527777777777,Northern California,Tahoe NF,Active,13381,9136,61,2017,2026,"Douglas-Fir; Pine, Ponderosa",10-Hour; 100-Hour,tree,0,0
+86,Big Valley,41.065555555555555,-121.21944444444445,Northern California,CAL FIRE Lassen-Modoc Unit,Active,5635,9275,84,2016,2026,"Manzanita, Greenleaf",,shrub,0,0
+89,"Bitter Canyon, Castaic",34.51,-118.5945,Southern California,LA County,Inactive,31240,10574,673,2015,2025,"Chamise; Sage, Black; Sage, Purple; Sagebrush, California",,shrub,0,0
+94,Black Star,33.7535,-117.6688,Southern California,Orange County Fire,Active,34634,12672,546,2015,2026,"Chamise, New Growth; Chamise, Old Growth; Sagebrush, Black; Sagebrush, California",,shrub,4,4
+95,Black Star CNF,33.75472222222222,-117.67083333333333,Southern California,Cleveland NF,Active,34628,12667,20,2022,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+96,Blackberry Hill,37.21083333333333,-121.9538888888889,Northern California,San Jose SU Fire Lab,Active,18957,3424,510,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+101,Blatchley,39.525,-120.32777777777777,Northern California,Tahoe NF,Active,11839,10212,89,2015,2026,"Ceanothus, Snowbrush; Manzanita, Greenleaf; Pine, Ponderosa",1-Hour; 10-Hour; 100-Hour; 1000-Hour; Duff,shrub; tree,0,0
+107,Bloomer Hill - SW Old,39.65416666666667,-121.46277777777777,Northern California,CalFire Butte Unit,Active,10539,7227,65,2015,2026,"Manzanita, Greenleaf",,shrub,0,0
+110,Blue Mountain,41.83861111111111,-120.85305555555556,Northern California,Modoc NF,Active,3114,11003,89,2016,2026,"Manzanita, Greenleaf",,shrub,0,0
+112,Blue Ridge,41.269444444444446,-123.1875,Northern California,Klamath NF,Active,3416,4227,298,2015,2026,"Ceanothus, Snowbrush; Manzanita, Greenleaf; Oak, Huckleberry",,shrub,0,0
+115,Bogard,40.591944444444444,-121.07777777777777,Northern California,Lassen NF,Active,7444,9193,136,2023,2026,"Bitterbrush, Desert; Manzanita, Greenleaf; Pine, Ponderosa",1000-Hour,shrub; tree,0,0
+120,Bonny Doon,37.051111111111105,-122.13777777777779,Northern California,PGE - NOCC,Active,19385,2743,153,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+121,Bottle Rock,38.86,-122.76972222222223,Northern California,PGE - NOCC,Active,12383,2837,191,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+128,Bouquet Canyon,34.4861,-118.4728,Southern California,LA County,Active,31413,10912,182,2015,2025,"Chamise; Sage, Black",,shrub,0,0
+129,Bowman,38.914722222222224,-121.05083333333333,Northern California,PGE - NOCC,Active,13512,7634,54,2020,2026,"Manzanita, Greenleaf",,shrub,0,0
+131,N. Yuba Brandy City,39.53972222222222,-121.02388888888889,Northern California,Tahoe NF,Active,11278,8316,134,2015,2026,Tanoak,100-Hour; 1000-Hour,tree,0,0
+146,"Buckeye Manzanita, Whiteleaf New",37.03361111111111,-119.38527777777779,Southern California,Sierra NF,Active,21531,10537,32,2015,2026,"Manzanita, Whiteleaf",,shrub,0,0
+147,"Buckeye Manzanita, Whiteleaf Old",37.03361111111111,-119.38527777777779,Southern California,Sierra NF,Active,21531,10537,80,2015,2026,"Manzanita, Whiteleaf",,shrub,0,0
+153,Burnside,38.75944444444445,-119.92694444444444,Great Basin,Humboldt-Toiyabe NF,Active,14894,10601,156,2015,2026,"Pine, Ponderosa; Sagebrush, Basin Big",,shrub; tree,0,0
+158,CA-KNP Ash Mountain,36.48916666666667,-118.82722222222222,Southern California,Sequoia-Kings NP,Active,23900,11644,89,2016,2026,,1000-Hour,,4,4
+159,CA-KNP Cedar Grove,36.79194444444444,-118.66111111111111,Southern California,Sequoia-Kings NP,Active,22918,12389,262,2015,2026,"Manzanita, Whiteleaf; Oak, Canyon Live",10-Hour; 1000-Hour,shrub; tree,0,0
+160,CA-KNP Elk Creek,36.51083333333333,-118.80527777777777,Southern California,Sequoia-Kings NP,Active,23837,11727,321,2015,2021,"Chamise, New Growth; Chamise, Old Growth",10-Hour,shrub,0,0
+161,CA-KNP Grant Grove,36.74722222222222,-118.97666666666667,Southern California,Sequoia-Kings NP,Active,22859,11446,306,2015,2026,"Ceanothus, Whitethorn; Fir, White; Manzanita, Greenleaf",10-Hour; 1000-Hour,shrub; tree,0,0
+162,CA-KNP Mineral King,36.46222222222222,-118.63222222222221,Southern California,Sequoia-Kings NP,Active,24135,12181,254,2015,2026,"Ceanothus, Whitethorn; Fir, California Red; Fir, White; Manzanita, Greenleaf",10-Hour; 1000-Hour,shrub; tree,0,0
+163,CA-KNP Red Fir,36.60472222222222,-118.76833333333333,Southern California,Sequoia-Kings NP,Active,23522,11916,274,2015,2026,"Ceanothus, Whitethorn; Fir, California Red; Manzanita, Greenleaf",10-Hour; 1000-Hour,shrub; tree,1,1
+164,CA-KNP Yucca,36.492222222222225,-118.82944444444443,Southern California,Sequoia-Kings NP,Active,23887,11641,191,2021,2026,"Chamise, New Growth; Chamise, Old Growth",10-Hour,shrub,0,0
+180,Cameron,38.66083333333333,-120.96083333333334,Northern California,PGE - NOCC,Active,14495,7636,25,2024,2026,"Manzanita, Greenleaf",,shrub,0,0
+181,Cameron,32.73361111111111,-116.45,Southern California,Cleveland NF,Active,39163,15507,20,2022,2024,"Manzanita, Whiteleaf",,shrub,0,0
+190,Cary Reservoir,41.1075,-121.00194444444445,Northern California,Modoc NF,Active,5641,9899,215,2015,2026,"Manzanita, Greenleaf; Sagebrush, Silver",,shrub,0,0
+197,"Cedarbrook, 1000 hr",37.4266,-119.675,Southern California,Sierra NF,Active,19899,10074,12,2022,2026,,1000-Hour,,0,0
+202,Chabot,37.79361111111111,-122.14305555555556,Northern California,PGE - NOCC,Active,16711,3481,198,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Coyotebrush; Oak, California Live",,shrub; tree,0,0
+204,Chester,40.316111111111105,-121.09388888888888,Northern California,CAL FIRE Lassen-Modoc Unit,Active,8427,8881,46,2017,2023,"Manzanita, Greenleaf",,shrub,4,4
+214,"Circle X, Malibu",34.1108,-118.9373,Southern California,Ventura County FD,Active,32437,9207,158,2015,2024,Chamise,,shrub,0,0
+215,City Creek,34.1883,-117.1778,Southern California,San Bernardino NF,Active,33391,14497,96,2019,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+221,"Clark Motorway, Malibu",34.0844,-118.8625,Southern California,LA County,Active,32587,9406,218,2015,2026,"Ceanothus, Bigpod; Chamise",,shrub,0,0
+222,Clayton Ranch,37.91361111111111,-121.85166666666666,Northern California,CalFire Santa Clara Unit,Active,16508,4418,300,2015,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+224,Clearlake,38.96,-122.6325,Northern California,PGE - NOCC,Active,12133,3318,1,2020,2020,"Manzanita, Greenleaf",,shrub,0,0
+251,Coastal,33.3875,-117.57416666666666,Southern California,Camp Pendleton,Active,36027,12648,50,2024,2025,"Sagebrush, California; Sumac, Laurel",,shrub,0,0
+262,Cold Springs,41.83388888888889,-120.34777777777778,Northern California,Modoc NF,Active,3486,12341,107,2016,2026,"Bitterbrush, Desert",,shrub,0,0
+267,Combined,37.73527777777778,-119.00027777777778,Southern California,Inyo NF,Active,19259,12263,1,2022,2022,"Sagebrush, Mountain Big",,shrub,0,0
+271,Converse,34.189722222222215,-116.89055555555557,Southern California,San Bernardino NF,Active,33578,15353,122,2017,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+280,Corralitos,37.00416666666667,-121.81555555555555,Northern California,CalFire San Mateo- Santa Cruz Unit,Active,19809,3607,94,2015,2026,"Manzanita, Eastwoods",,shrub,0,0
+281,Corralitos New Growth,37.00416666666667,-121.81555555555555,Northern California,CalFire San Mateo- Santa Cruz Unit,Active,19809,3607,69,2015,2026,"Manzanita, Eastwoods",,shrub,0,0
+282,Corralitos Old Growth,37.00416666666667,-121.81555555555555,Northern California,CalFire San Mateo- Santa Cruz Unit,Active,19809,3607,72,2015,2026,"Manzanita, Eastwoods",,shrub,0,0
+283,Cottage RAWS,38.345,-120.22833333333334,Southern California,Stanislaus NF,Active,16176,9374,89,2015,2026,"Manzanita, Greenleaf",,shrub,0,0
+285,Cottonwood BDF,34.288888888888884,-117.3625,Southern California,San Bernardino NF,Active,32901,14032,138,2017,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+287,Cow Mountain,39.12833333333333,-123.10472222222222,Northern California,CalFire Mendocino Unit,Active,11153,2197,219,2015,2022,"Ceanothus, Whitethorn; Chamise; Manzanita, Greenleaf",,shrub,0,0
+288,Cow Mountain 2,39.12722222222222,-123.11999999999999,Northern California,CalFire Mendocino Unit,Active,11145,2154,18,2022,2025,"Ceanothus, Whitethorn; Chamise; Manzanita, Greenleaf",,shrub,5,5
+292,Crane Flat - New,37.749722222222225,-119.80583333333333,Southern California,Yosemite NP,Active,18635,10003,79,2015,2026,"Ceanothus, Whitethorn; Fir, White; Manzanita, Greenleaf; Pine, Sugar",1000-Hour,shrub; tree,4,4
+293,Crane Flat - Old,37.749722222222225,-119.80583333333333,Southern California,Yosemite NP,Active,18635,10003,1,2015,2015,"Manzanita, Greenleaf",,shrub,4,4
+294,Cranston,33.7091,-116.7664,Southern California,San Bernardino NF,Active,35408,15334,75,2019,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+299,Crestview 1000 hour,37.73527777777778,-119.00027777777778,Southern California,Inyo NF,Active,19259,12263,149,2015,2023,"Pine, Ponderosa; Pine, Sierra Lodgepole",1000-Hour,tree,0,0
+300,Crestview sagebrush combined averages,37.73527777777778,-119.00027777777778,Southern California,Inyo NF,Active,19259,12263,51,2015,2023,"Sagebrush, California",,shrub,0,0
+301,Crestview sagebrush new growth,37.73527777777778,-119.00027777777778,Southern California,Inyo NF,Active,19259,12263,51,2015,2023,"Sagebrush, Mountain Big",,shrub,0,0
+302,Crestview sagebrush old growth,37.73527777777778,-119.00027777777778,Southern California,Inyo NF,Active,19259,12263,51,2015,2023,"Sagebrush, Mountain Big",,shrub,0,0
+357,Darling Ridge,38.89083333333333,-120.76472222222222,Northern California,Eldorado NF,Active,13811,8402,51,2019,2026,"Pine, Ponderosa",,tree,4,4
+361,De Sabla,39.87138888888889,-121.61555555555555,Northern California,PGE - NOCC,Active,9642,7026,66,2020,2026,"Manzanita, Greenleaf",,shrub,5,5
+365,Deer Hill,41.56194444444444,-121.1413888888889,Northern California,Modoc NF,Active,3904,9968,215,2015,2026,"Bitterbrush, Desert; Manzanita, Greenleaf; Sagebrush, Silver",,shrub,0,0
+367,Deer Valley-New,39.26444444444444,-122.86944444444444,Northern California,Mendocino NF,Active,10853,2984,20,2015,2018,Douglas-Fir,,tree,3,3
+368,Deer Valley - DF,39.26444444444444,-122.86944444444444,Northern California,Mendocino NF,Active,10853,2984,22,2015,2018,Douglas-Fir,,tree,3,3
+369,Deer Valley 1000hr,39.26444444444444,-122.86944444444444,Northern California,Mendocino NF,Active,10853,2984,17,2015,2018,,1000-Hour,,3,3
+374,Denten Creek,39.779444444444444,-120.59472222222222,Northern California,Plumas NF,Active,10727,9722,198,2015,2026,"Bitterbrush, Desert; Manzanita, Greenleaf; Pine, Ponderosa",100-Hour,shrub; tree,0,0
+375,Descanso-New Growth,32.86555555555556,-116.61777777777777,Southern California,SDG&E,Active,38572,15104,201,2015,2023,Chamise,,shrub,0,0
+376,Descanso-Old Growth,32.86555555555556,-116.61777777777777,Southern California,SDG&E,Active,38572,15104,202,2015,2023,Chamise,,shrub,0,0
+377,DESCANSO STATION,32.856944444444444,-116.62222222222222,Southern California,Cleveland NF,Active,38601,15083,94,2015,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+382,Dog Valley RAWS,39.56388888888888,-120.04944444444445,Great Basin,Humboldt-Toiyabe NF,Active,11897,11013,190,2015,2026,"Manzanita, Greenleaf; Pine, Ponderosa",,shrub; tree,0,0
+386,DOYLE,40.04944444444444,-120.02722222222222,Great Basin,Nevada,Active,10157,11528,109,2015,2026,"Sagebrush, Basin Big",,shrub,0,0
+398,Dutch Flat,39.20666666666667,-120.8411111111111,Northern California,PGE - NOCC,Active,12615,8496,30,2020,2023,"Manzanita, Greenleaf",,shrub,0,0
+399,Eagle Lake,40.465833333333336,-120.75805555555556,Northern California,CAL FIRE Lassen-Modoc Unit,Active,8131,9936,48,2017,2026,"Manzanita, Greenleaf",,shrub,0,0
+407,El Cariso CNF,33.6625,-117.41722222222222,Southern California,Cleveland NF,Active,35138,13348,26,2021,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+409,El Portal - New,37.67972222222222,-119.78472222222221,Southern California,Yosemite NP,Active,18904,9997,26,2024,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+411,Elk Mountain - New Growth,39.264722222222225,-122.93083333333334,Northern California,Mendocino NF,Active,10803,2816,23,2015,2018,"Chamise, New Growth",,shrub,0,0
+412,Elk Mountain - Old Growth,39.264722222222225,-122.93083333333334,Northern California,Mendocino NF,Active,10803,2816,24,2015,2018,"Chamise, Old Growth",,shrub,0,0
+413,Elk Mtn Post Ranch Fire,39.264722222222225,-122.93083333333334,Northern California,Mendocino NF,Active,10803,2816,47,2021,2026,Chamise,,shrub,0,0
+417,Emerald Bay,38.95888888888889,-120.08166666666666,Northern California,CAL FIRE Amador-Eldorado Unit,Active,14062,10358,5,2022,2023,"Oak, Huckleberry",,shrub,4,4
+418,Emerald Bay New Growth,38.95888888888889,-120.08166666666666,Northern California,CAL FIRE Amador-Eldorado Unit,Active,14062,10358,6,2022,2023,"Manzanita, Greenleaf",,shrub,4,4
+419,Emerald Bay Old Growth,38.95888888888889,-120.08166666666666,Northern California,CAL FIRE Amador-Eldorado Unit,Active,14062,10358,1,2023,2023,"Manzanita, Greenleaf",,shrub,4,4
+429,Ewing Reservoir,40.565,-123.16944444444445,Northern California,Shasta-Trinity NF,Active,5953,3533,153,2015,2026,"Manzanita, Greenleaf; Pine, Ponderosa",,shrub; tree,0,0
+442,Fernwood,40.869166666666665,-123.85,Northern California,CalFire Humboldt Unit,Active,4322,2036,83,2015,2026,"Manzanita, Greenleaf",,shrub,0,0
+443,FH-7 - New Growth,39.66444444444444,-122.63805555555557,Northern California,Mendocino NF,Active,9600,4031,20,2015,2026,"Chamise; Chamise, New Growth",,shrub,0,0
+444,FH-7 - Old Growth,39.66444444444444,-122.63805555555557,Northern California,Mendocino NF,Active,9600,4031,8,2015,2019,"Chamise, Old Growth",,shrub,0,0
+462,Foresta - New,37.7025,-119.74472222222222,Southern California,Yosemite NP,Active,18850,10131,42,2024,2026,"Manzanita, Whiteleaf; Pine, Ponderosa",,shrub; tree,0,0
+469,Fouts Springs,39.36833333333333,-122.615,Northern California,PGE - NOCC,Active,10681,3788,74,2021,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+470,Frazier Park,34.828611111111115,-118.93694444444445,Southern California,PGE-SOCC,Active,29840,9848,92,2020,2026,"Ceanothus, Buckbrush; Manzanita, Whiteleaf; Sage, Black",,shrub,0,0
+471,Frazier Park new growth,34.824444444444445,-118.93694444444445,Southern California,Kern County FD,Active,29855,9844,291,2015,2022,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Manzanita, Greenleaf; Sagebrush, Black",,shrub,0,0
+472,Frazier Park old growth,34.824444444444445,-118.93694444444445,Southern California,Kern County FD,Active,29855,9844,291,2015,2022,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Manzanita, Greenleaf; Sagebrush, Black",,shrub,0,0
+475,Friday Ridge,40.88611111111111,-123.60194444444444,Northern California,PGE - NOCC,Active,4460,2716,70,2022,2026,"Coyotebrush; Manzanita, Whiteleaf",,shrub,5,5
+476,Friend Mountain,40.50527777777778,-123.34333333333333,Northern California,Shasta-Trinity NF,Active,6029,3003,390,2018,2026,"Ceanothus, Buckbrush; Manzanita, Greenleaf; Pine, Ponderosa",1000-Hour,shrub; tree,0,0
+480,Gasquet,41.849722222222226,-124.0075,Northern California,Six Rivers NF,Active,694,2679,271,2015,2025,"Manzanita, Greenleaf",1000-Hour,shrub,0,0
+491,Geysers (Sonoma County),38.77583333333333,-122.82083333333333,Northern California,CalFire Lake Napa Unit,Inactive,12645,2609,23,2016,2020,Chamise,,shrub,4,4
+492,Geysers Peak,38.77583333333333,-122.82083333333333,Northern California,CalFire Lake Napa Unit,Active,12645,2609,52,2020,2026,"Chamise; Chamise, New Growth",,shrub,4,4
+495,Gifford,35.10888888888889,-120.07638888888889,Southern California,Los Padres NF,Active,27984,6769,517,2015,2025,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+496,Glendora Motorway,34.1658,-117.8614,Southern California,Angeles NF,Active,33005,12447,402,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Pinyon, Twoneedle",,shrub; tree,0,0
+497,"Glendora Ridge, Glendora",34.1661,-117.861,Southern California,LA County,Active,33004,12449,341,2015,2026,"Ceanothus, Hoaryleaf; Chamise",,shrub,0,0
+504,Gold Creek,34.3219,-118.3178,Southern California,Angeles NF,Active,32118,11228,134,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+510,Gordon,40.75611111111111,-120.89194444444445,Northern California,Lassen NF,Active,6988,9854,66,2023,2026,"Manzanita, Greenleaf; Pine, Ponderosa",,shrub; tree,0,0
+517,Grasshopper,40.76638888888889,-120.73027777777779,Northern California,CAL FIRE Lassen-Modoc Unit,Active,7067,10300,60,2016,2026,"Bitterbrush, Antelope; Bitterbrush, Desert",,shrub,0,0
+523,Greenhorn Yreka,41.7116,-122.6589,Northern California,CalFire Siskiyou Unit,Active,2240,6090,152,2015,2026,"Manzanita, Greenleaf",,shrub,0,0
+524,Groveland - Coal Pit,37.69833333333333,-120.11694444444444,Southern California,Stanislaus NF,Active,18595,9078,246,2015,2026,"Chamise, New Growth; Chamise, Old Growth; Manzanita, Greenleaf; Manzanita, Whiteleaf",,shrub,0,0
+536,Happy Camp,41.446666666666665,-121.17027777777778,Northern California,CAL FIRE Lassen-Modoc Unit,Active,4298,9779,83,2016,2026,"Manzanita, Greenleaf",,shrub,0,0
+537,Happy Canyon,34.665,-119.93944444444445,Southern California,PGE-SOCC,Active,29690,6756,157,2021,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,5,5
+543,Haskell Peak Road Manzanita,39.64972222222222,-120.61805555555554,Northern California,Tahoe NF,Active,11178,9534,10,2015,2016,"Manzanita, Greenleaf",,shrub,0,0
+544,Hastings New Growth,36.38472222222222,-121.55027777777778,Southern California,CAL FIRE San Benito- Monterey Unit,Active,22247,3744,101,2015,2025,"Ceanothus, Buckbrush; Ceanothus, Deerbrush; Chamise; Chamise, New Growth",,shrub,0,0
+545,Hastings Old Growth,36.38472222222222,-121.55027777777778,Southern California,CAL FIRE San Benito- Monterey Unit,Active,22247,3744,220,2015,2025,"Ceanothus, Buckbrush; Ceanothus, Deerbrush; Chamise; Chamise, Old Growth",1-Hour; 10-Hour,shrub,0,0
+548,Hayfork Compound,40.549166666666665,-123.16583333333334,Northern California,Shasta-Trinity NF,Active,6012,3526,127,2015,2026,,1000-Hour,,0,0
+555,Henrys,38.6055,-120.5842,Northern California,Eldorado NF,Active,14974,8629,103,2015,2026,"Manzanita, Greenleaf; Manzanita, Whiteleaf",,shrub,0,0
+579,Hog Hole,39.70916666666667,-123.29944444444445,Northern California,CalFire Mendocino Unit,Active,8915,2279,350,2015,2026,"Chamise; Douglas-Fir; Manzanita, Greenleaf",,shrub; tree,0,0
+581,Hogsback,40.26888888888889,-121.86805555555554,Northern California,Lassen NF,Active,8021,6737,43,2015,2026,"Oak, California Live; Oak, Live",,tree,0,0
+582,Hollister,36.779444444444444,-121.46861111111112,Northern California,PGE - NOCC,Active,20890,4367,152,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,5,5
+584,Holst Rd,38.496944444444445,-122.61333333333333,Northern California,PGE - NOCC,Active,13811,2893,1,2020,2020,"Manzanita, Whiteleaf",,shrub,0,0
+587,Horse,40.58305555555556,-120.53583333333333,Northern California,BLM -Northern CA District,Inactive,7868,10650,6,2019,2019,"Sagebrush, Silver",,shrub,0,0
+596,HWY 20,39.03138888888889,-122.45083333333334,Northern California,PGE - NOCC,Active,12020,3891,153,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+597,HWY 3 & Rush CK,40.78972222222222,-122.8938888888889,Northern California,Shasta-Trinity NF,Active,5363,4508,109,2015,2026,"Manzanita, Greenleaf",,shrub,0,0
+615,Irish Hills,35.25388888888889,-120.7075,Southern California,CAL FIRE San Luis Obispo Unit,Active,26979,5069,496,2015,2026,"Chamise, New Growth; Chamise, Old Growth; Sage, Black; Sagebrush, Black",,shrub,0,0
+619,Jack Flat,36.27222222222222,-118.75583333333333,Southern California,CAL FIRE Tulare Unit,Active,24737,11657,20,2015,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+621,Janesville,40.32916666666667,-120.53555555555555,Northern California,CAL FIRE Lassen-Modoc Unit,Active,8785,10408,61,2016,2026,"Bitterbrush, Antelope; Bitterbrush, Desert",,shrub,0,0
+628,Juanita,41.80166666666666,-122.10972222222222,Northern California,Klamath NF,Active,2331,7635,178,2015,2026,"Manzanita, Greenleaf",1000-Hour,shrub,0,0
+630,Juniper Creek C2B,41.344722222222224,-120.50416666666666,Northern California,BLM -Northern CA District,Active,5141,11460,139,2015,2026,"Sagebrush, California",,shrub,0,0
+632,Kanaka,39.573888888888895,-121.30583333333333,Northern California,PGE - NOCC,Active,10945,7577,1,2020,2020,"Manzanita, Greenleaf",,shrub,0,0
+641,Kenworthy,33.61666666666667,-116.62083333333332,Southern California,San Bernardino NF,Active,35841,15696,94,2019,2024,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+650,"Kinsman Ceanothus, Buckbrush New",37.198,-119.4198,Southern California,Sierra NF,Inactive,20910,10589,32,2015,2020,"Ceanothus, Buckbrush",,shrub,0,0
+651,"Kinsman Ceanothus, Buckbrush Old",37.198,-119.4198,Southern California,Sierra NF,Inactive,20910,10589,62,2015,2020,"Ceanothus, Buckbrush",,shrub,0,0
+652,"Kinsman Manzanita, Whiteleaf New",37.198,-119.4198,Southern California,Sierra NF,Inactive,20910,10589,31,2015,2020,"Manzanita, Whiteleaf",,shrub,0,0
+653,"Kinsman Manzanita, Whiteleaf Old",37.198,-119.4198,Southern California,Sierra NF,Inactive,20910,10589,63,2015,2020,"Manzanita, Whiteleaf",,shrub,0,0
+670,Konocti,38.92027777777778,-122.7213888888889,Northern California,CalFire Lake Napa Unit,Active,12206,3033,71,2016,2026,Chamise,,shrub,0,0
+676,"La Tuna Canyon, Tujunga",34.2466,-118.3028,Southern California,LA County,Active,32402,11207,138,2015,2026,"Chamise; Chamise, New Growth; Sage, Black",,shrub,5,5
+677,Ladder Butte,40.794444444444444,-121.30527777777777,Northern California,Lassen NF,Active,6548,8778,82,2022,2026,"Manzanita, Greenleaf; Pine, Ponderosa",1000-Hour,shrub; tree,0,0
+678,Lady Bug,34.26111111111111,-118.115,Southern California,Angeles NF,Active,32482,11776,188,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+679,Laguna Beach,33.551111111111105,-117.78555555555555,Southern California,Orange County Fire,Active,35287,12152,376,2018,2026,"Buckwheat, Eastern Mojave; Sagebrush, Black; Sagebrush, California; Sumac, Laurel",,shrub,0,0
+680,"Laguna Ridge, Casitas",34.4,-119.3789,Southern California,Ventura County FD,Active,31067,8162,188,2015,2025,Chamise,,shrub,0,0
+681,Lake Hughes,34.5433,-118.5614,Southern California,Angeles NF,Active,31143,10701,315,2015,2023,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+682,Lake Isabella new growth,35.67944444444444,-118.48111111111112,Southern California,Kern County FD,Active,27080,11931,268,2015,2022,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Manzanita, Greenleaf; Sagebrush, Black",,shrub,0,0
+683,Lake Isabella old growth,35.67944444444444,-118.48111111111112,Southern California,Kern County FD,Active,27080,11931,269,2015,2022,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Manzanita, Greenleaf; Sagebrush, Black",,shrub,0,0
+684,Lake Mendocino,39.18055555555555,-122.17222222222223,Northern California,PGE - NOCC,Active,11702,4809,2,2020,2020,"Manzanita, Greenleaf",,shrub,4,4
+685,Lakeshore,40.87083333333334,-122.38972222222223,Northern California,Shasta-Trinity NF,Active,5461,5942,282,2015,2026,"Manzanita, Whiteleaf; Pine, Ponderosa",1000-Hour,shrub; tree,0,0
+688,Las Posadas,38.56444444444444,-122.40361111111112,Northern California,CalFire Lake Napa Unit,Active,13735,3542,69,2016,2026,Chamise,,shrub,0,0
+689,Las Posadas State Forest,38.56444444444444,-122.40361111111112,Northern California,CalFire Lake Napa Unit,Inactive,13735,3542,2,2019,2021,Chamise,,shrub,0,0
+690,Las Trampas,37.81666666666667,-122.04555555555555,Northern California,PGE - NOCC,Active,16705,3778,258,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Coyotebrush; Oak, California Live; Sagebrush, Black; Sagebrush, California",100-Hour; 1000-Hour,shrub; tree,0,0
+691,"Laurel Canyon, Mt. Olympus",34.1247,-118.3689,Southern California,LA County,Active,32797,10905,194,2015,2026,"Chamise; Chamise, New Growth",,shrub,0,0
+716,Lockwood New Growth,35.950833333333335,-121.00083333333333,Southern California,CAL FIRE San Benito- Monterey Unit,Active,24239,4893,49,2015,2020,"Chamise; Manzanita, Eastwoods",,shrub,2,2
+717,Lockwood Old Gorwth,35.950833333333335,-121.00083333333333,Southern California,CAL FIRE San Benito- Monterey Unit,Active,24239,4893,140,2015,2020,"Chamise; Manzanita, Eastwoods",1-Hour; 10-Hour,shrub,2,2
+725,Lopez Lake,35.19333333333333,-120.44500000000001,Southern California,CAL FIRE San Luis Obispo Unit,Active,27399,5775,501,2015,2026,"Chamise, New Growth; Chamise, Old Growth; Sagebrush, California",,shrub,1,1
+726,Los Alamos,34.70138888888889,-118.81861111111111,Southern California,Los Padres NF,Active,30386,10083,483,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+727,Los Gatos,36.20916666666667,-120.51194444444444,Southern California,CDF Fresno-Kings Unit,Active,23682,6547,6,2022,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,5,5
+728,"Los Robles, Thousand Oaks",34.1716,-118.8823,Southern California,Ventura County FD,Active,32257,9424,196,2015,2024,Chamise,,shrub,0,0
+736,Lower Cow Mountain,39.12444444444444,-123.12555555555555,Northern California,PGE - NOCC,Active,11150,2136,236,2019,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Manzanita, Greenleaf",,shrub,4,4
+743,Mad Ridge Fuel Break,40.42916666666667,-123.50055555555555,Northern California,Six Rivers NF,Active,6176,2500,131,2015,2025,"Douglas-Fir, Coastal",1000-Hour,tree,0,0
+744,Mad River,40.46527777777778,-123.53138888888888,Northern California,Six Rivers NF,Active,6022,2456,298,2015,2025,"Douglas-Fir, Coastal; Manzanita, Greenleaf",1000-Hour,shrub; tree,0,0
+749,Manzanita Lake,40.53972222222222,-121.575,Northern California,Lassen NP,Active,7266,7800,5,2024,2024,"Manzanita, Greenleaf",,shrub,5,5
+750,Manzanita Lake,40.546388888888885,-121.57972222222222,Northern California,Lassen NF,Active,7239,7794,107,2021,2026,"Ceanothus, Snowbrush; Fir, Grand; Manzanita, Greenleaf",1000-Hour,shrub; tree,0,0
+752,Markleeville,38.7275,-119.78611111111111,Great Basin,Nevada,Active,15110,10963,18,2015,2016,"Pinyon, Singleleaf",1000-Hour,tree,0,0
+753,Marshall Grade,38.816111111111105,-120.89583333333334,Northern California,CAL FIRE Amador-Eldorado Unit,Active,13984,7967,139,2015,2021,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+756,McCloud,41.2619,-122.0406,Northern California,CalFire Siskiyou Unit,Active,4321,7273,149,2015,2026,"Manzanita, Greenleaf",,shrub,4,4
+757,McCloud (SHF),41.29361111111111,-122.05444444444444,Northern California,Shasta-Trinity NF,Active,4197,7269,340,2015,2026,"Manzanita, Greenleaf; Pine, Ponderosa",1000-Hour,shrub; tree,4,4
+763,McKenzie - Prather,37.17638888888889,-119.58972222222222,Southern California,CDF Fresno-Kings Unit,Active,20867,10086,6,2022,2022,"Ceanothus, Buckbrush; Manzanita, Whiteleaf",,shrub,0,0
+764,McKenzie Ridge,36.7516,-119.0495,Southern California,Sequoia NF,Active,22792,11241,25,2025,2026,"Manzanita, Whiteleaf",,shrub,0,0
+772,Midpines - New Growth,37.56666666666667,-119.92500000000001,Southern California,CAL FIRE Madera-Mariposa-Merced Unit,Active,19212,9497,39,2020,2024,"Chamise; Chamise, New Growth; Manzanita, Whiteleaf",,shrub,3,3
+773,Midpines - Old Growth,37.56666666666667,-119.92500000000001,Southern California,CAL FIRE Madera-Mariposa-Merced Unit,Active,19212,9497,76,2020,2024,"Chamise; Chamise, New Growth; Chamise, Old Growth; Manzanita, Whiteleaf",1000-Hour,shrub,3,3
+775,Mill Canyon,38.448055555555555,-119.49,Great Basin,Humboldt-Toiyabe NF,Active,16332,11532,126,2015,2026,"Pine, Jeffrey; Pine, Ponderosa; Sagebrush, California; Sagebrush, Mountain Big",,shrub; tree,0,0
+788,Miranda,40.21638888888889,-123.78083333333333,Northern California,CalFire Humboldt Unit,Active,6711,1518,81,2015,2026,"Manzanita, Greenleaf",,shrub,0,0
+791,Mitchell Canyon,39.618611111111115,-120.01166666666667,Great Basin,Humboldt-Toiyabe NF,Active,11726,11168,194,2015,2026,"Pine, Ponderosa; Sagebrush, Basin Big",,shrub; tree,0,0
+800,Mosquito Ridge Gorman Ranch,39.01166666666666,-120.75777777777778,Northern California,Tahoe NF,Active,13380,8538,34,2017,2022,"Manzanita, Greenleaf; Pine, Ponderosa",10-Hour; 100-Hour,shrub; tree,0,0
+801,Mount Hamilton,37.34388888888889,-121.60805555555555,Northern California,CalFire Santa Clara Unit,Inactive,18749,4532,26,2017,2020,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+803,Mount Shasta,41.35055555555556,-122.29472222222222,Northern California,Shasta-Trinity NF,Active,3812,6686,351,2015,2026,"Manzanita, Greenleaf; Pine, Ponderosa",1000-Hour,shrub; tree,0,0
+807,Mountain Home Ranch,38.569722222222225,-122.62805555555555,Northern California,PGE - NOCC,Active,13538,2927,58,2021,2026,"Manzanita, Whiteleaf",,shrub,2,2
+808,Mountain Quail,39.64,-120.43527777777778,Northern California,Tahoe NF,Active,11346,10026,47,2015,2019,"Bitterbrush, Desert; Sagebrush, California",1-Hour; 10-Hour; 100-Hour; 1000-Hour; Duff,shrub,0,0
+812,Mt Elizabeth RAWS,38.06305555555555,-120.2475,Southern California,Stanislaus NF,Active,17181,9054,127,2015,2026,,1000-Hour,,0,0
+816,Mt. Baldy Village,34.2338,-117.6639,Southern California,Angeles NF,Active,32895,13091,85,2015,2026,"Manzanita, Bigberry",,shrub,5,5
+817,Mt. Umunhum,37.14,-121.8875,Northern California,San Jose SU Fire Lab,Active,19264,3540,520,2018,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Manzanita, Eastwoods",,shrub,0,0
+818,Mt. Woodson Station,33.00277777777778,-116.96138888888889,Southern California,CAL FIRE San Diego Unit,Active,37843,14175,150,2015,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+821,Mule Ck GS,40.86222222222222,-122.81583333333333,Northern California,Shasta-Trinity NF,Active,5164,4792,263,2015,2026,"Douglas-Fir; Pine, Ponderosa",1000-Hour,tree,0,0
+825,nacimiento,36.0075,-121.45,Southern California,Los Padres NF,Active,23684,3658,559,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",100-Hour,shrub,0,0
+837,Nevada City,39.24861111111111,-121.0286111111111,Northern California,CalFire Nevada-Yuba Unit,Active,12325,8020,225,2015,2026,,1000-Hour,,5,5
+864,Oak Flat,34.47138888888889,-118.91083333333334,Southern California,Los Padres NF,Active,31152,9607,575,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+866,Oak Knoll,41.83861111111111,-122.85027777777778,Northern California,Klamath NF,Active,1639,5716,293,2015,2026,"Ceanothus, Buckbrush; Manzanita, Greenleaf",1000-Hour,shrub,0,0
+867,Oak Run,40.72833333333333,-122.02,Northern California,PGE - NOCC,Active,6254,6790,62,2020,2026,"Manzanita, Greenleaf",,shrub,5,5
+868,Oakhurst,37.418055555555554,-119.62916666666666,Southern California,PGE-SOCC,Active,19963,10196,91,2020,2026,"Ceanothus, Buckbrush; Manzanita, Whiteleaf",,shrub,0,0
+871,Old Camptonville manzanita,39.44888888888889,-121.06027777777777,Northern California,Tahoe NF,Inactive,11579,8128,11,2015,2016,"Manzanita, Whiteleaf",,shrub,0,0
+872,N. Yuba Old Camptonville,39.44888888888889,-121.06027777777777,Northern California,Tahoe NF,Inactive,11579,8128,21,2015,2020,"Manzanita, Whiteleaf; Tanoak",100-Hour; 1000-Hour,shrub; tree,0,0
+873,Old Man CG,40.85333333333333,-122.40777777777778,Northern California,Shasta-Trinity NF,Inactive,5510,5876,22,2015,2017,"Manzanita, Greenleaf",,shrub,0,0
+874,Old Toll Road,38.63333333333333,-122.595,Northern California,PGE - NOCC,Active,13336,3084,141,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+875,Onion Valley,39.26138888888889,-120.65166666666667,Northern California,Tahoe NF,Active,12556,9070,43,2017,2026,"Cedar, Incense; Douglas-Fir; Pine, Ponderosa",10-Hour; 100-Hour,tree,0,0
+877,Oregon House,39.32944444444445,-121.26,Northern California,PGE - NOCC,Active,11861,7463,59,2020,2026,"Manzanita, Greenleaf",,shrub,0,0
+879,Owens Camp,38.7375,-120.2273,Northern California,Eldorado NF,Active,14758,9746,21,2023,2026,"Manzanita, Greenleaf",,shrub,0,0
+881,Painted Cave,34.49805555555556,-119.78916666666666,Southern California,Santa Barbara County FD,Active,30406,7043,26,2020,2020,"Ceanothus, Bigpod; Chamise",,shrub,5,5
+890,Parkfield New Growth,35.96666666666667,-120.47305555555556,Southern California,CAL FIRE San Benito- Monterey Unit,Active,24587,6428,20,2016,2020,"Ceanothus, Deerbrush; Chamise",,shrub,5,5
+891,Parkfield Old Growth,35.96666666666667,-120.47305555555556,Southern California,CAL FIRE San Benito- Monterey Unit,Active,24587,6428,153,2015,2020,"Ceanothus, Deerbrush; Chamise",1-Hour; 10-Hour,shrub,5,5
+892,Parkhill,35.4099,-120.5423,Southern California,CAL FIRE San Luis Obispo Unit,Active,26543,5698,510,2015,2026,"Chamise, New Growth; Chamise, Old Growth; Sage, Black; Sagebrush, Black",,shrub,0,0
+897,Paynes Creek Sportsmans Club,40.30777777777777,-121.81138888888889,Northern California,CalFire Tehama-Glenn Unit,Active,7924,6930,95,2021,2024,"Ceanothus, Buckbrush; Manzanita, Greenleaf",,shrub,0,0
+898,Peach Motorway,34.3555,-118.5348,Southern California,LA County,Active,31842,10615,78,2015,2026,"Chamise; Chamise, New Growth; Sage, Black; Sagebrush, California",,shrub,0,0
+900,Peavine,38.8049,-120.5028,Northern California,Eldorado NF,Active,14314,9045,143,2016,2026,"Ceanothus, Deerbrush; Cedar, Incense; Manzanita, Greenleaf; Manzanita, Whiteleaf; Pine, Ponderosa",,shrub; tree,0,0
+902,Pebble Beach New Growth,36.59111111111111,-121.9363888888889,Southern California,CAL FIRE San Benito- Monterey Unit,Active,21199,2849,46,2015,2020,"Manzanita, Eastwoods",,shrub,0,0
+903,Pebble Beach Old Growth,36.59111111111111,-121.9363888888889,Southern California,CAL FIRE San Benito- Monterey Unit,Active,21199,2849,162,2015,2022,"Manzanita, Eastwoods",1-Hour; 10-Hour,shrub,0,0
+905,Peddler,38.568333333333335,-120.26694444444445,Northern California,Eldorado NF,Active,15340,9476,204,2015,2021,"Ceanothus, Whitethorn; Chinquapin, Bush; Manzanita, Greenleaf; Manzanita, Pinemat; Oak, Huckleberry",1000-Hour,shrub,0,0
+913,Pike County,39.50361111111111,-121.21222222222222,Northern California,Plumas NF,Active,11269,7765,277,2015,2026,"Manzanita, Greenleaf; Pine, Ponderosa",100-Hour; 1000-Hour,shrub; tree,0,0
+914,Pillsbury,39.433611111111105,-122.9738888888889,Northern California,Mendocino NF,Active,10163,2875,85,2021,2026,"Douglas-Fir; Fir, Subalpine",10-Hour; 1000-Hour,tree,0,0
+915,Pine Acres,38.39055555555556,-120.6325,Southern California,PGE-SOCC,Active,15715,8289,59,2020,2026,"Manzanita, Greenleaf",,shrub,0,0
+916,Pine Cove,33.72166666666667,-116.7225,Southern California,CAL FIRE Riverside Unit,Active,35392,15476,200,2015,2026,"Buckwheat, Eastern Mojave; Chamise; Manzanita, Eastwoods",,shrub,0,0
+918,Pine Flat,38.76083333333333,-122.75777777777778,Northern California,PGE - NOCC,Active,12749,2767,186,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+925,Pit River,41.235,-120.40333333333334,Northern California,Modoc NF,Active,5608,11626,123,2015,2026,"Sagebrush, Silver",,shrub,0,0
+926,Placerita Canyon,34.3752,-118.4389,Southern California,LA County,Inactive,31839,10916,34,2015,2016,Chamise,,shrub,0,0
+940,Pollock Pines,38.76277777777778,-120.66861111111112,Northern California,PGE - NOCC,Active,14344,8545,67,2020,2026,"Manzanita, Greenleaf",,shrub,0,0
+942,ponderosa,35.998333333333335,-121.38527777777779,Southern California,Los Padres NF,Active,23768,3834,364,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+943,"Ponderosa Basin Ceanothus, Buckbrush New",37.476111111111116,-119.75972222222222,Southern California,Sierra NF,Active,19659,9880,39,2016,2025,"Ceanothus, Buckbrush",,shrub,0,0
+944,"Ponderosa Basin Ceanothus, Buckbrush Old",37.476111111111116,-119.75972222222222,Southern California,Sierra NF,Active,19659,9880,73,2016,2025,"Ceanothus, Buckbrush",,shrub,0,0
+945,"Ponderosa Basin Manzanita, Whiteleaf New",37.476111111111116,-119.75972222222222,Southern California,Sierra NF,Active,19659,9880,40,2016,2025,"Manzanita, Whiteleaf",,shrub,0,0
+946,"Ponderosa Basin Manzanita, Whiteleaf Old",37.476111111111116,-119.75972222222222,Southern California,Sierra NF,Active,19659,9880,74,2016,2025,"Manzanita, Whiteleaf",,shrub,0,0
+947,Poonkinney Ridge,39.731388888888894,-123.31638888888888,Northern California,PGE - NOCC,Active,8822,2256,175,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Manzanita, Greenleaf",,shrub,0,0
+949,Posta Mountain,32.78444444444444,-116.4,Southern California,SDG&E,Active,39012,15699,122,2015,2017,"Chamise, New Growth; Chamise, Old Growth",,shrub,5,5
+950,Potrero Station,32.62416666666667,-116.565,Southern California,CAL FIRE San Diego Unit,Active,39484,15071,226,2015,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,2,2
+951,Pozo,35.35777777777778,-120.22972222222222,Southern California,PGE-SOCC,Active,26970,6556,162,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+952,Prattville,40.20138888888889,-121.14722222222223,Northern California,Lassen NF,Active,8801,8624,29,2022,2026,"Fir, Grand; Fir, White; Manzanita, Greenleaf",1000-Hour,shrub; tree,4,4
+955,Priest Grade,37.81222222222222,-120.2675,Southern California,PGE-SOCC,Active,18073,8761,173,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+957,Pulgas,37.48861111111111,-122.31888888888888,Northern California,CalFire San Mateo- Santa Cruz Unit,Active,17668,2678,95,2015,2026,Coyotebrush,,shrub,0,0
+958,Quail Hollow Ranch,37.086111111111116,-122.06694444444445,Northern California,CalFire San Mateo- Santa Cruz Unit,Active,19315,2979,319,2018,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Manzanita, Eastwoods",,shrub,0,0
+959,Quartz Hill,41.599444444444444,-122.94388888888889,Northern California,Klamath NF,Active,2423,5219,271,2015,2026,"Mahogany, Curl-Leaf Mountain; Manzanita, Whiteleaf; Oak, Interior Live",,shrub; tree,0,0
+960,Quartz Hill New Growth,40.63611111111111,-122.42194444444445,Northern California,CalFire Shasta-Trinity Unit,Inactive,6279,5616,20,2018,2021,"Manzanita, Whiteleaf",,shrub,0,0
+961,Quartz Hill,40.63583333333333,-122.42194444444445,Northern California,CalFire Shasta-Trinity Unit,Active,6280,5615,87,2018,2026,"Manzanita, Whiteleaf",,shrub,0,0
+962,Quincy RD,39.973333333333336,-120.94194444444445,Northern California,Plumas NF,Active,9774,8961,218,2015,2026,"Douglas-Fir; Manzanita, Whiteleaf",1000-Hour,shrub; tree,0,0
+963,R Wild Horse Ranch,40.31194444444444,-122.79138888888889,Northern California,CalFire Tehama-Glenn Unit,Active,7157,4286,72,2021,2026,Chamise,,shrub,4,4
+966,Rainbow Camp,33.4274,-117.1184,Southern California,CAL FIRE San Diego Unit,Active,36195,14049,240,2015,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+974,Ravendale C2D,40.731388888888894,-120.31611111111111,Northern California,BLM -Northern CA District,Active,7488,11384,137,2015,2026,"Sagebrush, Basin Big; Sagebrush, California",,shrub,4,4
+975,Reader Ranch,39.30277777777778,-121.10972222222222,Northern California,CalFire Nevada-Yuba Unit,Active,12069,7850,447,2015,2026,"Manzanita, Whiteleaf; Oak, California Live",,shrub; tree,0,0
+978,Red Cap Manzanita,41.21805555555556,-123.53083333333333,Northern California,Six Rivers NF,Active,3330,3260,186,2015,2025,"Manzanita, Greenleaf",1000-Hour,shrub,4,4
+992,Reyes Creek,34.67833333333333,-119.30972222222222,Southern California,Los Padres NF,Active,30112,8618,534,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1000,RMV,33.5,-117.51666666666667,Southern California,Orange County Fire,Active,35659,12915,512,2015,2026,"Chamise, New Growth; Chamise, Old Growth; Sage, Purple; Sumac, Laurel",,shrub,0,0
+1004,Rock Creek,37.55138888888889,-118.66722222222222,Southern California,Inyo NF,Active,20157,13042,3,2024,2024,"Sagebrush, California",1000-Hour,shrub,0,0
+1010,Rollins Reservoir,39.152499999999996,-120.92333333333333,Northern California,PGE - NOCC,Active,12749,8217,69,2020,2026,"Manzanita, Greenleaf",,shrub,0,0
+1022,Rose Valley,34.550555555555555,-119.1763888888889,Southern California,Los Padres NF,Active,30672,8895,517,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1028,Sagehen,39.44638888888888,-120.21888888888888,Northern California,Tahoe NF,Active,12201,10437,83,2015,2017,"Bitterbrush, Desert; Ceanothus, Deerbrush; Manzanita, Greenleaf; Sagebrush, California",100-Hour; 1000-Hour; Duff,shrub,0,0
+1029,"Saginaw Pine, Ponderosa",37.198,-119.4198,Southern California,Sierra NF,Inactive,20910,10589,31,2015,2020,"Pine, Ponderosa",,tree,0,0
+1030,Sailor Flat,39.180277777777775,-120.50305555555556,Northern California,Tahoe NF,Active,12957,9402,36,2017,2026,"Cedar, Incense; Fir, California Red",10-Hour; 100-Hour,tree,0,0
+1031,Salmon Falls,38.78722222222222,-121.04138888888889,Northern California,CAL FIRE Amador-Eldorado Unit,Active,13979,7536,50,2021,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1033,San Jacinto,33.79388888888889,-116.92611111111111,Southern California,CAL FIRE Riverside Unit,Active,34993,14925,78,2016,2026,"Brittlebrush; Buckwheat, Eastern Mojave; Chamise; Sagebrush, Black",,shrub,0,0
+1034,San Marcos,34.511944444444445,-119.80555555555556,Southern California,Los Padres NF,Active,30344,7008,511,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1041,Saratoga Summit,37.245,-122.1103,Northern California,CalFire San Mateo- Santa Cruz Unit,Active,18710,3017,227,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1042,Sardine,39.51305555555555,-120.165,Northern California,Tahoe NF,Active,11998,10648,62,2015,2019,"Bitterbrush, Desert; Ceanothus, Snowbrush; Manzanita, Greenleaf; Sagebrush, California",1-Hour; 10-Hour; 100-Hour; 1000-Hour; Duff,shrub,0,0
+1051,SCE-Angeles Forest Hwy,34.425,-118.08944444444444,Southern California,SCE,Active,31905,11993,179,2019,2026,Chamise,,shrub,5,5
+1052,SCE-Anza,33.54833333333333,-116.71777777777778,Southern California,SCE,Inactive,36025,15350,88,2019,2023,Chamise,,shrub,0,0
+1053,SCE-Banning,33.90555555555555,-116.88138888888888,Southern California,SCE,Active,34617,15149,177,2019,2026,Chamise,,shrub,0,0
+1054,SCE-Big Creek,37.191111111111105,-119.28027777777778,Southern California,SCE,Active,21035,10979,68,2020,2026,"Manzanita, Whiteleaf",,shrub,0,0
+1055,SCE-Bishop Keoughs Hot Springs,37.260555555555555,-118.36722222222221,Southern California,SCE,Active,21419,13639,176,2019,2026,"Sagebrush, Mountain Big",,shrub,0,0
+1056,SCE-Bridgeport,38.12555555555556,-119.18166666666667,Southern California,SCE,Active,17717,12102,155,2019,2026,"Sagebrush, Mountain Big",,shrub,4,4
+1057,SCE-Highway 168,37.14805555555556,-119.26611111111112,Southern California,SCE,Active,21201,10980,259,2020,2026,"Ceanothus, Whitethorn; Manzanita, Greenleaf",,shrub,0,0
+1058,SCE-Hwy 74,33.70638888888889,-116.75527777777778,Southern California,SCE,Active,35425,15365,89,2023,2026,Chamise,,shrub,1,1
+1059,SCE-Lamb Canyon,33.90555555555555,-116.99888888888889,Southern California,SCE,Active,34539,14799,300,2019,2026,"Chamise; Sage, Black",,shrub,0,0
+1060,SCE-Lee Vining June Lake,37.86361111111111,-119.08805555555556,Southern California,SCE,Active,18732,12130,158,2019,2026,"Sagebrush, Mountain Big",,shrub,4,4
+1061,SCE-Lincoln Crest,34.58527777777778,-118.30416666666666,Southern California,SCE,Active,31173,11497,180,2019,2026,Chamise,,shrub,2,2
+1062,SCE-Mammoth Airport,37.62027777777778,-118.84083333333332,Southern California,SCE,Active,19787,12611,160,2019,2026,"Sagebrush, Mountain Big",,shrub,4,4
+1063,SCE-Mt. Emma,34.48083333333334,-118.06972222222223,Southern California,SCE,Active,31717,12099,179,2019,2026,Chamise,,shrub,0,0
+1064,SCE-Sedco Hills,33.64138888888889,-117.23944444444444,Southern California,SCE,Active,35336,13863,357,2019,2026,"Ceanothus, Hoaryleaf; Chamise",,shrub,0,0
+1065,SCE-Shaver Lake,37.103611111111114,-119.30722222222222,Southern California,SCE,Active,21333,10823,260,2020,2026,"Ceanothus, Whitethorn; Manzanita, Greenleaf",,shrub,0,0
+1066,SCE-Spunky Canyon,34.58527777777778,-118.36027777777777,Southern California,SCE,Active,31134,11331,179,2019,2026,Chamise,,shrub,4,4
+1067,SCE-Tollhouse,37.037,-119.3865,Southern California,SCE,Active,21517,10537,284,2020,2026,"Ceanothus, Buckbrush; Manzanita, Whiteleaf",,shrub,5,5
+1069,"Schueren Road, Malibu",34.0788,-118.6448,Southern California,LA County,Inactive,32765,10046,166,2015,2024,Chamise,,shrub,0,0
+1082,Shasta Dam,40.69361111111111,-122.42722222222223,Northern California,PGE - NOCC,Active,6069,5660,63,2020,2026,"Manzanita, Greenleaf",,shrub,0,0
+1085,Shinar Saddle,41.848333333333336,-123.33611111111111,Northern California,Klamath NF,Active,1228,4445,250,2015,2026,"Ceanothus, Buckbrush; Ceanothus, Deerbrush; Manzanita, Greenleaf; Manzanita, Whiteleaf",1000-Hour,shrub,5,5
+1087,Shingletown,40.52722222222222,-121.91000000000001,Northern California,PGE - NOCC,Active,7060,6884,56,2020,2026,"Manzanita, Greenleaf",,shrub,0,0
+1096,Silver Fork,38.7158,-120.22,Northern California,Eldorado NF,Active,14841,9746,74,2015,2021,"Manzanita, Greenleaf",,shrub,0,0
+1099,"Sisar Canyon, Upper Ojai Valley",34.4475,-119.1353,Southern California,Ventura County FD,Inactive,31075,8923,58,2015,2017,Chamise,,shrub,1,1
+1102,Six Shooter,41.71944444444445,-121.71194444444444,Northern California,Klamath NF,Active,2921,8607,282,2015,2026,"Bitterbrush, Desert; Sagebrush, Black",1000-Hour,shrub,0,0
+1116,Smith Ranch,36.54472222222222,-121.16083333333334,Southern California,CAL FIRE San Benito- Monterey Unit,Active,21975,5013,321,2015,2025,"Chamise; Chamise, New Growth; Chamise, Old Growth",1-Hour; 10-Hour,shrub,0,0
+1137,SO,38.93222222222222,-119.97194444444445,Northern California,Lake Tahoe Basin M.U.,Active,14237,10637,135,2015,2026,"Bitterbrush, Desert; Fir, California Red; Fir, White; Pine, Ponderosa; Sagebrush, Little; Sagebrush, Silver",,shrub; tree,5,5
+1140,Sonora,38.00333333333333,-120.35166666666666,Southern California,CAL FIRE Toulumne-Calaveras Unit,Active,17321,8706,370,2015,2025,"Chamise; Chamise, New Growth; Chamise, Old Growth; Huckleberry, Thinleaf; Manzanita, Whiteleaf",,shrub,0,0
+1168,ST RTE 35 & 92,37.48722222222222,-122.36416666666666,Northern California,CalFire San Mateo- Santa Cruz Unit,Active,17637,2549,90,2015,2026,Coyotebrush,,shrub,0,0
+1169,Stampede,39.472500000000004,-120.09805555555555,Northern California,Tahoe NF,Active,12193,10794,117,2015,2025,"Bitterbrush, Antelope; Bitterbrush, Desert; Manzanita, Greenleaf; Manzanita, Pinemat; Pine, Ponderosa; Sagebrush, California",100-Hour; 1000-Hour; Duff,shrub; tree,0,0
+1170,Station 14 New Growth,40.9125,-121.63333333333334,Northern California,CalFire Shasta-Trinity Unit,Inactive,5881,8013,42,2015,2021,"Manzanita, Whiteleaf",,shrub,0,0
+1171,Station 14,40.91277777777778,-121.63333333333334,Northern California,CalFire Shasta-Trinity Unit,Active,5880,8013,175,2015,2026,"Manzanita, Whiteleaf",1000-Hour,shrub,0,0
+1172,Station 60 New Growth,40.751666666666665,-122.90416666666667,Northern California,CalFire Shasta-Trinity Unit,Inactive,5492,4441,39,2015,2021,"Manzanita, Greenleaf",,shrub,0,0
+1173,Station 60,40.75194444444445,-122.90416666666667,Northern California,CalFire Shasta-Trinity Unit,Active,5491,4441,178,2015,2026,"Manzanita, Greenleaf",1000-Hour,shrub,0,0
+1184,TGU Elk Creek,39.4437,-122.4817,Northern California,CalFire Tehama-Glenn Unit,Active,10515,4230,199,2015,2026,"Chamise; Manzanita, Greenleaf",,shrub,4,4
+1187,Strawberry,33.708333333333336,-116.77083333333333,Southern California,San Bernardino NF,Active,35408,15320,112,2015,2018,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1188,"Stunt Road, Calabasas",34.1011,-118.655,Southern California,LA County,Active,32677,10036,195,2015,2026,Chamise,,shrub,0,0
+1189,Succor Flat,39.12388888888889,-120.80388888888889,Northern California,Tahoe NF,Active,12941,8518,75,2017,2026,"Douglas-Fir; Oak, Black; Oak, California Black; Oak, California Live; Pine, Ponderosa",10-Hour; 100-Hour,tree,0,0
+1190,Sugar Hill,41.83527777777778,-120.34861111111111,Northern California,Modoc NF,Active,3481,12340,120,2015,2026,"Sagebrush, Silver",,shrub,0,0
+1193,Sugarloaf (SHF),40.91583333333333,-122.43472222222222,Northern California,Shasta-Trinity NF,Active,5266,5868,295,2015,2026,"Manzanita, Greenleaf; Pine, California Foothill",10-Hour; 100-Hour; 1000-Hour,shrub; tree,0,0
+1197,Summit,37.67166666666667,-119.65722222222223,Southern California,Yosemite NP,Active,19025,10350,14,2024,2026,"Fir, California Red",,tree,0,0
+1198,Summit1 - Archive,38.192499999999995,-120.12305555555555,Southern California,Stanislaus NF,Active,16804,9524,5,2017,2022,"Manzanita, Greenleaf",,shrub,0,0
+1199,Summit2 - Spring Gap,38.16694444444444,-120.11055555555555,Southern California,Stanislaus NF,Active,16905,9535,127,2015,2026,"Manzanita, Greenleaf; Manzanita, Whiteleaf",,shrub,0,0
+1204,Sweetland,39.32694444444445,-121.1111111111111,Northern California,PGE - NOCC,Active,11981,7869,63,2020,2026,"Manzanita, Greenleaf",,shrub,0,0
+1208,Sycamore,34.1927,-117.4312,Southern California,San Bernardino NF,Active,33203,13748,100,2019,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1225,TahoeDonner,39.33972222222222,-120.27333333333333,Northern California,CalFire Nevada-Yuba Unit,Active,12547,10187,233,2015,2026,"Ceanothus, Snowbrush; Manzanita, Greenleaf",,shrub,0,0
+1230,"Tapo Canyon, Simi Valley",34.3063,-118.7103,Southern California,Ventura County FD,Active,31894,10053,182,2015,2024,Chamise,,shrub,0,0
+1234,Tehachapi new growth,35.096944444444446,-118.49111111111111,Southern California,Kern County FD,Active,29186,11392,242,2015,2022,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Sagebrush, Black",,shrub,4,4
+1235,Tehachapi old growth,35.096944444444446,-118.49111111111111,Southern California,Kern County FD,Active,29186,11392,240,2015,2022,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Sagebrush, Black",,shrub,4,4
+1236,Temecula,33.4575,-117.17111111111112,Southern California,CAL FIRE Riverside Unit,Active,36050,13916,215,2015,2026,"Buckwheat, Eastern Mojave; Chamise",,shrub,0,0
+1237,Temescal CNF,33.74805555555556,-117.48138888888889,Southern California,Cleveland NF,Active,34783,13227,24,2022,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1238,Templeton,35.463055555555556,-120.74888888888889,Southern California,PGE-SOCC,Active,26193,5150,171,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1239,Templin Highway,34.5716,-118.6778,Southern California,LA County,Active,30957,10383,216,2015,2026,"Chamise; Sage, Purple",,shrub,0,0
+1247,Throckmorton,37.913333333333334,-122.58,Northern California,Marin Co,Active,15934,2383,86,2016,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,2,2
+1258,Tollhouse,37.04333333333333,-119.4038888888889,Southern California,PGE-SOCC,Active,21482,10493,63,2020,2024,"Ceanothus, Buckbrush; Manzanita, Whiteleaf",,shrub,4,4
+1259,Tonzi Road,38.41138888888889,-120.8863888888889,Northern California,CAL FIRE Amador-Eldorado Unit,Active,15451,7602,192,2015,2023,"Chamise, New Growth; Chamise, Old Growth",,shrub,4,4
+1271,"Trippet Ranch, Topanga",34.0933,-118.5978,Southern California,LA County,Active,32747,10199,381,2015,2026,"Chamise; Sage, Black",,shrub,0,0
+1272,Trough - New Growth,39.35611111111111,-122.64166666666668,Northern California,Mendocino NF,Active,10704,3702,10,2015,2019,"Chamise, New Growth",,shrub,5,5
+1273,Trough - Old Growth,39.35611111111111,-122.64166666666668,Northern California,Mendocino NF,Active,10704,3702,7,2015,2018,"Chamise, Old Growth",,shrub,5,5
+1280,Twin Lakes,38.17333333333333,-119.32583333333334,Great Basin,Humboldt-Toiyabe NF,Active,17443,11741,167,2015,2026,"Pine, Jeffrey; Pine, Ponderosa; Sagebrush, Mountain Big",,shrub; tree,5,5
+1281,Tyler Foote,39.330555555555556,-121.11222222222221,Northern California,CalFire Nevada-Yuba Unit,Active,11967,7870,226,2015,2026,"Manzanita, Greenleaf; Manzanita, Whiteleaf",,shrub,0,0
+1282,Upper Ojai Valley,34.4413,-119.0984,Southern California,Ventura County FD,Active,31124,9026,144,2018,2025,Chamise,,shrub,0,0
+1283,upper oso,34.55416666666667,-119.76722222222222,Southern California,Los Padres NF,Active,30220,7159,490,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1284,USBOR,38.9233,-121.0253,Northern California,CalFire Nevada-Yuba Unit,Active,13500,7713,223,2015,2026,Chamise,,shrub,1,1
+1285,Vallecito,38.102222222222224,-120.4538888888889,Southern California,PGE-SOCC,Active,16888,8513,159,2020,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth; Manzanita, Greenleaf",,shrub,0,0
+1286,Valley,33.338055555555556,-117.31472222222222,Southern California,Camp Pendleton,Active,36386,13386,56,2024,2025,"Sagebrush, California; Sumac, Laurel",,shrub,0,0
+1287,Valley Springs,38.11472222222223,-120.78999999999999,Southern California,CAL FIRE Toulumne-Calaveras Unit,Active,16594,7584,198,2015,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1290,Vista Grande,33.85138888888889,-116.82555555555555,Southern California,San Bernardino NF,Active,34852,15272,86,2019,2022,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1301,Walker,38.5693,-119.4559,Great Basin,Humboldt-Toiyabe NF,Active,15917,11738,73,2015,2026,,100-Hour; 1000-Hour,,0,0
+1302,Walker Ridge,39.0492,-122.4712,Northern California,CalFire Lake Napa Unit,Active,11940,3853,73,2016,2026,Chamise,,shrub,4,4
+1305,Warner Springs Station,33.27166666666667,-116.6388888888889,Southern California,CAL FIRE San Diego Unit,Active,37083,15365,240,2015,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1309,Wawona - New,37.56305555555555,-119.69333333333334,Southern California,Yosemite NP,Active,19392,10148,51,2024,2026,"Cedar, Incense; Manzanita, Whiteleaf; Pine, Ponderosa",,shrub; tree,4,4
+1313,Weaverville New Growth,40.72777777777778,-122.92611111111111,Northern California,CalFire Shasta-Trinity Unit,Inactive,5560,4357,41,2015,2021,"Manzanita, Whiteleaf",,shrub,0,0
+1314,Lance Gulch,40.72833333333333,-122.92611111111111,Northern California,CalFire Shasta-Trinity Unit,Active,5558,4358,109,2015,2026,"Manzanita, Whiteleaf",,shrub,0,0
+1315,Weed Mill Site,41.43527777777778,-122.35722222222222,Northern California,CalFire Siskiyou Unit,Active,3460,6606,149,2015,2026,"Manzanita, Greenleaf",,shrub,0,0
+1321,West Canyon,33.62861111111111,-117.76611111111112,Southern California,City Of Irvine,Active,35019,12276,192,2024,2026,"Buckwheat, Eastern Mojave; Sage, Black; Sagebrush, California; Sumac, Laurel",,shrub,0,0
+1327,Whaleback Mtn,40.617222222222225,-120.87222222222222,Northern California,Lassen NF,Active,7503,9773,27,2015,2017,"Manzanita, Greenleaf",,shrub,0,0
+1329,Whiskeytown,40.65,-122.58333333333333,Northern California,Whiskeytown NRA,Active,6105,5196,22,2024,2025,"Chamise; Chamise, New Growth; Manzanita, Whiteleaf; Pine, Knobcone; Toyon",,shrub; tree,5,5
+1332,White Star,32.64694444444444,-116.31666666666666,Southern California,CAL FIRE San Diego Unit,Active,39566,15843,239,2015,2026,"Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1341,Wolf Creek,38.61,-119.69500000000001,Great Basin,Humboldt-Toiyabe NF,Active,15600,11108,12,2015,2015,"Manzanita, Greenleaf; Pine, Ponderosa",,shrub; tree,0,0
+1343,Woolsey Canyon,34.2325,-118.6659,Southern California,LA County,Inactive,32194,10119,84,2015,2018,Chamise,,shrub,0,0
+1357,Yolla Bolla,40.337500000000006,-123.06555555555555,Northern California,Shasta-Trinity NF,Active,6850,3574,123,2018,2021,"Ceanothus, Buckbrush; Manzanita, Greenleaf; Pine, Ponderosa",1000-Hour,shrub; tree,0,0
+1358,Yosemite Valley,37.721944444444446,-119.60416666666666,Southern California,Yosemite NP,Active,18881,10546,42,2024,2026,"Cedar, Incense; Fir, White; Pine, Ponderosa",,tree,0,0
+1359,Ziegler,40.893055555555556,-123.51805555555555,Northern California,Six Rivers NF,Active,4502,2948,218,2015,2025,Tanoak,1000-Hour,tree,0,0
+1405,S. Yuba White Cloud,39.3194,-120.8421,Northern California,Tahoe NF,Active,12207,8602,130,2023,2026,"Manzanita, Whiteleaf; Pine, Ponderosa",100-Hour; 1000-Hour,shrub; tree,0,0
+1408,Yucaipa - Fletcha,34.0344,-117.0202,Southern California,CAL FIRE San Bernardino Unit,Active,34056,14840,2,2020,2024,Chamise,,shrub,0,0
+1409,SCE-Airport Road,33.3945,-118.397,Southern California,SCE,Active,35421,10187,6,2024,2026,Chamise,,shrub,5,5
+1410,SCE-Eagles Nest,33.3618,-118.4587,Southern California,SCE,Active,35495,9974,6,2024,2026,Chamise,,shrub,5,5
+1411,SCE-Camp Cherry Cove,33.4497,-118.5042,Southern California,SCE,Active,35144,9914,6,2024,2026,Chamise,,shrub,2,2
+1445,Fish Gulch,41.8789,-122.8272,Northern California,Klamath NF,Active,1512,5819,14,2024,2026,"Manzanita, Greenleaf",,shrub,0,0
+1452,Wildwood Canyon SP,34.0225,-116.998,Southern California,CAL FIRE San Bernardino Unit,Active,34114,14897,53,2024,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+1458,Leperron Tanoak,41.2448,-123.5372,Northern California,Six Rivers NF,Active,3229,3272,201,2015,2025,Tanoak,1000-Hour,tree,0,0
+1483,Tanbark Flats Glendora,34.2023,-117.7619,Southern California,LA County,Inactive,32941,12773,30,2024,2025,"Ceanothus, Hoaryleaf; Chamise",,shrub,0,0
+1539,Oak Opening,36.1751,-118.7016,Southern California,Sequoia NF,Active,25128,11728,35,2023,2026,Chamise,,shrub,0,0
+1540,Stage Road,37.3116,-122.3869,Northern California,CalFire San Mateo- Santa Cruz Unit,Active,18250,2306,8,2024,2026,Coyotebrush,,shrub,5,5
+1570,Blue Canyon,39.2774,-120.7078,Northern California,PGE - NOCC,Active,12457,8931,24,2024,2026,"Manzanita, Greenleaf",,shrub,0,0
+1571,Dunlap,36.7475,-119.0549,Southern California,PGE-SOCC,Active,22803,11222,36,2024,2026,"Ceanothus, Buckbrush; Manzanita, Whiteleaf",,shrub,0,0
+1636,Dangermond-Jalama,34.5241,-120.462,Southern California,Santa Barbara County FD,Active,29799,5090,96,2024,2025,"Coyotebrush; Oak, California Live; Sage, Purple; Sagebrush, California",,shrub; tree,0,0
+1637,Dangermond-Cojo,34.5021,-120.4699,Southern California,Santa Barbara County FD,Active,29873,5046,97,2024,2025,"Coyotebrush; Oak, California Live; Sage, Purple; Sagebrush, California",,shrub; tree,0,0
+2165,Quigley Canyon,34.3883,-118.5092,Southern California,LA County,Active,31742,10719,23,2025,2026,Chamise,,shrub,0,0
+2200,Midpines,37.5666,-119.925,Southern California,CAL FIRE Madera-Mariposa-Merced Unit,Active,19212,9497,16,2025,2026,"Chamise; Manzanita, Whiteleaf",1000-Hour,shrub,3,3
+2763,CA-KNP Lookout Point,36.4294,-118.7625,Southern California,Sequoia-Kings NP,Active,24162,11777,34,2025,2026,"Chamise, New Growth; Chamise, Old Growth; Manzanita, Whiteleaf",10-Hour,shrub,0,0
+2923,SCE-Gould Mesa,34.222,-118.1852,Southern California,SCE,Active,32574,11534,31,2025,2026,Chamise,,shrub,2,2
+2924,SCE-Mt. Baldy,34.2198,-117.6691,Southern California,SCE,Active,32942,13064,32,2025,2026,Chamise,,shrub,0,0
+2925,SCE-Rancho Cucamonga,34.1658,-117.5754,Southern California,SCE,Active,33202,13297,32,2025,2026,Chamise,,shrub,0,0
+3023,Ponderosa Basin Mixed Live Sample,37.4761,-119.7598,Southern California,Sierra NF,Active,19659,9880,37,2025,2026,"Ceanothus, Buckbrush; Manzanita, Whiteleaf",,shrub,0,0
+3187,S. Yuba Rattlesnake,39.3287,-120.5337,Northern California,Tahoe NF,Active,12399,9459,20,2025,2026,"Ceanothus, Snowbrush",100-Hour; 1000-Hour,shrub,0,0
+3319,SCE-Hwy 178,35.6959,-118.199,Southern California,SCE,Active,27217,12766,27,2025,2026,"Sagebrush, Mountain Big",,shrub,5,5
+3320,SCE-Sand Canyon,35.1509,-118.318,Southern California,SCE,Active,29112,11946,28,2025,2026,"Sagebrush, Mountain Big",,shrub,0,0
+3321,SCE-State Route 483,35.574,-118.505,Southern California,SCE,Active,27446,11769,28,2025,2026,"Sagebrush, Mountain Big",,shrub,0,0
+3385,Chamise Flat,35.9116,-118.4858,Southern California,Sequoia NF,Active,26235,12121,16,2025,2026,Chamise,,shrub,0,0
+3451,Brush Mountain,40.938,-121.6,Northern California,PGE - NOCC,Active,5814,8128,11,2025,2026,"Manzanita, Greenleaf",,shrub,0,0
+3550,Garland,39.8994,-121.633,Northern California,CalFire Butte Unit,Active,9528,7006,9,2026,2026,"Manzanita, Greenleaf",,shrub,0,0
+3748,Cherry Valley,33.9827,-116.9555,Southern California,CAL FIRE Riverside Unit,Active,34288,14991,40,2025,2026,"Buckwheat, Eastern Mojave; Chamise",,shrub,0,0
+3781,Temescal Valley,33.7563,-117.4988,Southern California,CAL FIRE Riverside Unit,Active,34741,13182,42,2025,2026,"Buckwheat, Eastern Mojave; Chamise",,shrub,0,0
+3979,Bates,34.9546,-119.9088,Southern California,Los Padres NF,Active,28668,7115,21,2026,2026,"Chamise; Chamise, New Growth; Chamise, Old Growth",,shrub,0,0
+4045,San Pedro Mountain,37.9931,-122.5013,Northern California,Marin Co,Active,15710,2685,4,2026,2026,"Chamise, Old Growth",,shrub,0,0
+4078,Big Rock Ridge,38.0815,-122.6142,Northern California,Marin Co,Active,15302,2461,3,2026,2026,"Chamise, Old Growth",,shrub,0,0
+4111,San Geronimo,38.0079,-122.6754,Northern California,Marin Co,Active,15517,2215,4,2026,2026,"Chamise, Old Growth",,shrub,2,2

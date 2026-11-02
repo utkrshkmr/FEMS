@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>FireSET fuel-type EDA</title>
-<meta name="description" content="Interactive dashboard over the FireSET fuel-type EDA for California: LANDFIRE FBFM13/FBFM40 releases, the fuel crosswalk, FEMS reading counts, cross-product matrices and release-to-release change.">
+<meta name="description" content="Exploratory analysis of LANDFIRE fuel models and FEMS fuel-moisture stations in California.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%232a78d6'/%3E%3Cpath d='M4 11h2V7H4zm3 0h2V4H7zm3 0h2V6h-2z' fill='white'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="styles.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
@@ -16,10 +16,14 @@
     <span class="logo" aria-hidden="true"></span>
     <div>
       <div class="title">FireSET fuel-type EDA</div>
-      <div class="subtitle" id="built-from">California · LANDFIRE FBFM13 / FBFM40 × FEMS</div>
+      <div class="subtitle" id="built-from">California · LANDFIRE × FEMS</div>
     </div>
   </div>
-  <nav class="tabs" id="tabs" aria-label="Sections"></nav>
+  <nav class="tabs supertabs" aria-label="Pages">
+    <a href="#landfire" data-tab="landfire">LANDFIRE</a>
+    <a href="#fems" data-tab="fems">FEMS stations</a>
+    <a href="older/">Older</a>
+  </nav>
   <div class="tools">
     <label class="theme-toggle" title="Colour scheme">
       <span class="sr-only">Theme</span>
@@ -33,17 +37,18 @@
 </header>
 
 <main id="main">
-  <section id="loading" class="panel">
-    <p class="muted">Loading catalogue…</p>
-  </section>
+  <section id="loading" class="panel"><p class="muted">Loading catalogue…</p></section>
   <section id="view" hidden></section>
 </main>
 
 <footer class="foot">
-  <span>Built from the FireSET EDA outputs (CSV + SVG only). Every chart is drawn in the browser from the CSV it links to.</span>
-  <span><a href="data/README.md">README</a> · <a href="data/manifest.json">manifest.json</a> · <a href="https://github.com/utkrshkmr/FEMS">source</a></span>
+  <span>Built from the FireSET EDA outputs (CSV + SVG only). Every number on these pages is read from the CSV files published with them.</span>
+  <span><a href="https://github.com/utkrshkmr/FEMS">source</a></span>
 </footer>
 
+<script src="core.js"></script>
+<script src="landfire.js"></script>
+<script src="stations.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

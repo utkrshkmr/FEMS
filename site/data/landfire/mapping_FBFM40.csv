@@ -1,0 +1,46 @@
+code,abbrev,name,group,family,category,decision
+91,NB1,Urban/developed,Non-burnable,NB non-burnable,nonburnable,
+92,NB2,Snow/ice,Non-burnable,NB non-burnable,nonburnable,
+93,NB3,Agriculture,Non-burnable,NB non-burnable,nonburnable,
+98,NB8,Open water,Non-burnable,NB non-burnable,nonburnable,
+99,NB9,Bare ground,Non-burnable,NB non-burnable,nonburnable,
+101,GR1,"Short, sparse dry climate grass",Grass,GR grass,grass,
+102,GR2,"Low load, dry climate grass",Grass,GR grass,grass,
+103,GR3,"Low load, very coarse, humid climate grass",Grass,GR grass,grass,
+104,GR4,"Moderate load, dry climate grass",Grass,GR grass,grass,
+105,GR5,"Low load, humid climate grass",Grass,GR grass,grass,
+106,GR6,"Moderate load, humid climate grass",Grass,GR grass,grass,
+107,GR7,"High load, dry climate grass",Grass,GR grass,grass,
+108,GR8,"High load, very coarse, humid climate grass",Grass,GR grass,grass,
+109,GR9,"Very high load, humid climate grass",Grass,GR grass,grass,
+121,GS1,"Low load, dry climate grass-shrub",Grass-shrub,GS grass-shrub,shrub,yes
+122,GS2,"Moderate load, dry climate grass-shrub",Grass-shrub,GS grass-shrub,shrub,yes
+123,GS3,"Moderate load, humid climate grass-shrub",Grass-shrub,GS grass-shrub,shrub,yes
+124,GS4,"High load, humid climate grass-shrub",Grass-shrub,GS grass-shrub,shrub,yes
+141,SH1,Low load dry climate shrub,Shrub,SH shrub,shrub,
+142,SH2,Moderate load dry climate shrub,Shrub,SH shrub,shrub,
+143,SH3,"Moderate load, humid climate shrub",Shrub,SH shrub,shrub,
+144,SH4,"Low load, humid climate timber-shrub",Shrub,SH shrub,shrub,
+145,SH5,"High load, dry climate shrub",Shrub,SH shrub,shrub,
+146,SH6,"Low load, humid climate shrub",Shrub,SH shrub,shrub,
+147,SH7,"Very high load, dry climate shrub",Shrub,SH shrub,shrub,
+148,SH8,"High load, humid climate shrub",Shrub,SH shrub,shrub,
+149,SH9,"Very high load, humid climate shrub",Shrub,SH shrub,shrub,
+161,TU1,Low load dry climate timber-grass-shrub,Timber-understory,TU timber-understory,tree,yes
+162,TU2,"Moderate load, humid climate timber-shrub",Timber-understory,TU timber-understory,tree,yes
+163,TU3,"Moderate load, humid climate timber-grass-shrub",Timber-understory,TU timber-understory,tree,yes
+164,TU4,Dwarf conifer with understory,Timber-understory,TU timber-understory,tree,yes
+165,TU5,"Very high load, dry climate timber-shrub",Timber-understory,TU timber-understory,tree,yes
+181,TL1,Low load compact conifer litter,Timber litter,TL timber litter,tree,
+182,TL2,Low load broadleaf litter,Timber litter,TL timber litter,tree,
+183,TL3,Moderate load conifer litter,Timber litter,TL timber litter,tree,
+184,TL4,Small downed logs,Timber litter,TL timber litter,tree,
+185,TL5,High load conifer litter,Timber litter,TL timber litter,tree,
+186,TL6,Moderate load broadleaf litter,Timber litter,TL timber litter,tree,
+187,TL7,Large downed logs,Timber litter,TL timber litter,tree,
+188,TL8,Long-needle litter,Timber litter,TL timber litter,tree,
+189,TL9,Very high load broadleaf litter,Timber litter,TL timber litter,tree,
+201,SB1,Low load activity fuel,Slash-blowdown,SB slash-blowdown,slash,yes
+202,SB2,Moderate load activity fuel or low load blowdown,Slash-blowdown,SB slash-blowdown,slash,yes
+203,SB3,High load activity fuel or moderate load blowdown,Slash-blowdown,SB slash-blowdown,slash,yes
+204,SB4,High load blowdown,Slash-blowdown,SB slash-blowdown,slash,yes

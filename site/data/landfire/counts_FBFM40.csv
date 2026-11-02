@@ -1,0 +1,39 @@
+class,code,name,category,kind,LF2016_Remap,LF2022,LF2023,LF2024,LF2025
+NB1,91,Urban/developed,nonburnable,class,23082798,26958914,30222493,27281911,27274775
+NB2,92,Snow/ice,nonburnable,class,45374,45374,45374,45374,45374
+NB3,93,Agriculture,nonburnable,class,20839156,20817998,17960164,18447719,18703608
+NB8,98,Open water,nonburnable,class,7686203,7645909,7647983,7700634,7739684
+NB9,99,Bare ground,nonburnable,class,51371536,52381342,52334283,52442892,52394751
+GR1,101,"Short, sparse dry climate grass",grass,class,45911354,46739451,45735823,9588561,9102962
+GR2,102,"Low load, dry climate grass",grass,class,88041117,76432334,82339447,80061903,78678968
+GR3,103,"Low load, very coarse, humid climate grass",grass,class,464110,3494419,3218302,3267450,2661382
+GR4,104,"Moderate load, dry climate grass",grass,class,1973,1714,1856,4644,3766
+GS1,121,"Low load, dry climate grass-shrub",shrub,class,17135530,21439605,17684684,16495193,16105788
+GS2,122,"Moderate load, dry climate grass-shrub",shrub,class,68978774,51468345,51611900,54730640,57551040
+GS3,123,"Moderate load, humid climate grass-shrub",shrub,class,12744,3531671,3372312,3435350,3430456
+SH1,141,Low load dry climate shrub,shrub,class,2886186,4576278,4919858,40828946,40264037
+SH2,142,Moderate load dry climate shrub,shrub,class,11575000,8677655,9227330,12724255,12197741
+SH3,143,"Moderate load, humid climate shrub",shrub,class,15930,49249,46491,53969,48740
+SH4,144,"Low load, humid climate timber-shrub",shrub,class,106739,14762132,15503819,15187064,17030857
+SH5,145,"High load, dry climate shrub",shrub,class,7173455,17304682,17556441,17286326,17805255
+SH6,146,"Low load, humid climate shrub",shrub,class,17286,5155,7450,6901,4251
+SH7,147,"Very high load, dry climate shrub",shrub,class,9323133,458985,471515,471544,458613
+SH8,148,"High load, humid climate shrub",shrub,class,0,62,0,0,0
+TU1,161,Low load dry climate timber-grass-shrub,tree,class,3438455,7039233,6472257,6830110,4919952
+TU2,162,"Moderate load, humid climate timber-shrub",tree,class,639729,4851796,5692776,5496279,7295094
+TU3,163,"Moderate load, humid climate timber-grass-shrub",tree,class,1016419,1178664,1184988,1198870,1279436
+TU5,165,"Very high load, dry climate timber-shrub",tree,class,48085363,41279163,42090809,41553295,44106733
+TL1,181,Low load compact conifer litter,tree,class,281503,2530535,1196793,1465133,1028019
+TL2,182,Low load broadleaf litter,tree,class,1852559,3102073,3094509,2813371,2510376
+TL3,183,Moderate load conifer litter,tree,class,7394436,8674416,8184898,8238182,7725645
+TL4,184,Small downed logs,tree,class,7204400,4113760,4590410,4525431,4331588
+TL5,185,High load conifer litter,tree,class,876109,6187132,5901262,5930533,5621038
+TL6,186,Moderate load broadleaf litter,tree,class,14555892,8947410,4905899,4969677,4972972
+TL7,187,Large downed logs,tree,class,1790217,1125906,1515389,1471893,1949404
+TL8,188,Long-needle litter,tree,class,7476244,6358438,7418088,7624671,4962434
+TL9,189,Very high load broadleaf litter,tree,class,5987623,3087348,3114077,3083756,3053727
+SB1,201,Low load activity fuel,slash,class,45,4238,4037,3589,1054
+SB2,202,Moderate load activity fuel or low load blowdown,slash,class,84488,82924,80597,88248,94641
+SB3,203,High load activity fuel or moderate load blowdown,slash,class,0,4,0,0,153
+nodata,,No data inside California,,nodata,2434,0,0,0,0
+total,,California mask cells,,total,455354314,455354314,455354314,455354314,455354314

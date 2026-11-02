@@ -134,7 +134,7 @@ table.data th.sorted::after { content: " ▾"; color: var(--muted); }
 table.data th.sorted.asc::after { content: " ▴"; }
 table.data td.num, table.data th.num { text-align: right; font-variant-numeric: tabular-nums; }
 table.data tr:hover td { background: var(--surface-2); }
-table.data td.wrap { white-space: normal; min-width: 240px; }
+table.data td.wrap { white-space: normal; min-width: 280px; }
 .tablefoot { font-size: 12px; color: var(--muted); margin-top: 6px; display: flex; gap: 14px; flex-wrap: wrap; }
 
 /* figures */
@@ -180,3 +180,9 @@ details.about:not([open]) summary::before { content: "▸ "; }
   .tile .v { font-size: 22px; }
   .row { grid-template-columns: 1fr; }
 }
+
+/* super tabs, in-page contents, part headings, pinned rows */
+.supertabs a { font-weight: 600; }
+.toc { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; padding: 8px 0 4px; border-bottom: 1px solid var(--border); margin-bottom: 8px; }
+h2.part { font-size: 20px; margin-top: 40px; padding-top: 12px; border-top: 2px solid var(--axis); }
+table.data tr.pinned td { font-weight: 600; background: var(--surface-2); }

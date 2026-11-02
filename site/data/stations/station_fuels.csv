@@ -1,0 +1,850 @@
+site_id,track,fuel_type,readings,first_year,last_year,species,closest_fbfm13,closest_fbfm40,category
+2,dead,1-Hour,5,2015,2019,,n/a,n/a,n/a
+2,dead,10-Hour,5,2015,2019,,n/a,n/a,n/a
+2,dead,100-Hour,4,2015,2019,,n/a,n/a,n/a
+2,dead,1000-Hour,5,2015,2019,,n/a,n/a,n/a
+2,dead,Duff,5,2015,2019,,n/a,n/a,n/a
+3,dead,1-Hour,5,2015,2019,,n/a,n/a,n/a
+3,dead,10-Hour,2,2019,2019,,n/a,n/a,n/a
+3,dead,Duff,5,2015,2019,,n/a,n/a,n/a
+3,live,"Ceanothus, Deerbrush",5,2015,2019,"Ceanothus, Deerbrush",FM6,SH4,shrub
+3,live,"Manzanita, Pinemat",5,2015,2019,"Manzanita, Pinemat",FM5,SH2,shrub
+7,live,"Chinquapin, Bush",11,2015,2016,"Chinquapin, Bush",FM6,SH4,shrub
+8,live,"Manzanita, Whiteleaf",55,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+8,live,"Pine, Ponderosa",42,2020,2026,"Pine, Ponderosa",FM9,TL8,tree
+9,live,"Ceanothus, Desert",1,2015,2015,"Ceanothus, Desert",FM4,SH5,shrub
+9,live,Chamise,1,2015,2015,Chamise,FM4,SH5,shrub
+20,live,Douglas-Fir,4,2017,2019,Douglas-Fir,FM8,TL3,tree
+21,dead,1000-Hour,15,2017,2026,,n/a,n/a,n/a
+22,dead,1000-Hour,5,2019,2020,,n/a,n/a,n/a
+22,live,Douglas-Fir,5,2019,2020,Douglas-Fir,FM8,TL3,tree
+22,live,"Pine, Ponderosa",4,2019,2020,"Pine, Ponderosa",FM9,TL8,tree
+24,live,Douglas-Fir,9,2017,2020,Douglas-Fir,FM8,TL3,tree
+25,live,Chamise,1,2021,2021,Chamise,FM4,SH5,shrub
+25,live,"Chamise, New Growth",1,2021,2021,Chamise,FM4,SH5,shrub
+25,live,"Chamise, Old Growth",1,2021,2021,Chamise,FM4,SH5,shrub
+25,live,Coyotebrush,50,2020,2026,Coyotebrush,FM6,SH2,shrub
+25,live,"Manzanita, Greenleaf",53,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+26,dead,1000-Hour,90,2015,2025,,n/a,n/a,n/a
+26,live,"Douglas-Fir, Coastal",107,2015,2025,"Douglas-Fir, Coastal",FM8,TL3,tree
+31,live,"Buckwheat, Eastern Mojave",34,2015,2026,"Buckwheat, Eastern Mojave",FM6,SH2,shrub
+31,live,Chamise,66,2015,2026,Chamise,FM4,SH5,shrub
+31,live,"Manzanita, Eastwoods",25,2015,2017,"Manzanita, Eastwoods",FM4,SH5,shrub
+31,live,Red Shank,25,2015,2017,Red Shank,FM4,SH5,shrub
+32,live,"Manzanita, Whiteleaf",30,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+33,live,"Manzanita, Whiteleaf",78,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+55,live,"Manzanita, Greenleaf",77,2016,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+62,live,"Manzanita, Whiteleaf",31,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+63,live,"Manzanita, Whiteleaf",78,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+64,live,"Ceanothus, Buckbrush",2,2020,2020,"Ceanothus, Buckbrush",FM4,SH5,shrub
+64,live,"Manzanita, Whiteleaf",2,2020,2020,"Manzanita, Whiteleaf",FM4,SH5,shrub
+65,live,"Pine, Ponderosa",70,2015,2025,"Pine, Ponderosa",FM9,TL8,tree
+67,dead,1000-Hour,31,2015,2023,,n/a,n/a,n/a
+67,live,"Fir, Grand",33,2015,2023,"Fir, Grand",FM8,TL3,tree
+67,live,"Manzanita, Greenleaf",10,2019,2023,"Manzanita, Greenleaf",FM6,SH4,shrub
+77,dead,1000-Hour,15,2020,2021,,n/a,n/a,n/a
+77,live,"Manzanita, Whiteleaf",15,2020,2021,"Manzanita, Whiteleaf",FM4,SH5,shrub
+77,live,"Pine, Ponderosa",25,2019,2021,"Pine, Ponderosa",FM9,TL8,tree
+85,dead,10-Hour,16,2017,2026,,n/a,n/a,n/a
+85,dead,100-Hour,13,2017,2025,,n/a,n/a,n/a
+85,live,Douglas-Fir,16,2017,2026,Douglas-Fir,FM8,TL3,tree
+85,live,"Pine, Ponderosa",16,2017,2026,"Pine, Ponderosa",FM9,TL8,tree
+86,live,"Manzanita, Greenleaf",84,2016,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+89,live,Chamise,169,2015,2025,Chamise,FM4,SH5,shrub
+89,live,"Sage, Black",168,2015,2025,"Sage, Black",FM6,SH2,shrub
+89,live,"Sage, Purple",168,2015,2025,"Sage, Purple",FM6,SH2,shrub
+89,live,"Sagebrush, California",168,2015,2025,"Sagebrush, California",FM6,SH2,shrub
+94,live,"Chamise, New Growth",138,2015,2026,Chamise,FM4,SH5,shrub
+94,live,"Chamise, Old Growth",137,2015,2026,Chamise,FM4,SH5,shrub
+94,live,"Sagebrush, Black",137,2015,2026,"Sagebrush, Black",FM5,SH1,shrub
+94,live,"Sagebrush, California",134,2015,2026,"Sagebrush, California",FM6,SH2,shrub
+95,live,"Chamise, New Growth",10,2022,2022,Chamise,FM4,SH5,shrub
+95,live,"Chamise, Old Growth",10,2022,2022,Chamise,FM4,SH5,shrub
+96,live,Chamise,170,2015,2026,Chamise,FM4,SH5,shrub
+96,live,"Chamise, New Growth",160,2015,2026,Chamise,FM4,SH5,shrub
+96,live,"Chamise, Old Growth",180,2015,2026,Chamise,FM4,SH5,shrub
+101,dead,1-Hour,6,2015,2019,,n/a,n/a,n/a
+101,dead,10-Hour,7,2015,2019,,n/a,n/a,n/a
+101,dead,100-Hour,21,2015,2026,,n/a,n/a,n/a
+101,dead,1000-Hour,6,2015,2019,,n/a,n/a,n/a
+101,dead,Duff,7,2015,2019,,n/a,n/a,n/a
+101,live,"Ceanothus, Snowbrush",7,2015,2019,"Ceanothus, Snowbrush",FM6,SH4,shrub
+101,live,"Manzanita, Greenleaf",21,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+101,live,"Pine, Ponderosa",14,2024,2026,"Pine, Ponderosa",FM9,TL8,tree
+107,live,"Manzanita, Greenleaf",65,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+110,live,"Manzanita, Greenleaf",89,2016,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+112,live,"Ceanothus, Snowbrush",100,2015,2026,"Ceanothus, Snowbrush",FM6,SH4,shrub
+112,live,"Manzanita, Greenleaf",99,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+112,live,"Oak, Huckleberry",99,2015,2026,"Oak, Huckleberry",FM6,SH4,shrub
+115,dead,1000-Hour,34,2023,2026,,n/a,n/a,n/a
+115,live,"Bitterbrush, Desert",34,2023,2026,"Bitterbrush, Desert",FM6,GS2,shrub
+115,live,"Manzanita, Greenleaf",34,2023,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+115,live,"Pine, Ponderosa",34,2023,2026,"Pine, Ponderosa",FM9,TL8,tree
+120,live,Chamise,57,2020,2026,Chamise,FM4,SH5,shrub
+120,live,"Chamise, New Growth",49,2021,2026,Chamise,FM4,SH5,shrub
+120,live,"Chamise, Old Growth",47,2021,2026,Chamise,FM4,SH5,shrub
+121,live,Chamise,65,2020,2026,Chamise,FM4,SH5,shrub
+121,live,"Chamise, New Growth",63,2020,2026,Chamise,FM4,SH5,shrub
+121,live,"Chamise, Old Growth",63,2020,2026,Chamise,FM4,SH5,shrub
+128,live,Chamise,179,2015,2025,Chamise,FM4,SH5,shrub
+128,live,"Sage, Black",3,2017,2020,"Sage, Black",FM6,SH2,shrub
+129,live,"Manzanita, Greenleaf",54,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+131,dead,100-Hour,41,2020,2026,,n/a,n/a,n/a
+131,dead,1000-Hour,41,2020,2026,,n/a,n/a,n/a
+131,live,Tanoak,52,2015,2026,Tanoak,FM9,TL6,tree
+146,live,"Manzanita, Whiteleaf",32,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+147,live,"Manzanita, Whiteleaf",80,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+153,live,"Pine, Ponderosa",79,2015,2026,"Pine, Ponderosa",FM9,TL8,tree
+153,live,"Sagebrush, Basin Big",77,2015,2026,"Sagebrush, Basin Big",FM6,GS2,shrub
+158,dead,1000-Hour,89,2016,2026,,n/a,n/a,n/a
+159,dead,10-Hour,63,2015,2026,,n/a,n/a,n/a
+159,dead,1000-Hour,71,2015,2026,,n/a,n/a,n/a
+159,live,"Manzanita, Whiteleaf",64,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+159,live,"Oak, Canyon Live",64,2015,2026,"Oak, Canyon Live",FM9,TL6,tree
+160,dead,10-Hour,105,2015,2021,,n/a,n/a,n/a
+160,live,"Chamise, New Growth",108,2015,2021,Chamise,FM4,SH5,shrub
+160,live,"Chamise, Old Growth",108,2015,2021,Chamise,FM4,SH5,shrub
+161,dead,10-Hour,71,2015,2026,,n/a,n/a,n/a
+161,dead,1000-Hour,76,2015,2026,,n/a,n/a,n/a
+161,live,"Ceanothus, Whitethorn",75,2015,2026,"Ceanothus, Whitethorn",FM6,SH4,shrub
+161,live,"Fir, White",73,2015,2026,"Fir, White",FM8,TL3,tree
+161,live,"Manzanita, Greenleaf",11,2024,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+162,dead,10-Hour,57,2015,2026,,n/a,n/a,n/a
+162,dead,1000-Hour,63,2015,2026,,n/a,n/a,n/a
+162,live,"Ceanothus, Whitethorn",63,2015,2026,"Ceanothus, Whitethorn",FM6,SH4,shrub
+162,live,"Fir, California Red",44,2015,2022,"Fir, California Red",FM8,TL3,tree
+162,live,"Fir, White",19,2023,2026,"Fir, White",FM8,TL3,tree
+162,live,"Manzanita, Greenleaf",8,2025,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+163,dead,10-Hour,58,2015,2026,,n/a,n/a,n/a
+163,dead,1000-Hour,70,2015,2026,,n/a,n/a,n/a
+163,live,"Ceanothus, Whitethorn",67,2015,2026,"Ceanothus, Whitethorn",FM6,SH4,shrub
+163,live,"Fir, California Red",67,2015,2026,"Fir, California Red",FM8,TL3,tree
+163,live,"Manzanita, Greenleaf",12,2025,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+164,dead,10-Hour,59,2021,2026,,n/a,n/a,n/a
+164,live,"Chamise, New Growth",66,2021,2026,Chamise,FM4,SH5,shrub
+164,live,"Chamise, Old Growth",66,2021,2026,Chamise,FM4,SH5,shrub
+180,live,"Manzanita, Greenleaf",25,2024,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+181,live,"Manzanita, Whiteleaf",20,2022,2024,"Manzanita, Whiteleaf",FM4,SH5,shrub
+190,live,"Manzanita, Greenleaf",108,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+190,live,"Sagebrush, Silver",107,2015,2026,"Sagebrush, Silver",FM6,GS2,shrub
+197,dead,1000-Hour,12,2022,2026,,n/a,n/a,n/a
+202,live,Chamise,63,2020,2026,Chamise,FM4,SH5,shrub
+202,live,"Chamise, New Growth",48,2020,2026,Chamise,FM4,SH5,shrub
+202,live,"Chamise, Old Growth",48,2020,2026,Chamise,FM4,SH5,shrub
+202,live,Coyotebrush,9,2020,2022,Coyotebrush,FM6,SH2,shrub
+202,live,"Oak, California Live",30,2020,2026,"Oak, California Live",FM9,TL6,tree
+204,live,"Manzanita, Greenleaf",46,2017,2023,"Manzanita, Greenleaf",FM6,SH4,shrub
+214,live,Chamise,158,2015,2024,Chamise,FM4,SH5,shrub
+215,live,"Chamise, New Growth",48,2019,2022,Chamise,FM4,SH5,shrub
+215,live,"Chamise, Old Growth",48,2019,2022,Chamise,FM4,SH5,shrub
+221,live,"Ceanothus, Bigpod",109,2015,2026,"Ceanothus, Bigpod",FM4,SH5,shrub
+221,live,Chamise,109,2015,2026,Chamise,FM4,SH5,shrub
+222,live,"Chamise, New Growth",131,2015,2026,Chamise,FM4,SH5,shrub
+222,live,"Chamise, Old Growth",169,2015,2026,Chamise,FM4,SH5,shrub
+224,live,"Manzanita, Greenleaf",1,2020,2020,"Manzanita, Greenleaf",FM6,SH4,shrub
+251,live,"Sagebrush, California",25,2024,2025,"Sagebrush, California",FM6,SH2,shrub
+251,live,"Sumac, Laurel",25,2024,2025,"Sumac, Laurel",FM4,SH5,shrub
+262,live,"Bitterbrush, Desert",107,2016,2026,"Bitterbrush, Desert",FM6,GS2,shrub
+267,live,"Sagebrush, Mountain Big",1,2022,2022,"Sagebrush, Mountain Big",FM6,GS2,shrub
+271,live,"Chamise, New Growth",61,2017,2022,Chamise,FM4,SH5,shrub
+271,live,"Chamise, Old Growth",61,2017,2022,Chamise,FM4,SH5,shrub
+280,live,"Manzanita, Eastwoods",94,2015,2026,"Manzanita, Eastwoods",FM4,SH5,shrub
+281,live,"Manzanita, Eastwoods",69,2015,2026,"Manzanita, Eastwoods",FM4,SH5,shrub
+282,live,"Manzanita, Eastwoods",72,2015,2026,"Manzanita, Eastwoods",FM4,SH5,shrub
+283,live,"Manzanita, Greenleaf",89,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+285,live,"Chamise, New Growth",69,2017,2022,Chamise,FM4,SH5,shrub
+285,live,"Chamise, Old Growth",69,2017,2022,Chamise,FM4,SH5,shrub
+287,live,"Ceanothus, Whitethorn",73,2015,2022,"Ceanothus, Whitethorn",FM6,SH4,shrub
+287,live,Chamise,73,2015,2022,Chamise,FM4,SH5,shrub
+287,live,"Manzanita, Greenleaf",73,2015,2022,"Manzanita, Greenleaf",FM6,SH4,shrub
+288,live,"Ceanothus, Whitethorn",6,2022,2025,"Ceanothus, Whitethorn",FM6,SH4,shrub
+288,live,Chamise,6,2022,2025,Chamise,FM4,SH5,shrub
+288,live,"Manzanita, Greenleaf",6,2022,2025,"Manzanita, Greenleaf",FM6,SH4,shrub
+292,dead,1000-Hour,1,2015,2015,,n/a,n/a,n/a
+292,live,"Ceanothus, Whitethorn",23,2024,2026,"Ceanothus, Whitethorn",FM6,SH4,shrub
+292,live,"Fir, White",15,2024,2026,"Fir, White",FM8,TL3,tree
+292,live,"Manzanita, Greenleaf",25,2024,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+292,live,"Pine, Sugar",15,2024,2026,"Pine, Sugar",FM8,TL3,tree
+293,live,"Manzanita, Greenleaf",1,2015,2015,"Manzanita, Greenleaf",FM6,SH4,shrub
+294,live,"Chamise, New Growth",37,2019,2022,Chamise,FM4,SH5,shrub
+294,live,"Chamise, Old Growth",38,2019,2022,Chamise,FM4,SH5,shrub
+299,dead,1000-Hour,51,2015,2023,,n/a,n/a,n/a
+299,live,"Pine, Ponderosa",48,2015,2023,"Pine, Ponderosa",FM9,TL8,tree
+299,live,"Pine, Sierra Lodgepole",50,2015,2023,"Pine, Sierra Lodgepole",FM8,TL3,tree
+300,live,"Sagebrush, California",51,2015,2023,"Sagebrush, California",FM6,SH2,shrub
+301,live,"Sagebrush, Mountain Big",51,2015,2023,"Sagebrush, Mountain Big",FM6,GS2,shrub
+302,live,"Sagebrush, Mountain Big",51,2015,2023,"Sagebrush, Mountain Big",FM6,GS2,shrub
+357,live,"Pine, Ponderosa",51,2019,2026,"Pine, Ponderosa",FM9,TL8,tree
+361,live,"Manzanita, Greenleaf",66,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+365,live,"Bitterbrush, Desert",109,2015,2026,"Bitterbrush, Desert",FM6,GS2,shrub
+365,live,"Manzanita, Greenleaf",1,2025,2025,"Manzanita, Greenleaf",FM6,SH4,shrub
+365,live,"Sagebrush, Silver",105,2015,2026,"Sagebrush, Silver",FM6,GS2,shrub
+367,live,Douglas-Fir,20,2015,2018,Douglas-Fir,FM8,TL3,tree
+368,live,Douglas-Fir,22,2015,2018,Douglas-Fir,FM8,TL3,tree
+369,dead,1000-Hour,17,2015,2018,,n/a,n/a,n/a
+374,dead,100-Hour,50,2015,2026,,n/a,n/a,n/a
+374,live,"Bitterbrush, Desert",52,2015,2026,"Bitterbrush, Desert",FM6,GS2,shrub
+374,live,"Manzanita, Greenleaf",49,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+374,live,"Pine, Ponderosa",47,2015,2026,"Pine, Ponderosa",FM9,TL8,tree
+375,live,Chamise,201,2015,2023,Chamise,FM4,SH5,shrub
+376,live,Chamise,202,2015,2023,Chamise,FM4,SH5,shrub
+377,live,"Chamise, New Growth",47,2015,2022,Chamise,FM4,SH5,shrub
+377,live,"Chamise, Old Growth",47,2015,2022,Chamise,FM4,SH5,shrub
+382,live,"Manzanita, Greenleaf",94,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+382,live,"Pine, Ponderosa",96,2015,2026,"Pine, Ponderosa",FM9,TL8,tree
+386,live,"Sagebrush, Basin Big",109,2015,2026,"Sagebrush, Basin Big",FM6,GS2,shrub
+398,live,"Manzanita, Greenleaf",30,2020,2023,"Manzanita, Greenleaf",FM6,SH4,shrub
+399,live,"Manzanita, Greenleaf",48,2017,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+407,live,"Chamise, New Growth",13,2021,2022,Chamise,FM4,SH5,shrub
+407,live,"Chamise, Old Growth",13,2021,2022,Chamise,FM4,SH5,shrub
+409,live,"Chamise, New Growth",10,2024,2026,Chamise,FM4,SH5,shrub
+409,live,"Chamise, Old Growth",16,2024,2026,Chamise,FM4,SH5,shrub
+411,live,"Chamise, New Growth",23,2015,2018,Chamise,FM4,SH5,shrub
+412,live,"Chamise, Old Growth",24,2015,2018,Chamise,FM4,SH5,shrub
+413,live,Chamise,47,2021,2026,Chamise,FM4,SH5,shrub
+417,live,"Oak, Huckleberry",5,2022,2023,"Oak, Huckleberry",FM6,SH4,shrub
+418,live,"Manzanita, Greenleaf",6,2022,2023,"Manzanita, Greenleaf",FM6,SH4,shrub
+419,live,"Manzanita, Greenleaf",1,2023,2023,"Manzanita, Greenleaf",FM6,SH4,shrub
+429,live,"Manzanita, Greenleaf",144,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+429,live,"Pine, Ponderosa",9,2019,2019,"Pine, Ponderosa",FM9,TL8,tree
+442,live,"Manzanita, Greenleaf",83,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+443,live,Chamise,9,2025,2026,Chamise,FM4,SH5,shrub
+443,live,"Chamise, New Growth",11,2015,2020,Chamise,FM4,SH5,shrub
+444,live,"Chamise, Old Growth",8,2015,2019,Chamise,FM4,SH5,shrub
+462,live,"Manzanita, Whiteleaf",27,2024,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+462,live,"Pine, Ponderosa",15,2024,2026,"Pine, Ponderosa",FM9,TL8,tree
+469,live,Chamise,52,2021,2026,Chamise,FM4,SH5,shrub
+469,live,"Chamise, New Growth",11,2025,2026,Chamise,FM4,SH5,shrub
+469,live,"Chamise, Old Growth",11,2025,2026,Chamise,FM4,SH5,shrub
+470,live,"Ceanothus, Buckbrush",41,2020,2026,"Ceanothus, Buckbrush",FM4,SH5,shrub
+470,live,"Manzanita, Whiteleaf",50,2020,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+470,live,"Sage, Black",1,2020,2020,"Sage, Black",FM6,SH2,shrub
+471,live,"Ceanothus, Buckbrush",81,2015,2022,"Ceanothus, Buckbrush",FM4,SH5,shrub
+471,live,"Mahogany, Birchleaf Mountain",81,2015,2022,"Mahogany, Birchleaf Mountain",FM4,SH5,shrub
+471,live,"Manzanita, Greenleaf",48,2015,2022,"Manzanita, Greenleaf",FM6,SH4,shrub
+471,live,"Sagebrush, Black",81,2015,2022,"Sagebrush, Black",FM5,SH1,shrub
+472,live,"Ceanothus, Buckbrush",81,2015,2022,"Ceanothus, Buckbrush",FM4,SH5,shrub
+472,live,"Mahogany, Birchleaf Mountain",81,2015,2022,"Mahogany, Birchleaf Mountain",FM4,SH5,shrub
+472,live,"Manzanita, Greenleaf",48,2015,2022,"Manzanita, Greenleaf",FM6,SH4,shrub
+472,live,"Sagebrush, Black",81,2015,2022,"Sagebrush, Black",FM5,SH1,shrub
+475,live,Coyotebrush,31,2022,2026,Coyotebrush,FM6,SH2,shrub
+475,live,"Manzanita, Whiteleaf",39,2022,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+476,dead,1000-Hour,97,2018,2026,,n/a,n/a,n/a
+476,live,"Ceanothus, Buckbrush",102,2018,2026,"Ceanothus, Buckbrush",FM4,SH5,shrub
+476,live,"Manzanita, Greenleaf",102,2018,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+476,live,"Pine, Ponderosa",89,2018,2026,"Pine, Ponderosa",FM9,TL8,tree
+480,dead,1000-Hour,135,2015,2025,,n/a,n/a,n/a
+480,live,"Manzanita, Greenleaf",136,2015,2025,"Manzanita, Greenleaf",FM6,SH4,shrub
+491,live,Chamise,23,2016,2020,Chamise,FM4,SH5,shrub
+492,live,Chamise,51,2020,2026,Chamise,FM4,SH5,shrub
+492,live,"Chamise, New Growth",1,2022,2022,Chamise,FM4,SH5,shrub
+495,live,Chamise,173,2015,2025,Chamise,FM4,SH5,shrub
+495,live,"Chamise, New Growth",173,2015,2025,Chamise,FM4,SH5,shrub
+495,live,"Chamise, Old Growth",171,2015,2025,Chamise,FM4,SH5,shrub
+496,live,Chamise,152,2015,2026,Chamise,FM4,SH5,shrub
+496,live,"Chamise, New Growth",125,2015,2025,Chamise,FM4,SH5,shrub
+496,live,"Chamise, Old Growth",124,2015,2025,Chamise,FM4,SH5,shrub
+496,live,"Pinyon, Twoneedle",1,2025,2025,"Pinyon, Twoneedle",FM6,TU1,tree
+497,live,"Ceanothus, Hoaryleaf",170,2015,2026,"Ceanothus, Hoaryleaf",FM4,SH5,shrub
+497,live,Chamise,171,2015,2026,Chamise,FM4,SH5,shrub
+504,live,Chamise,48,2015,2026,Chamise,FM4,SH5,shrub
+504,live,"Chamise, New Growth",43,2015,2017,Chamise,FM4,SH5,shrub
+504,live,"Chamise, Old Growth",43,2015,2017,Chamise,FM4,SH5,shrub
+510,live,"Manzanita, Greenleaf",34,2023,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+510,live,"Pine, Ponderosa",32,2023,2026,"Pine, Ponderosa",FM9,TL8,tree
+517,live,"Bitterbrush, Antelope",1,2026,2026,"Bitterbrush, Antelope",FM6,GS2,shrub
+517,live,"Bitterbrush, Desert",59,2016,2023,"Bitterbrush, Desert",FM6,GS2,shrub
+523,live,"Manzanita, Greenleaf",152,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+524,live,"Chamise, New Growth",77,2015,2026,Chamise,FM4,SH5,shrub
+524,live,"Chamise, Old Growth",80,2015,2026,Chamise,FM4,SH5,shrub
+524,live,"Manzanita, Greenleaf",70,2015,2024,"Manzanita, Greenleaf",FM6,SH4,shrub
+524,live,"Manzanita, Whiteleaf",19,2024,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+536,live,"Manzanita, Greenleaf",83,2016,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+537,live,Chamise,55,2021,2026,Chamise,FM4,SH5,shrub
+537,live,"Chamise, New Growth",51,2021,2026,Chamise,FM4,SH5,shrub
+537,live,"Chamise, Old Growth",51,2021,2026,Chamise,FM4,SH5,shrub
+543,live,"Manzanita, Greenleaf",10,2015,2016,"Manzanita, Greenleaf",FM6,SH4,shrub
+544,live,"Ceanothus, Buckbrush",7,2025,2025,"Ceanothus, Buckbrush",FM4,SH5,shrub
+544,live,"Ceanothus, Deerbrush",44,2015,2022,"Ceanothus, Deerbrush",FM6,SH4,shrub
+544,live,Chamise,44,2015,2022,Chamise,FM4,SH5,shrub
+544,live,"Chamise, New Growth",6,2025,2025,Chamise,FM4,SH5,shrub
+545,dead,1-Hour,50,2015,2020,,n/a,n/a,n/a
+545,dead,10-Hour,50,2015,2020,,n/a,n/a,n/a
+545,live,"Ceanothus, Buckbrush",8,2025,2025,"Ceanothus, Buckbrush",FM4,SH5,shrub
+545,live,"Ceanothus, Deerbrush",52,2015,2022,"Ceanothus, Deerbrush",FM6,SH4,shrub
+545,live,Chamise,52,2015,2022,Chamise,FM4,SH5,shrub
+545,live,"Chamise, Old Growth",8,2025,2025,Chamise,FM4,SH5,shrub
+548,dead,1000-Hour,127,2015,2026,,n/a,n/a,n/a
+555,live,"Manzanita, Greenleaf",82,2015,2023,"Manzanita, Greenleaf",FM6,SH4,shrub
+555,live,"Manzanita, Whiteleaf",21,2023,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+579,live,Chamise,118,2015,2026,Chamise,FM4,SH5,shrub
+579,live,Douglas-Fir,115,2015,2024,Douglas-Fir,FM8,TL3,tree
+579,live,"Manzanita, Greenleaf",117,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+581,live,"Oak, California Live",42,2015,2026,"Oak, California Live",FM9,TL6,tree
+581,live,"Oak, Live",1,2025,2025,"Oak, Live",FM9,TL6,tree
+582,live,Chamise,54,2020,2026,Chamise,FM4,SH5,shrub
+582,live,"Chamise, New Growth",49,2021,2026,Chamise,FM4,SH5,shrub
+582,live,"Chamise, Old Growth",49,2021,2026,Chamise,FM4,SH5,shrub
+584,live,"Manzanita, Whiteleaf",1,2020,2020,"Manzanita, Whiteleaf",FM4,SH5,shrub
+587,live,"Sagebrush, Silver",6,2019,2019,"Sagebrush, Silver",FM6,GS2,shrub
+596,live,Chamise,55,2020,2026,Chamise,FM4,SH5,shrub
+596,live,"Chamise, New Growth",49,2021,2026,Chamise,FM4,SH5,shrub
+596,live,"Chamise, Old Growth",49,2021,2026,Chamise,FM4,SH5,shrub
+597,live,"Manzanita, Greenleaf",109,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+615,live,"Chamise, New Growth",159,2015,2026,Chamise,FM4,SH5,shrub
+615,live,"Chamise, Old Growth",169,2015,2026,Chamise,FM4,SH5,shrub
+615,live,"Sage, Black",37,2024,2026,"Sage, Black",FM6,SH2,shrub
+615,live,"Sagebrush, Black",131,2015,2024,"Sagebrush, Black",FM5,SH1,shrub
+619,live,"Chamise, New Growth",10,2015,2026,Chamise,FM4,SH5,shrub
+619,live,"Chamise, Old Growth",10,2015,2026,Chamise,FM4,SH5,shrub
+621,live,"Bitterbrush, Antelope",1,2026,2026,"Bitterbrush, Antelope",FM6,GS2,shrub
+621,live,"Bitterbrush, Desert",60,2016,2023,"Bitterbrush, Desert",FM6,GS2,shrub
+628,dead,1000-Hour,88,2015,2026,,n/a,n/a,n/a
+628,live,"Manzanita, Greenleaf",90,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+630,live,"Sagebrush, California",139,2015,2026,"Sagebrush, California",FM6,SH2,shrub
+632,live,"Manzanita, Greenleaf",1,2020,2020,"Manzanita, Greenleaf",FM6,SH4,shrub
+641,live,Chamise,1,2024,2024,Chamise,FM4,SH5,shrub
+641,live,"Chamise, New Growth",47,2019,2024,Chamise,FM4,SH5,shrub
+641,live,"Chamise, Old Growth",46,2019,2024,Chamise,FM4,SH5,shrub
+650,live,"Ceanothus, Buckbrush",32,2015,2020,"Ceanothus, Buckbrush",FM4,SH5,shrub
+651,live,"Ceanothus, Buckbrush",62,2015,2020,"Ceanothus, Buckbrush",FM4,SH5,shrub
+652,live,"Manzanita, Whiteleaf",31,2015,2020,"Manzanita, Whiteleaf",FM4,SH5,shrub
+653,live,"Manzanita, Whiteleaf",63,2015,2020,"Manzanita, Whiteleaf",FM4,SH5,shrub
+670,live,Chamise,71,2016,2026,Chamise,FM4,SH5,shrub
+676,live,Chamise,117,2015,2026,Chamise,FM4,SH5,shrub
+676,live,"Chamise, New Growth",1,2026,2026,Chamise,FM4,SH5,shrub
+676,live,"Sage, Black",20,2025,2026,"Sage, Black",FM6,SH2,shrub
+677,dead,1000-Hour,32,2022,2026,,n/a,n/a,n/a
+677,live,"Manzanita, Greenleaf",33,2022,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+677,live,"Pine, Ponderosa",17,2022,2025,"Pine, Ponderosa",FM9,TL8,tree
+678,live,Chamise,74,2015,2026,Chamise,FM4,SH5,shrub
+678,live,"Chamise, New Growth",57,2015,2025,Chamise,FM4,SH5,shrub
+678,live,"Chamise, Old Growth",57,2015,2025,Chamise,FM4,SH5,shrub
+679,live,"Buckwheat, Eastern Mojave",116,2018,2026,"Buckwheat, Eastern Mojave",FM6,SH2,shrub
+679,live,"Sagebrush, Black",114,2018,2026,"Sagebrush, Black",FM5,SH1,shrub
+679,live,"Sagebrush, California",93,2018,2024,"Sagebrush, California",FM6,SH2,shrub
+679,live,"Sumac, Laurel",53,2018,2022,"Sumac, Laurel",FM4,SH5,shrub
+680,live,Chamise,188,2015,2025,Chamise,FM4,SH5,shrub
+681,live,Chamise,105,2015,2023,Chamise,FM4,SH5,shrub
+681,live,"Chamise, New Growth",105,2015,2023,Chamise,FM4,SH5,shrub
+681,live,"Chamise, Old Growth",105,2015,2023,Chamise,FM4,SH5,shrub
+682,live,"Ceanothus, Buckbrush",80,2015,2022,"Ceanothus, Buckbrush",FM4,SH5,shrub
+682,live,"Mahogany, Birchleaf Mountain",80,2015,2022,"Mahogany, Birchleaf Mountain",FM4,SH5,shrub
+682,live,"Manzanita, Greenleaf",28,2017,2022,"Manzanita, Greenleaf",FM6,SH4,shrub
+682,live,"Sagebrush, Black",80,2015,2022,"Sagebrush, Black",FM5,SH1,shrub
+683,live,"Ceanothus, Buckbrush",80,2015,2022,"Ceanothus, Buckbrush",FM4,SH5,shrub
+683,live,"Mahogany, Birchleaf Mountain",80,2015,2022,"Mahogany, Birchleaf Mountain",FM4,SH5,shrub
+683,live,"Manzanita, Greenleaf",28,2017,2022,"Manzanita, Greenleaf",FM6,SH4,shrub
+683,live,"Sagebrush, Black",81,2015,2022,"Sagebrush, Black",FM5,SH1,shrub
+684,live,"Manzanita, Greenleaf",2,2020,2020,"Manzanita, Greenleaf",FM6,SH4,shrub
+685,dead,1000-Hour,88,2017,2026,,n/a,n/a,n/a
+685,live,"Manzanita, Whiteleaf",110,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+685,live,"Pine, Ponderosa",84,2017,2026,"Pine, Ponderosa",FM9,TL8,tree
+688,live,Chamise,69,2016,2026,Chamise,FM4,SH5,shrub
+689,live,Chamise,2,2019,2021,Chamise,FM4,SH5,shrub
+690,dead,100-Hour,5,2021,2022,,n/a,n/a,n/a
+690,dead,1000-Hour,2,2021,2021,,n/a,n/a,n/a
+690,live,Chamise,66,2020,2026,Chamise,FM4,SH5,shrub
+690,live,"Chamise, New Growth",58,2020,2026,Chamise,FM4,SH5,shrub
+690,live,"Chamise, Old Growth",57,2020,2026,Chamise,FM4,SH5,shrub
+690,live,Coyotebrush,16,2020,2023,Coyotebrush,FM6,SH2,shrub
+690,live,"Oak, California Live",50,2020,2026,"Oak, California Live",FM9,TL6,tree
+690,live,"Sagebrush, Black",2,2024,2024,"Sagebrush, Black",FM5,SH1,shrub
+690,live,"Sagebrush, California",2,2026,2026,"Sagebrush, California",FM6,SH2,shrub
+691,live,Chamise,193,2015,2026,Chamise,FM4,SH5,shrub
+691,live,"Chamise, New Growth",1,2026,2026,Chamise,FM4,SH5,shrub
+716,live,Chamise,24,2015,2020,Chamise,FM4,SH5,shrub
+716,live,"Manzanita, Eastwoods",25,2015,2020,"Manzanita, Eastwoods",FM4,SH5,shrub
+717,dead,1-Hour,34,2015,2020,,n/a,n/a,n/a
+717,dead,10-Hour,34,2015,2020,,n/a,n/a,n/a
+717,live,Chamise,36,2015,2020,Chamise,FM4,SH5,shrub
+717,live,"Manzanita, Eastwoods",36,2015,2020,"Manzanita, Eastwoods",FM4,SH5,shrub
+725,live,"Chamise, New Growth",161,2015,2026,Chamise,FM4,SH5,shrub
+725,live,"Chamise, Old Growth",169,2015,2026,Chamise,FM4,SH5,shrub
+725,live,"Sagebrush, California",171,2015,2026,"Sagebrush, California",FM6,SH2,shrub
+726,live,Chamise,161,2015,2026,Chamise,FM4,SH5,shrub
+726,live,"Chamise, New Growth",161,2015,2026,Chamise,FM4,SH5,shrub
+726,live,"Chamise, Old Growth",161,2015,2026,Chamise,FM4,SH5,shrub
+727,live,"Chamise, New Growth",3,2022,2022,Chamise,FM4,SH5,shrub
+727,live,"Chamise, Old Growth",3,2022,2022,Chamise,FM4,SH5,shrub
+728,live,Chamise,196,2015,2024,Chamise,FM4,SH5,shrub
+736,live,Chamise,61,2019,2026,Chamise,FM4,SH5,shrub
+736,live,"Chamise, New Growth",57,2019,2026,Chamise,FM4,SH5,shrub
+736,live,"Chamise, Old Growth",57,2019,2026,Chamise,FM4,SH5,shrub
+736,live,"Manzanita, Greenleaf",61,2019,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+743,dead,1000-Hour,65,2015,2025,,n/a,n/a,n/a
+743,live,"Douglas-Fir, Coastal",66,2015,2025,"Douglas-Fir, Coastal",FM8,TL3,tree
+744,dead,1000-Hour,97,2015,2025,,n/a,n/a,n/a
+744,live,"Douglas-Fir, Coastal",102,2015,2025,"Douglas-Fir, Coastal",FM8,TL3,tree
+744,live,"Manzanita, Greenleaf",99,2015,2025,"Manzanita, Greenleaf",FM6,SH4,shrub
+749,live,"Manzanita, Greenleaf",5,2024,2024,"Manzanita, Greenleaf",FM6,SH4,shrub
+750,dead,1000-Hour,31,2022,2026,,n/a,n/a,n/a
+750,live,"Ceanothus, Snowbrush",9,2022,2023,"Ceanothus, Snowbrush",FM6,SH4,shrub
+750,live,"Fir, Grand",17,2022,2025,"Fir, Grand",FM8,TL3,tree
+750,live,"Manzanita, Greenleaf",50,2021,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+752,dead,1000-Hour,9,2015,2016,,n/a,n/a,n/a
+752,live,"Pinyon, Singleleaf",9,2015,2016,"Pinyon, Singleleaf",FM6,TU1,tree
+753,live,"Chamise, New Growth",66,2015,2021,Chamise,FM4,SH5,shrub
+753,live,"Chamise, Old Growth",73,2015,2021,Chamise,FM4,SH5,shrub
+756,live,"Manzanita, Greenleaf",149,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+757,dead,1000-Hour,120,2015,2026,,n/a,n/a,n/a
+757,live,"Manzanita, Greenleaf",132,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+757,live,"Pine, Ponderosa",88,2019,2026,"Pine, Ponderosa",FM9,TL8,tree
+763,live,"Ceanothus, Buckbrush",3,2022,2022,"Ceanothus, Buckbrush",FM4,SH5,shrub
+763,live,"Manzanita, Whiteleaf",3,2022,2022,"Manzanita, Whiteleaf",FM4,SH5,shrub
+764,live,"Manzanita, Whiteleaf",25,2025,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+772,live,Chamise,19,2020,2023,Chamise,FM4,SH5,shrub
+772,live,"Chamise, New Growth",1,2024,2024,Chamise,FM4,SH5,shrub
+772,live,"Manzanita, Whiteleaf",19,2020,2024,"Manzanita, Whiteleaf",FM4,SH5,shrub
+773,dead,1000-Hour,3,2024,2024,,n/a,n/a,n/a
+773,live,Chamise,31,2020,2023,Chamise,FM4,SH5,shrub
+773,live,"Chamise, New Growth",1,2024,2024,Chamise,FM4,SH5,shrub
+773,live,"Chamise, Old Growth",3,2024,2024,Chamise,FM4,SH5,shrub
+773,live,"Manzanita, Whiteleaf",38,2020,2024,"Manzanita, Whiteleaf",FM4,SH5,shrub
+775,live,"Pine, Jeffrey",14,2025,2026,"Pine, Jeffrey",FM9,TL8,tree
+775,live,"Pine, Ponderosa",50,2015,2025,"Pine, Ponderosa",FM9,TL8,tree
+775,live,"Sagebrush, California",1,2025,2025,"Sagebrush, California",FM6,SH2,shrub
+775,live,"Sagebrush, Mountain Big",61,2015,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+788,live,"Manzanita, Greenleaf",81,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+791,live,"Pine, Ponderosa",97,2015,2026,"Pine, Ponderosa",FM9,TL8,tree
+791,live,"Sagebrush, Basin Big",97,2015,2026,"Sagebrush, Basin Big",FM6,GS2,shrub
+800,dead,10-Hour,7,2017,2022,,n/a,n/a,n/a
+800,dead,100-Hour,9,2017,2022,,n/a,n/a,n/a
+800,live,"Manzanita, Greenleaf",9,2017,2022,"Manzanita, Greenleaf",FM6,SH4,shrub
+800,live,"Pine, Ponderosa",9,2017,2022,"Pine, Ponderosa",FM9,TL8,tree
+801,live,"Chamise, New Growth",13,2017,2020,Chamise,FM4,SH5,shrub
+801,live,"Chamise, Old Growth",13,2017,2020,Chamise,FM4,SH5,shrub
+803,dead,1000-Hour,125,2015,2026,,n/a,n/a,n/a
+803,live,"Manzanita, Greenleaf",137,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+803,live,"Pine, Ponderosa",89,2019,2026,"Pine, Ponderosa",FM9,TL8,tree
+807,live,"Manzanita, Whiteleaf",58,2021,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+808,dead,1-Hour,7,2015,2019,,n/a,n/a,n/a
+808,dead,10-Hour,7,2015,2019,,n/a,n/a,n/a
+808,dead,100-Hour,6,2015,2019,,n/a,n/a,n/a
+808,dead,1000-Hour,6,2015,2019,,n/a,n/a,n/a
+808,dead,Duff,7,2015,2019,,n/a,n/a,n/a
+808,live,"Bitterbrush, Desert",7,2015,2019,"Bitterbrush, Desert",FM6,GS2,shrub
+808,live,"Sagebrush, California",7,2015,2019,"Sagebrush, California",FM6,SH2,shrub
+812,dead,1000-Hour,127,2015,2026,,n/a,n/a,n/a
+816,live,"Manzanita, Bigberry",85,2015,2026,"Manzanita, Bigberry",FM4,SH5,shrub
+817,live,Chamise,125,2018,2026,Chamise,FM4,SH5,shrub
+817,live,"Chamise, New Growth",115,2018,2026,Chamise,FM4,SH5,shrub
+817,live,"Chamise, Old Growth",134,2018,2026,Chamise,FM4,SH5,shrub
+817,live,"Manzanita, Eastwoods",146,2018,2026,"Manzanita, Eastwoods",FM4,SH5,shrub
+818,live,"Chamise, New Growth",58,2015,2026,Chamise,FM4,SH5,shrub
+818,live,"Chamise, Old Growth",92,2015,2026,Chamise,FM4,SH5,shrub
+821,dead,1000-Hour,110,2015,2026,,n/a,n/a,n/a
+821,live,Douglas-Fir,80,2019,2026,Douglas-Fir,FM8,TL3,tree
+821,live,"Pine, Ponderosa",73,2020,2026,"Pine, Ponderosa",FM9,TL8,tree
+825,dead,100-Hour,1,2024,2024,,n/a,n/a,n/a
+825,live,Chamise,186,2015,2026,Chamise,FM4,SH5,shrub
+825,live,"Chamise, New Growth",186,2015,2026,Chamise,FM4,SH5,shrub
+825,live,"Chamise, Old Growth",186,2015,2026,Chamise,FM4,SH5,shrub
+837,dead,1000-Hour,225,2015,2026,,n/a,n/a,n/a
+864,live,Chamise,192,2015,2026,Chamise,FM4,SH5,shrub
+864,live,"Chamise, New Growth",191,2015,2026,Chamise,FM4,SH5,shrub
+864,live,"Chamise, Old Growth",192,2015,2026,Chamise,FM4,SH5,shrub
+866,dead,1000-Hour,103,2015,2026,,n/a,n/a,n/a
+866,live,"Ceanothus, Buckbrush",103,2015,2026,"Ceanothus, Buckbrush",FM4,SH5,shrub
+866,live,"Manzanita, Greenleaf",87,2015,2024,"Manzanita, Greenleaf",FM6,SH4,shrub
+867,live,"Manzanita, Greenleaf",62,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+868,live,"Ceanothus, Buckbrush",42,2020,2026,"Ceanothus, Buckbrush",FM4,SH5,shrub
+868,live,"Manzanita, Whiteleaf",49,2020,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+871,live,"Manzanita, Whiteleaf",11,2015,2016,"Manzanita, Whiteleaf",FM4,SH5,shrub
+872,dead,100-Hour,3,2020,2020,,n/a,n/a,n/a
+872,dead,1000-Hour,2,2020,2020,,n/a,n/a,n/a
+872,live,"Manzanita, Whiteleaf",2,2020,2020,"Manzanita, Whiteleaf",FM4,SH5,shrub
+872,live,Tanoak,14,2015,2020,Tanoak,FM9,TL6,tree
+873,live,"Manzanita, Greenleaf",22,2015,2017,"Manzanita, Greenleaf",FM6,SH4,shrub
+874,live,Chamise,54,2020,2026,Chamise,FM4,SH5,shrub
+874,live,"Chamise, New Growth",43,2020,2026,Chamise,FM4,SH5,shrub
+874,live,"Chamise, Old Growth",44,2020,2026,Chamise,FM4,SH5,shrub
+875,dead,10-Hour,11,2017,2026,,n/a,n/a,n/a
+875,dead,100-Hour,9,2017,2024,,n/a,n/a,n/a
+875,live,"Cedar, Incense",1,2024,2024,"Cedar, Incense",FM8,TL3,tree
+875,live,Douglas-Fir,12,2017,2026,Douglas-Fir,FM8,TL3,tree
+875,live,"Pine, Ponderosa",10,2017,2026,"Pine, Ponderosa",FM9,TL8,tree
+877,live,"Manzanita, Greenleaf",59,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+879,live,"Manzanita, Greenleaf",21,2023,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+881,live,"Ceanothus, Bigpod",13,2020,2020,"Ceanothus, Bigpod",FM4,SH5,shrub
+881,live,Chamise,13,2020,2020,Chamise,FM4,SH5,shrub
+890,live,"Ceanothus, Deerbrush",9,2016,2020,"Ceanothus, Deerbrush",FM6,SH4,shrub
+890,live,Chamise,11,2016,2020,Chamise,FM4,SH5,shrub
+891,dead,1-Hour,38,2015,2020,,n/a,n/a,n/a
+891,dead,10-Hour,38,2015,2020,,n/a,n/a,n/a
+891,live,"Ceanothus, Deerbrush",38,2015,2020,"Ceanothus, Deerbrush",FM6,SH4,shrub
+891,live,Chamise,39,2015,2020,Chamise,FM4,SH5,shrub
+892,live,"Chamise, New Growth",162,2015,2026,Chamise,FM4,SH5,shrub
+892,live,"Chamise, Old Growth",174,2015,2026,Chamise,FM4,SH5,shrub
+892,live,"Sage, Black",38,2024,2026,"Sage, Black",FM6,SH2,shrub
+892,live,"Sagebrush, Black",136,2015,2024,"Sagebrush, Black",FM5,SH1,shrub
+897,live,"Ceanothus, Buckbrush",45,2021,2024,"Ceanothus, Buckbrush",FM4,SH5,shrub
+897,live,"Manzanita, Greenleaf",50,2021,2024,"Manzanita, Greenleaf",FM6,SH4,shrub
+898,live,Chamise,33,2015,2026,Chamise,FM4,SH5,shrub
+898,live,"Chamise, New Growth",1,2026,2026,Chamise,FM4,SH5,shrub
+898,live,"Sage, Black",22,2025,2026,"Sage, Black",FM6,SH2,shrub
+898,live,"Sagebrush, California",22,2025,2026,"Sagebrush, California",FM6,SH2,shrub
+900,live,"Ceanothus, Deerbrush",36,2018,2026,"Ceanothus, Deerbrush",FM6,SH4,shrub
+900,live,"Cedar, Incense",8,2018,2021,"Cedar, Incense",FM8,TL3,tree
+900,live,"Manzanita, Greenleaf",47,2016,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+900,live,"Manzanita, Whiteleaf",42,2018,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+900,live,"Pine, Ponderosa",10,2016,2021,"Pine, Ponderosa",FM9,TL8,tree
+902,live,"Manzanita, Eastwoods",46,2015,2020,"Manzanita, Eastwoods",FM4,SH5,shrub
+903,dead,1-Hour,53,2015,2020,,n/a,n/a,n/a
+903,dead,10-Hour,53,2015,2020,,n/a,n/a,n/a
+903,live,"Manzanita, Eastwoods",56,2015,2022,"Manzanita, Eastwoods",FM4,SH5,shrub
+905,dead,1000-Hour,29,2017,2021,,n/a,n/a,n/a
+905,live,"Ceanothus, Whitethorn",5,2015,2015,"Ceanothus, Whitethorn",FM6,SH4,shrub
+905,live,"Chinquapin, Bush",42,2015,2021,"Chinquapin, Bush",FM6,SH4,shrub
+905,live,"Manzanita, Greenleaf",46,2015,2021,"Manzanita, Greenleaf",FM6,SH4,shrub
+905,live,"Manzanita, Pinemat",42,2015,2021,"Manzanita, Pinemat",FM5,SH2,shrub
+905,live,"Oak, Huckleberry",40,2015,2021,"Oak, Huckleberry",FM6,SH4,shrub
+913,dead,100-Hour,20,2015,2026,,n/a,n/a,n/a
+913,dead,1000-Hour,107,2015,2026,,n/a,n/a,n/a
+913,live,"Manzanita, Greenleaf",123,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+913,live,"Pine, Ponderosa",27,2024,2026,"Pine, Ponderosa",FM9,TL8,tree
+914,dead,10-Hour,1,2025,2025,,n/a,n/a,n/a
+914,dead,1000-Hour,41,2021,2026,,n/a,n/a,n/a
+914,live,Douglas-Fir,42,2021,2026,Douglas-Fir,FM8,TL3,tree
+914,live,"Fir, Subalpine",1,2025,2025,"Fir, Subalpine",FM8,TL3,tree
+915,live,"Manzanita, Greenleaf",59,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+916,live,"Buckwheat, Eastern Mojave",21,2025,2026,"Buckwheat, Eastern Mojave",FM6,SH2,shrub
+916,live,Chamise,111,2015,2026,Chamise,FM4,SH5,shrub
+916,live,"Manzanita, Eastwoods",68,2015,2020,"Manzanita, Eastwoods",FM4,SH5,shrub
+918,live,Chamise,65,2020,2026,Chamise,FM4,SH5,shrub
+918,live,"Chamise, New Growth",60,2020,2026,Chamise,FM4,SH5,shrub
+918,live,"Chamise, Old Growth",61,2020,2026,Chamise,FM4,SH5,shrub
+925,live,"Sagebrush, Silver",123,2015,2026,"Sagebrush, Silver",FM6,GS2,shrub
+926,live,Chamise,34,2015,2016,Chamise,FM4,SH5,shrub
+940,live,"Manzanita, Greenleaf",67,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+942,live,Chamise,122,2015,2026,Chamise,FM4,SH5,shrub
+942,live,"Chamise, New Growth",120,2015,2026,Chamise,FM4,SH5,shrub
+942,live,"Chamise, Old Growth",122,2015,2026,Chamise,FM4,SH5,shrub
+943,live,"Ceanothus, Buckbrush",39,2016,2025,"Ceanothus, Buckbrush",FM4,SH5,shrub
+944,live,"Ceanothus, Buckbrush",73,2016,2025,"Ceanothus, Buckbrush",FM4,SH5,shrub
+945,live,"Manzanita, Whiteleaf",40,2016,2025,"Manzanita, Whiteleaf",FM4,SH5,shrub
+946,live,"Manzanita, Whiteleaf",74,2016,2025,"Manzanita, Whiteleaf",FM4,SH5,shrub
+947,live,Chamise,60,2020,2026,Chamise,FM4,SH5,shrub
+947,live,"Chamise, New Growth",57,2021,2026,Chamise,FM4,SH5,shrub
+947,live,"Chamise, Old Growth",57,2021,2026,Chamise,FM4,SH5,shrub
+947,live,"Manzanita, Greenleaf",1,2020,2020,"Manzanita, Greenleaf",FM6,SH4,shrub
+949,live,"Chamise, New Growth",61,2015,2017,Chamise,FM4,SH5,shrub
+949,live,"Chamise, Old Growth",61,2015,2017,Chamise,FM4,SH5,shrub
+950,live,"Chamise, New Growth",94,2015,2026,Chamise,FM4,SH5,shrub
+950,live,"Chamise, Old Growth",132,2015,2026,Chamise,FM4,SH5,shrub
+951,live,Chamise,54,2020,2026,Chamise,FM4,SH5,shrub
+951,live,"Chamise, New Growth",54,2020,2026,Chamise,FM4,SH5,shrub
+951,live,"Chamise, Old Growth",54,2020,2026,Chamise,FM4,SH5,shrub
+952,dead,1000-Hour,9,2022,2026,,n/a,n/a,n/a
+952,live,"Fir, Grand",3,2022,2022,"Fir, Grand",FM8,TL3,tree
+952,live,"Fir, White",7,2025,2026,"Fir, White",FM8,TL3,tree
+952,live,"Manzanita, Greenleaf",10,2022,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+955,live,Chamise,60,2020,2026,Chamise,FM4,SH5,shrub
+955,live,"Chamise, New Growth",57,2020,2026,Chamise,FM4,SH5,shrub
+955,live,"Chamise, Old Growth",56,2020,2026,Chamise,FM4,SH5,shrub
+957,live,Coyotebrush,95,2015,2026,Coyotebrush,FM6,SH2,shrub
+958,live,Chamise,95,2018,2026,Chamise,FM4,SH5,shrub
+958,live,"Chamise, New Growth",75,2018,2026,Chamise,FM4,SH5,shrub
+958,live,"Chamise, Old Growth",84,2018,2026,Chamise,FM4,SH5,shrub
+958,live,"Manzanita, Eastwoods",65,2018,2026,"Manzanita, Eastwoods",FM4,SH5,shrub
+959,live,"Mahogany, Curl-Leaf Mountain",90,2015,2026,"Mahogany, Curl-Leaf Mountain",FM6,SH4,shrub
+959,live,"Manzanita, Whiteleaf",90,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+959,live,"Oak, Interior Live",91,2015,2026,"Oak, Interior Live",FM9,TL6,tree
+960,live,"Manzanita, Whiteleaf",20,2018,2021,"Manzanita, Whiteleaf",FM4,SH5,shrub
+961,live,"Manzanita, Whiteleaf",87,2018,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+962,dead,1000-Hour,74,2015,2026,,n/a,n/a,n/a
+962,live,Douglas-Fir,72,2015,2026,Douglas-Fir,FM8,TL3,tree
+962,live,"Manzanita, Whiteleaf",72,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+963,live,Chamise,72,2021,2026,Chamise,FM4,SH5,shrub
+966,live,"Chamise, New Growth",100,2015,2026,Chamise,FM4,SH5,shrub
+966,live,"Chamise, Old Growth",140,2015,2026,Chamise,FM4,SH5,shrub
+974,live,"Sagebrush, Basin Big",9,2026,2026,"Sagebrush, Basin Big",FM6,GS2,shrub
+974,live,"Sagebrush, California",128,2015,2025,"Sagebrush, California",FM6,SH2,shrub
+975,live,"Manzanita, Whiteleaf",226,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+975,live,"Oak, California Live",221,2015,2026,"Oak, California Live",FM9,TL6,tree
+978,dead,1000-Hour,93,2015,2025,,n/a,n/a,n/a
+978,live,"Manzanita, Greenleaf",93,2015,2025,"Manzanita, Greenleaf",FM6,SH4,shrub
+992,live,Chamise,178,2015,2026,Chamise,FM4,SH5,shrub
+992,live,"Chamise, New Growth",177,2015,2026,Chamise,FM4,SH5,shrub
+992,live,"Chamise, Old Growth",179,2015,2026,Chamise,FM4,SH5,shrub
+1000,live,"Chamise, New Growth",137,2015,2026,Chamise,FM4,SH5,shrub
+1000,live,"Chamise, Old Growth",132,2015,2026,Chamise,FM4,SH5,shrub
+1000,live,"Sage, Purple",122,2015,2026,"Sage, Purple",FM6,SH2,shrub
+1000,live,"Sumac, Laurel",121,2015,2026,"Sumac, Laurel",FM4,SH5,shrub
+1004,dead,1000-Hour,1,2024,2024,,n/a,n/a,n/a
+1004,live,"Sagebrush, California",2,2024,2024,"Sagebrush, California",FM6,SH2,shrub
+1010,live,"Manzanita, Greenleaf",69,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1022,live,Chamise,171,2015,2026,Chamise,FM4,SH5,shrub
+1022,live,"Chamise, New Growth",173,2015,2026,Chamise,FM4,SH5,shrub
+1022,live,"Chamise, Old Growth",173,2015,2026,Chamise,FM4,SH5,shrub
+1028,dead,100-Hour,12,2015,2017,,n/a,n/a,n/a
+1028,dead,1000-Hour,12,2015,2017,,n/a,n/a,n/a
+1028,dead,Duff,11,2015,2017,,n/a,n/a,n/a
+1028,live,"Bitterbrush, Desert",12,2015,2017,"Bitterbrush, Desert",FM6,GS2,shrub
+1028,live,"Ceanothus, Deerbrush",12,2015,2017,"Ceanothus, Deerbrush",FM6,SH4,shrub
+1028,live,"Manzanita, Greenleaf",12,2015,2017,"Manzanita, Greenleaf",FM6,SH4,shrub
+1028,live,"Sagebrush, California",12,2015,2017,"Sagebrush, California",FM6,SH2,shrub
+1029,live,"Pine, Ponderosa",31,2015,2020,"Pine, Ponderosa",FM9,TL8,tree
+1030,dead,10-Hour,10,2017,2026,,n/a,n/a,n/a
+1030,dead,100-Hour,9,2017,2026,,n/a,n/a,n/a
+1030,live,"Cedar, Incense",7,2017,2026,"Cedar, Incense",FM8,TL3,tree
+1030,live,"Fir, California Red",10,2017,2026,"Fir, California Red",FM8,TL3,tree
+1031,live,"Chamise, New Growth",24,2021,2026,Chamise,FM4,SH5,shrub
+1031,live,"Chamise, Old Growth",26,2021,2026,Chamise,FM4,SH5,shrub
+1033,live,Brittlebrush,4,2016,2017,Brittlebrush,FM6,SH2,shrub
+1033,live,"Buckwheat, Eastern Mojave",25,2016,2026,"Buckwheat, Eastern Mojave",FM6,SH2,shrub
+1033,live,Chamise,45,2016,2026,Chamise,FM4,SH5,shrub
+1033,live,"Sagebrush, Black",4,2016,2017,"Sagebrush, Black",FM5,SH1,shrub
+1034,live,Chamise,171,2015,2026,Chamise,FM4,SH5,shrub
+1034,live,"Chamise, New Growth",172,2015,2026,Chamise,FM4,SH5,shrub
+1034,live,"Chamise, Old Growth",168,2015,2026,Chamise,FM4,SH5,shrub
+1041,live,Chamise,93,2015,2026,Chamise,FM4,SH5,shrub
+1041,live,"Chamise, New Growth",65,2015,2026,Chamise,FM4,SH5,shrub
+1041,live,"Chamise, Old Growth",69,2015,2026,Chamise,FM4,SH5,shrub
+1042,dead,1-Hour,7,2015,2019,,n/a,n/a,n/a
+1042,dead,10-Hour,7,2015,2019,,n/a,n/a,n/a
+1042,dead,100-Hour,7,2015,2019,,n/a,n/a,n/a
+1042,dead,1000-Hour,7,2015,2019,,n/a,n/a,n/a
+1042,dead,Duff,7,2015,2019,,n/a,n/a,n/a
+1042,live,"Bitterbrush, Desert",7,2015,2019,"Bitterbrush, Desert",FM6,GS2,shrub
+1042,live,"Ceanothus, Snowbrush",6,2015,2019,"Ceanothus, Snowbrush",FM6,SH4,shrub
+1042,live,"Manzanita, Greenleaf",7,2015,2019,"Manzanita, Greenleaf",FM6,SH4,shrub
+1042,live,"Sagebrush, California",7,2015,2019,"Sagebrush, California",FM6,SH2,shrub
+1051,live,Chamise,179,2019,2026,Chamise,FM4,SH5,shrub
+1052,live,Chamise,88,2019,2023,Chamise,FM4,SH5,shrub
+1053,live,Chamise,177,2019,2026,Chamise,FM4,SH5,shrub
+1054,live,"Manzanita, Whiteleaf",68,2020,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1055,live,"Sagebrush, Mountain Big",176,2019,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+1056,live,"Sagebrush, Mountain Big",155,2019,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+1057,live,"Ceanothus, Whitethorn",126,2020,2026,"Ceanothus, Whitethorn",FM6,SH4,shrub
+1057,live,"Manzanita, Greenleaf",133,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1058,live,Chamise,89,2023,2026,Chamise,FM4,SH5,shrub
+1059,live,Chamise,151,2019,2026,Chamise,FM4,SH5,shrub
+1059,live,"Sage, Black",149,2019,2026,"Sage, Black",FM6,SH2,shrub
+1060,live,"Sagebrush, Mountain Big",158,2019,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+1061,live,Chamise,180,2019,2026,Chamise,FM4,SH5,shrub
+1062,live,"Sagebrush, Mountain Big",160,2019,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+1063,live,Chamise,179,2019,2026,Chamise,FM4,SH5,shrub
+1064,live,"Ceanothus, Hoaryleaf",178,2019,2026,"Ceanothus, Hoaryleaf",FM4,SH5,shrub
+1064,live,Chamise,179,2019,2026,Chamise,FM4,SH5,shrub
+1065,live,"Ceanothus, Whitethorn",126,2020,2026,"Ceanothus, Whitethorn",FM6,SH4,shrub
+1065,live,"Manzanita, Greenleaf",134,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1066,live,Chamise,179,2019,2026,Chamise,FM4,SH5,shrub
+1067,live,"Ceanothus, Buckbrush",142,2020,2026,"Ceanothus, Buckbrush",FM4,SH5,shrub
+1067,live,"Manzanita, Whiteleaf",142,2020,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1069,live,Chamise,166,2015,2024,Chamise,FM4,SH5,shrub
+1082,live,"Manzanita, Greenleaf",63,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1085,dead,1000-Hour,78,2015,2026,,n/a,n/a,n/a
+1085,live,"Ceanothus, Buckbrush",8,2024,2026,"Ceanothus, Buckbrush",FM4,SH5,shrub
+1085,live,"Ceanothus, Deerbrush",78,2015,2025,"Ceanothus, Deerbrush",FM6,SH4,shrub
+1085,live,"Manzanita, Greenleaf",31,2022,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1085,live,"Manzanita, Whiteleaf",55,2015,2022,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1087,live,"Manzanita, Greenleaf",56,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1096,live,"Manzanita, Greenleaf",74,2015,2021,"Manzanita, Greenleaf",FM6,SH4,shrub
+1099,live,Chamise,58,2015,2017,Chamise,FM4,SH5,shrub
+1102,dead,1000-Hour,94,2015,2026,,n/a,n/a,n/a
+1102,live,"Bitterbrush, Desert",94,2015,2026,"Bitterbrush, Desert",FM6,GS2,shrub
+1102,live,"Sagebrush, Black",94,2015,2026,"Sagebrush, Black",FM5,SH1,shrub
+1116,dead,1-Hour,67,2015,2020,,n/a,n/a,n/a
+1116,dead,10-Hour,67,2015,2020,,n/a,n/a,n/a
+1116,live,Chamise,49,2015,2020,Chamise,FM4,SH5,shrub
+1116,live,"Chamise, New Growth",59,2015,2025,Chamise,FM4,SH5,shrub
+1116,live,"Chamise, Old Growth",79,2015,2025,Chamise,FM4,SH5,shrub
+1137,live,"Bitterbrush, Desert",34,2015,2026,"Bitterbrush, Desert",FM6,GS2,shrub
+1137,live,"Fir, California Red",23,2015,2022,"Fir, California Red",FM8,TL3,tree
+1137,live,"Fir, White",10,2024,2026,"Fir, White",FM8,TL3,tree
+1137,live,"Pine, Ponderosa",34,2015,2026,"Pine, Ponderosa",FM9,TL8,tree
+1137,live,"Sagebrush, Little",23,2015,2022,"Sagebrush, Little",FM5,SH1,shrub
+1137,live,"Sagebrush, Silver",11,2024,2026,"Sagebrush, Silver",FM6,GS2,shrub
+1140,live,Chamise,82,2015,2023,Chamise,FM4,SH5,shrub
+1140,live,"Chamise, New Growth",94,2015,2025,Chamise,FM4,SH5,shrub
+1140,live,"Chamise, Old Growth",96,2015,2025,Chamise,FM4,SH5,shrub
+1140,live,"Huckleberry, Thinleaf",1,2025,2025,"Huckleberry, Thinleaf",FM5,SH3,shrub
+1140,live,"Manzanita, Whiteleaf",97,2015,2025,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1168,live,Coyotebrush,90,2015,2026,Coyotebrush,FM6,SH2,shrub
+1169,dead,100-Hour,13,2015,2017,,n/a,n/a,n/a
+1169,dead,1000-Hour,24,2015,2025,,n/a,n/a,n/a
+1169,dead,Duff,12,2015,2017,,n/a,n/a,n/a
+1169,live,"Bitterbrush, Antelope",10,2024,2025,"Bitterbrush, Antelope",FM6,GS2,shrub
+1169,live,"Bitterbrush, Desert",13,2015,2017,"Bitterbrush, Desert",FM6,GS2,shrub
+1169,live,"Manzanita, Greenleaf",13,2015,2017,"Manzanita, Greenleaf",FM6,SH4,shrub
+1169,live,"Manzanita, Pinemat",9,2024,2025,"Manzanita, Pinemat",FM5,SH2,shrub
+1169,live,"Pine, Ponderosa",10,2024,2025,"Pine, Ponderosa",FM9,TL8,tree
+1169,live,"Sagebrush, California",13,2015,2017,"Sagebrush, California",FM6,SH2,shrub
+1170,live,"Manzanita, Whiteleaf",42,2015,2021,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1171,dead,1000-Hour,65,2015,2023,,n/a,n/a,n/a
+1171,live,"Manzanita, Whiteleaf",110,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1172,live,"Manzanita, Greenleaf",39,2015,2021,"Manzanita, Greenleaf",FM6,SH4,shrub
+1173,dead,1000-Hour,68,2015,2023,,n/a,n/a,n/a
+1173,live,"Manzanita, Greenleaf",110,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1184,live,Chamise,99,2015,2026,Chamise,FM4,SH5,shrub
+1184,live,"Manzanita, Greenleaf",100,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1187,live,Chamise,16,2015,2016,Chamise,FM4,SH5,shrub
+1187,live,"Chamise, New Growth",48,2015,2018,Chamise,FM4,SH5,shrub
+1187,live,"Chamise, Old Growth",48,2015,2018,Chamise,FM4,SH5,shrub
+1188,live,Chamise,195,2015,2026,Chamise,FM4,SH5,shrub
+1189,dead,10-Hour,18,2017,2026,,n/a,n/a,n/a
+1189,dead,100-Hour,19,2017,2025,,n/a,n/a,n/a
+1189,live,Douglas-Fir,21,2017,2026,Douglas-Fir,FM8,TL3,tree
+1189,live,"Oak, Black",1,2026,2026,"Oak, Black",FM9,TL6,tree
+1189,live,"Oak, California Black",14,2017,2026,"Oak, California Black",FM9,TL6,tree
+1189,live,"Oak, California Live",1,2025,2025,"Oak, California Live",FM9,TL6,tree
+1189,live,"Pine, Ponderosa",1,2024,2024,"Pine, Ponderosa",FM9,TL8,tree
+1190,live,"Sagebrush, Silver",120,2015,2026,"Sagebrush, Silver",FM6,GS2,shrub
+1193,dead,10-Hour,24,2015,2018,,n/a,n/a,n/a
+1193,dead,100-Hour,23,2015,2018,,n/a,n/a,n/a
+1193,dead,1000-Hour,96,2015,2026,,n/a,n/a,n/a
+1193,live,"Manzanita, Greenleaf",77,2017,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1193,live,"Pine, California Foothill",75,2017,2026,"Pine, California Foothill",FM9,TL8,tree
+1197,live,"Fir, California Red",14,2024,2026,"Fir, California Red",FM8,TL3,tree
+1198,live,"Manzanita, Greenleaf",5,2017,2022,"Manzanita, Greenleaf",FM6,SH4,shrub
+1199,live,"Manzanita, Greenleaf",97,2015,2024,"Manzanita, Greenleaf",FM6,SH4,shrub
+1199,live,"Manzanita, Whiteleaf",30,2024,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1204,live,"Manzanita, Greenleaf",63,2020,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1208,live,"Chamise, New Growth",50,2019,2022,Chamise,FM4,SH5,shrub
+1208,live,"Chamise, Old Growth",50,2019,2022,Chamise,FM4,SH5,shrub
+1225,live,"Ceanothus, Snowbrush",117,2015,2026,"Ceanothus, Snowbrush",FM6,SH4,shrub
+1225,live,"Manzanita, Greenleaf",116,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1230,live,Chamise,182,2015,2024,Chamise,FM4,SH5,shrub
+1234,live,"Ceanothus, Buckbrush",81,2015,2022,"Ceanothus, Buckbrush",FM4,SH5,shrub
+1234,live,"Mahogany, Birchleaf Mountain",81,2015,2022,"Mahogany, Birchleaf Mountain",FM4,SH5,shrub
+1234,live,"Sagebrush, Black",80,2015,2022,"Sagebrush, Black",FM5,SH1,shrub
+1235,live,"Ceanothus, Buckbrush",80,2015,2022,"Ceanothus, Buckbrush",FM4,SH5,shrub
+1235,live,"Mahogany, Birchleaf Mountain",80,2015,2022,"Mahogany, Birchleaf Mountain",FM4,SH5,shrub
+1235,live,"Sagebrush, Black",80,2015,2022,"Sagebrush, Black",FM5,SH1,shrub
+1236,live,"Buckwheat, Eastern Mojave",96,2015,2026,"Buckwheat, Eastern Mojave",FM6,SH2,shrub
+1236,live,Chamise,119,2015,2026,Chamise,FM4,SH5,shrub
+1237,live,"Chamise, New Growth",12,2022,2022,Chamise,FM4,SH5,shrub
+1237,live,"Chamise, Old Growth",12,2022,2022,Chamise,FM4,SH5,shrub
+1238,live,Chamise,57,2020,2026,Chamise,FM4,SH5,shrub
+1238,live,"Chamise, New Growth",57,2020,2026,Chamise,FM4,SH5,shrub
+1238,live,"Chamise, Old Growth",57,2020,2026,Chamise,FM4,SH5,shrub
+1239,live,Chamise,194,2015,2026,Chamise,FM4,SH5,shrub
+1239,live,"Sage, Purple",22,2025,2026,"Sage, Purple",FM6,SH2,shrub
+1247,live,"Chamise, New Growth",1,2025,2025,Chamise,FM4,SH5,shrub
+1247,live,"Chamise, Old Growth",85,2016,2026,Chamise,FM4,SH5,shrub
+1258,live,"Ceanothus, Buckbrush",30,2020,2024,"Ceanothus, Buckbrush",FM4,SH5,shrub
+1258,live,"Manzanita, Whiteleaf",33,2020,2024,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1259,live,"Chamise, New Growth",91,2015,2023,Chamise,FM4,SH5,shrub
+1259,live,"Chamise, Old Growth",101,2015,2023,Chamise,FM4,SH5,shrub
+1271,live,Chamise,191,2015,2026,Chamise,FM4,SH5,shrub
+1271,live,"Sage, Black",190,2015,2026,"Sage, Black",FM6,SH2,shrub
+1272,live,"Chamise, New Growth",10,2015,2019,Chamise,FM4,SH5,shrub
+1273,live,"Chamise, Old Growth",7,2015,2018,Chamise,FM4,SH5,shrub
+1280,live,"Pine, Jeffrey",15,2025,2026,"Pine, Jeffrey",FM9,TL8,tree
+1280,live,"Pine, Ponderosa",69,2015,2025,"Pine, Ponderosa",FM9,TL8,tree
+1280,live,"Sagebrush, Mountain Big",83,2015,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+1281,live,"Manzanita, Greenleaf",41,2024,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1281,live,"Manzanita, Whiteleaf",185,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1282,live,Chamise,144,2018,2025,Chamise,FM4,SH5,shrub
+1283,live,Chamise,163,2015,2026,Chamise,FM4,SH5,shrub
+1283,live,"Chamise, New Growth",164,2015,2026,Chamise,FM4,SH5,shrub
+1283,live,"Chamise, Old Growth",163,2015,2026,Chamise,FM4,SH5,shrub
+1284,live,Chamise,223,2015,2026,Chamise,FM4,SH5,shrub
+1285,live,Chamise,56,2021,2026,Chamise,FM4,SH5,shrub
+1285,live,"Chamise, New Growth",51,2021,2026,Chamise,FM4,SH5,shrub
+1285,live,"Chamise, Old Growth",51,2021,2026,Chamise,FM4,SH5,shrub
+1285,live,"Manzanita, Greenleaf",1,2020,2020,"Manzanita, Greenleaf",FM6,SH4,shrub
+1286,live,"Sagebrush, California",28,2024,2025,"Sagebrush, California",FM6,SH2,shrub
+1286,live,"Sumac, Laurel",28,2024,2025,"Sumac, Laurel",FM4,SH5,shrub
+1287,live,Chamise,54,2015,2022,Chamise,FM4,SH5,shrub
+1287,live,"Chamise, New Growth",72,2015,2026,Chamise,FM4,SH5,shrub
+1287,live,"Chamise, Old Growth",72,2015,2026,Chamise,FM4,SH5,shrub
+1290,live,"Chamise, New Growth",43,2019,2022,Chamise,FM4,SH5,shrub
+1290,live,"Chamise, Old Growth",43,2019,2022,Chamise,FM4,SH5,shrub
+1301,dead,100-Hour,3,2025,2025,,n/a,n/a,n/a
+1301,dead,1000-Hour,70,2015,2026,,n/a,n/a,n/a
+1302,live,Chamise,73,2016,2026,Chamise,FM4,SH5,shrub
+1305,live,"Chamise, New Growth",93,2015,2026,Chamise,FM4,SH5,shrub
+1305,live,"Chamise, Old Growth",147,2015,2026,Chamise,FM4,SH5,shrub
+1309,live,"Cedar, Incense",14,2024,2026,"Cedar, Incense",FM8,TL3,tree
+1309,live,"Manzanita, Whiteleaf",22,2024,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1309,live,"Pine, Ponderosa",15,2024,2026,"Pine, Ponderosa",FM9,TL8,tree
+1313,live,"Manzanita, Whiteleaf",41,2015,2021,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1314,live,"Manzanita, Whiteleaf",109,2015,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1315,live,"Manzanita, Greenleaf",149,2015,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1321,live,"Buckwheat, Eastern Mojave",48,2024,2026,"Buckwheat, Eastern Mojave",FM6,SH2,shrub
+1321,live,"Sage, Black",47,2024,2026,"Sage, Black",FM6,SH2,shrub
+1321,live,"Sagebrush, California",48,2024,2026,"Sagebrush, California",FM6,SH2,shrub
+1321,live,"Sumac, Laurel",49,2024,2026,"Sumac, Laurel",FM4,SH5,shrub
+1327,live,"Manzanita, Greenleaf",27,2015,2017,"Manzanita, Greenleaf",FM6,SH4,shrub
+1329,live,Chamise,5,2024,2025,Chamise,FM4,SH5,shrub
+1329,live,"Chamise, New Growth",1,2025,2025,Chamise,FM4,SH5,shrub
+1329,live,"Manzanita, Whiteleaf",6,2024,2025,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1329,live,"Pine, Knobcone",5,2024,2025,"Pine, Knobcone",FM9,TL8,tree
+1329,live,Toyon,5,2024,2025,Toyon,FM4,SH5,shrub
+1332,live,"Chamise, New Growth",90,2015,2026,Chamise,FM4,SH5,shrub
+1332,live,"Chamise, Old Growth",149,2015,2026,Chamise,FM4,SH5,shrub
+1341,live,"Manzanita, Greenleaf",6,2015,2015,"Manzanita, Greenleaf",FM6,SH4,shrub
+1341,live,"Pine, Ponderosa",6,2015,2015,"Pine, Ponderosa",FM9,TL8,tree
+1343,live,Chamise,84,2015,2018,Chamise,FM4,SH5,shrub
+1357,dead,1000-Hour,33,2018,2021,,n/a,n/a,n/a
+1357,live,"Ceanothus, Buckbrush",33,2018,2021,"Ceanothus, Buckbrush",FM4,SH5,shrub
+1357,live,"Manzanita, Greenleaf",32,2018,2021,"Manzanita, Greenleaf",FM6,SH4,shrub
+1357,live,"Pine, Ponderosa",25,2019,2021,"Pine, Ponderosa",FM9,TL8,tree
+1358,live,"Cedar, Incense",15,2024,2026,"Cedar, Incense",FM8,TL3,tree
+1358,live,"Fir, White",15,2024,2026,"Fir, White",FM8,TL3,tree
+1358,live,"Pine, Ponderosa",12,2024,2026,"Pine, Ponderosa",FM9,TL8,tree
+1359,dead,1000-Hour,99,2015,2025,,n/a,n/a,n/a
+1359,live,Tanoak,119,2015,2025,Tanoak,FM9,TL6,tree
+1405,dead,100-Hour,33,2023,2026,,n/a,n/a,n/a
+1405,dead,1000-Hour,33,2023,2026,,n/a,n/a,n/a
+1405,live,"Manzanita, Whiteleaf",33,2023,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1405,live,"Pine, Ponderosa",31,2023,2026,"Pine, Ponderosa",FM9,TL8,tree
+1408,live,Chamise,2,2020,2024,Chamise,FM4,SH5,shrub
+1409,live,Chamise,6,2024,2026,Chamise,FM4,SH5,shrub
+1410,live,Chamise,6,2024,2026,Chamise,FM4,SH5,shrub
+1411,live,Chamise,6,2024,2026,Chamise,FM4,SH5,shrub
+1445,live,"Manzanita, Greenleaf",14,2024,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1452,live,Chamise,21,2024,2026,Chamise,FM4,SH5,shrub
+1452,live,"Chamise, New Growth",16,2025,2026,Chamise,FM4,SH5,shrub
+1452,live,"Chamise, Old Growth",16,2025,2026,Chamise,FM4,SH5,shrub
+1458,dead,1000-Hour,100,2015,2025,,n/a,n/a,n/a
+1458,live,Tanoak,101,2015,2025,Tanoak,FM9,TL6,tree
+1483,live,"Ceanothus, Hoaryleaf",15,2024,2025,"Ceanothus, Hoaryleaf",FM4,SH5,shrub
+1483,live,Chamise,15,2024,2025,Chamise,FM4,SH5,shrub
+1539,live,Chamise,35,2023,2026,Chamise,FM4,SH5,shrub
+1540,live,Coyotebrush,8,2024,2026,Coyotebrush,FM6,SH2,shrub
+1570,live,"Manzanita, Greenleaf",24,2024,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+1571,live,"Ceanothus, Buckbrush",16,2024,2026,"Ceanothus, Buckbrush",FM4,SH5,shrub
+1571,live,"Manzanita, Whiteleaf",20,2024,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+1636,live,Coyotebrush,24,2024,2025,Coyotebrush,FM6,SH2,shrub
+1636,live,"Oak, California Live",24,2024,2025,"Oak, California Live",FM9,TL6,tree
+1636,live,"Sage, Purple",24,2024,2025,"Sage, Purple",FM6,SH2,shrub
+1636,live,"Sagebrush, California",24,2024,2025,"Sagebrush, California",FM6,SH2,shrub
+1637,live,Coyotebrush,24,2024,2025,Coyotebrush,FM6,SH2,shrub
+1637,live,"Oak, California Live",25,2024,2025,"Oak, California Live",FM9,TL6,tree
+1637,live,"Sage, Purple",24,2024,2025,"Sage, Purple",FM6,SH2,shrub
+1637,live,"Sagebrush, California",24,2024,2025,"Sagebrush, California",FM6,SH2,shrub
+2165,live,Chamise,23,2025,2026,Chamise,FM4,SH5,shrub
+2200,dead,1000-Hour,3,2025,2026,,n/a,n/a,n/a
+2200,live,Chamise,7,2025,2026,Chamise,FM4,SH5,shrub
+2200,live,"Manzanita, Whiteleaf",6,2025,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+2763,dead,10-Hour,4,2026,2026,,n/a,n/a,n/a
+2763,live,"Chamise, New Growth",10,2025,2026,Chamise,FM4,SH5,shrub
+2763,live,"Chamise, Old Growth",10,2025,2026,Chamise,FM4,SH5,shrub
+2763,live,"Manzanita, Whiteleaf",10,2025,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+2923,live,Chamise,31,2025,2026,Chamise,FM4,SH5,shrub
+2924,live,Chamise,32,2025,2026,Chamise,FM4,SH5,shrub
+2925,live,Chamise,32,2025,2026,Chamise,FM4,SH5,shrub
+3023,live,"Ceanothus, Buckbrush",19,2025,2026,"Ceanothus, Buckbrush",FM4,SH5,shrub
+3023,live,"Manzanita, Whiteleaf",18,2025,2026,"Manzanita, Whiteleaf",FM4,SH5,shrub
+3187,dead,100-Hour,6,2025,2026,,n/a,n/a,n/a
+3187,dead,1000-Hour,7,2025,2026,,n/a,n/a,n/a
+3187,live,"Ceanothus, Snowbrush",7,2025,2026,"Ceanothus, Snowbrush",FM6,SH4,shrub
+3319,live,"Sagebrush, Mountain Big",27,2025,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+3320,live,"Sagebrush, Mountain Big",28,2025,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+3321,live,"Sagebrush, Mountain Big",28,2025,2026,"Sagebrush, Mountain Big",FM6,GS2,shrub
+3385,live,Chamise,16,2025,2026,Chamise,FM4,SH5,shrub
+3451,live,"Manzanita, Greenleaf",11,2025,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+3550,live,"Manzanita, Greenleaf",9,2026,2026,"Manzanita, Greenleaf",FM6,SH4,shrub
+3748,live,"Buckwheat, Eastern Mojave",18,2025,2026,"Buckwheat, Eastern Mojave",FM6,SH2,shrub
+3748,live,Chamise,22,2025,2026,Chamise,FM4,SH5,shrub
+3781,live,"Buckwheat, Eastern Mojave",20,2025,2026,"Buckwheat, Eastern Mojave",FM6,SH2,shrub
+3781,live,Chamise,22,2025,2026,Chamise,FM4,SH5,shrub
+3979,live,Chamise,7,2026,2026,Chamise,FM4,SH5,shrub
+3979,live,"Chamise, New Growth",7,2026,2026,Chamise,FM4,SH5,shrub
+3979,live,"Chamise, Old Growth",7,2026,2026,Chamise,FM4,SH5,shrub
+4045,live,"Chamise, Old Growth",4,2026,2026,Chamise,FM4,SH5,shrub
+4078,live,"Chamise, Old Growth",3,2026,2026,Chamise,FM4,SH5,shrub
+4111,live,"Chamise, Old Growth",4,2026,2026,Chamise,FM4,SH5,shrub

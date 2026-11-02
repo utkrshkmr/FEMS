@@ -1,0 +1,20 @@
+key,value
+stations,376
+sites_in_california,417
+qc_readings,49772
+first_year,2015
+last_year,2026
+last_reading_date,2026-09-17
+partial_year,2026
+distinct_cells,333
+stations_sharing_a_cell,43
+stations_with_live,367
+stations_with_dead,76
+stations_dead_only,9
+live_categories_reported,"Shrub, Tree"
+distinct_live_fuels,58
+distinct_species,56
+distinct_dead_fuels,5
+window_size,35
+window_cells,1225
+window_km2,1.1025
