@@ -1,0 +1,6 @@
+scheme,class,category,cells,area_share,stations_on_cell,readings_on_cell,stations_reporting_species_mapped_here
+cat_from_40,nonburnable,nonburnable,106158192,0.23313,76,8051,0
+cat_from_40,grass,grass,90447078,0.19863,34,5244,0
+cat_from_40,shrub,shrub,164896778,0.36213,180,25160,343
+cat_from_40,tree,tree,93756418,0.2059,86,11317,72
+cat_from_40,slash,slash,95848,0.00021,0,0,0

@@ -1,0 +1,22 @@
+key,value
+stations,376
+latest_release,LF2025
+releases,LF2016_Remap; LF2022; LF2023; LF2024; LF2025
+stations_nonburnable_latest,76
+nonburnable_with_live,73
+nearest_burnable_within_100m,75
+nearest_burnable_within_500m,76
+nonburnable_no_burnable_in_2km,0
+colocated_stations,70
+shared_cells,27
+multi_species_stations,143
+shrub_and_tree_stations,48
+dead_only_stations,9
+seconds_rounded_both,292
+neighbours_differ_any,286
+class_changed_across_releases_fbfm40,258
+class_changed_across_releases_cat40,146
+maj3_differs_from_cell,80
+maj5_differs_from_cell,116
+maj11_differs_from_cell,138
+maj35_differs_from_cell,154

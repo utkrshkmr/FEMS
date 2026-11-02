@@ -33,16 +33,18 @@ Everything is drawn in the browser from the CSV and SVG files under `site/data/`
 4. Trends by region and fuel type.
 5. Wind roses by group.
 
+**Alignment** puts nine decisions to a human expert on how every FEMS station gets a LANDFIRE fuel label (scheme, release, spatial support, non-burnable fallback, species disagreement, several species, co-location, dead-only stations, unsampled classes), each with the evidence behind it. Answers stay in the browser, a preview applies them to every station, and both the answer sheet and the station assignment can be downloaded.
+
 **Older** is the previous dashboard, frozen under `site/older/`.
 
 ## Layout
 
 | path | what |
 |---|---|
-| `site/index.html`, `app.js`, `core.js`, `landfire.js`, `stations.js`, `met.js`, `styles.css` | the pages (vanilla JS; Plotly and PapaParse from cdnjs) |
+| `site/index.html`, `app.js`, `core.js`, `landfire.js`, `stations.js`, `met.js`, `alignment.js`, `styles.css` | the pages (vanilla JS; Plotly and PapaParse from cdnjs) |
 | `site/data/` | CSV and SVG behind the pages, plus `index.json` |
 | `site/older/` | the previous dashboard with its own code and data |
-| `build_site.py` | copies `landfire/`, `stations/` and `met/` from an EDA output folder into `site/data/` |
+| `build_site.py` | copies `landfire/`, `stations/`, `met/` and `alignment/` from an EDA output folder into `site/data/` |
 | `build_older.py` | the builder of the previous dashboard, kept for reference |
 | `.github/workflows/pages.yml` | deploys `site/` to GitHub Pages on every push to `main` |
 

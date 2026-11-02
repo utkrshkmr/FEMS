@@ -1,0 +1,28 @@
+cell_key,stations,names,species,same_species
+10704_3702,2,Trough - New Growth; Trough - Old Growth,Chamise,True
+10803_2816,3,Elk Mountain - New Growth; Elk Mountain - Old Growth; Elk Mtn Post Ranch Fire,Chamise,True
+10853_2984,3,Deer Valley - DF; Deer Valley 1000hr; Deer Valley-New,Douglas-Fir,False
+11296_8376,2,25 Road Chinquapin; N. Yuba 25 Road,"Chinquapin, Bush; Manzanita, Whiteleaf; Pine, Ponderosa",False
+11579_8128,2,N. Yuba Old Camptonville; Old Camptonville manzanita,"Manzanita, Whiteleaf; Tanoak",False
+12645_2609,2,Geysers (Sonoma County); Geysers Peak,Chamise,True
+13735_3542,2,Las Posadas; Las Posadas State Forest,Chamise,True
+14062_10358,3,Emerald Bay; Emerald Bay New Growth; Emerald Bay Old Growth,"Manzanita, Greenleaf; Oak, Huckleberry",False
+18635_10003,2,Crane Flat - New; Crane Flat - Old,"Ceanothus, Whitethorn; Fir, White; Manzanita, Greenleaf; Pine, Sugar",False
+19212_9497,3,Midpines; Midpines - New Growth; Midpines - Old Growth,"Chamise; Manzanita, Whiteleaf",True
+19259_12263,5,Combined; Crestview 1000 hour; Crestview sagebrush combined averages; Crestview sagebrush new growth; Crestview sagebrush old growth,"Pine, Ponderosa; Pine, Sierra Lodgepole; Sagebrush, California; Sagebrush, Mountain Big",False
+19659_9880,5,"Ponderosa Basin Ceanothus, Buckbrush New; Ponderosa Basin Ceanothus, Buckbrush Old; Ponderosa Basin Manzanita, Whiteleaf New; Ponderosa Basin Manzanita, Whiteleaf Old; Ponderosa Basin Mixed Live Sample","Ceanothus, Buckbrush; Manzanita, Whiteleaf",False
+19809_3607,3,Corralitos; Corralitos New Growth; Corralitos Old Growth,"Manzanita, Eastwoods",True
+20910_10589,5,"Kinsman Ceanothus, Buckbrush New; Kinsman Ceanothus, Buckbrush Old; Kinsman Manzanita, Whiteleaf New; Kinsman Manzanita, Whiteleaf Old; Saginaw Pine, Ponderosa","Ceanothus, Buckbrush; Manzanita, Whiteleaf; Pine, Ponderosa",False
+21199_2849,2,Pebble Beach New Growth; Pebble Beach Old Growth,"Manzanita, Eastwoods",True
+21531_10537,2,"Buckeye Manzanita, Whiteleaf New; Buckeye Manzanita, Whiteleaf Old","Manzanita, Whiteleaf",True
+21715_10945,3,"Barnes Manzanita, Whiteleaf New; Barnes Manzanita, Whiteleaf Old; Barnes Pine, Ponderosa","Manzanita, Whiteleaf; Pine, Ponderosa",False
+21937_10974,2,"Apperson Manzanita, Whiteleaf New; Apperson Manzanita, Whiteleaf Old","Manzanita, Whiteleaf",True
+22247_3744,2,Hastings New Growth; Hastings Old Growth,"Ceanothus, Buckbrush; Ceanothus, Deerbrush; Chamise",True
+24239_4893,2,Lockwood New Growth; Lockwood Old Gorwth,"Chamise; Manzanita, Eastwoods",True
+24587_6428,2,Parkfield New Growth; Parkfield Old Growth,"Ceanothus, Deerbrush; Chamise",True
+27080_11931,2,Lake Isabella new growth; Lake Isabella old growth,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Manzanita, Greenleaf; Sagebrush, Black",True
+29186_11392,2,Tehachapi new growth; Tehachapi old growth,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Sagebrush, Black",True
+29855_9844,2,Frazier Park new growth; Frazier Park old growth,"Ceanothus, Buckbrush; Mahogany, Birchleaf Mountain; Manzanita, Greenleaf; Sagebrush, Black",True
+38572_15104,2,Descanso-New Growth; Descanso-Old Growth,Chamise,True
+9583_3763,3,Alder; Alder 1000 hr; Alder New,Douglas-Fir,False
+9600_4031,2,FH-7 - New Growth; FH-7 - Old Growth,Chamise,True

@@ -195,3 +195,21 @@ table.data tr.pinned td { font-weight: 600; background: var(--surface-2); }
 .smallcell { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 8px; min-width: 0; }
 .smalltitle { font-size: 12px; color: var(--ink-2); font-weight: 600; }
 .chart.mini { min-height: 130px; height: 130px; }
+
+/* Alignment: questions and answer sheet */
+.q { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; margin: 10px 0 14px; }
+.q h3 { margin: 0 0 6px; color: var(--ink); font-size: 16px; }
+.q .why { color: var(--ink-2); font-size: 14px; margin: 4px 0 8px; max-width: 110ch; }
+.q .opts { display: grid; gap: 6px; margin: 8px 0; }
+.q .opts label { display: grid; grid-template-columns: 20px 1fr; gap: 8px; align-items: start; padding: 6px 8px; border: 1px solid var(--border); border-radius: 7px; cursor: pointer; font-size: 14px; }
+.q .opts label:has(input:checked) { border-color: var(--accent); background: var(--surface-2); }
+.q .opts input { margin-top: 3px; }
+.q .opts b { display: block; }
+.q .opts span { color: var(--ink-2); font-size: 13px; }
+.q textarea { width: 100%; min-height: 48px; font: inherit; font-size: 13px; color: var(--ink); background: var(--surface); border: 1px solid var(--axis); border-radius: 7px; padding: 6px 8px; }
+.q .ev { font-size: 13px; }
+.sheet { position: sticky; top: 58px; z-index: 5; background: var(--surface); border: 1px solid var(--accent); border-radius: var(--radius); padding: 10px 14px; margin: 10px 0 14px; display: flex; gap: 10px 16px; flex-wrap: wrap; align-items: center; font-size: 13px; }
+.sheet button, .btn { font: inherit; font-size: 13px; padding: 6px 12px; border-radius: 7px; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); cursor: pointer; }
+.sheet button.secondary { background: var(--surface); color: var(--accent); }
+.sheet input[type=text] { font: inherit; font-size: 13px; padding: 5px 8px; border: 1px solid var(--axis); border-radius: 7px; background: var(--surface); color: var(--ink); }
+.trace { font-size: 12px; color: var(--ink-2); }
