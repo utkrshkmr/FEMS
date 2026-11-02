@@ -33,7 +33,7 @@ Everything is drawn in the browser from the CSV and SVG files under `site/data/`
 4. Trends by region and fuel type.
 5. Wind roses by group.
 
-**Alignment** puts nine decisions to a human expert on how every FEMS station gets a LANDFIRE fuel label (scheme, release, spatial support, non-burnable fallback, species disagreement, several species, co-location, dead-only stations, unsampled classes), each with the evidence behind it. Answers stay in the browser, a preview applies them to every station, and both the answer sheet and the station assignment can be downloaded.
+**Alignment** puts nine questions to the human expert on how every FEMS station gets a LANDFIRE fuel label, for three tests (category, FBFM13, FBFM40) with the station's cell fixed at the single 30 m LANDFIRE cell: which file labels a reading (fixed or following the reading's year), the non-burnable fallback, species disagreement, several species, co-location, dead-only stations, unsampled classes, coordinate fragility and the species mapping. Each question states the numbers that bear on it and the probable form of the answer; answers are free text kept in the browser and downloaded as JSON or Markdown. A rule explorer applies any candidate rule set to every station and the resulting assignment can be downloaded.
 
 **Older** is the previous dashboard, frozen under `site/older/`.
 
