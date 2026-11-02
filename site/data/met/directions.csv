@@ -1,0 +1,89 @@
+source,region,fuel,kind,direction_deg,resultant_length,n_stations
+cell,All,All,wind_dir,246.322,0.123,407
+cell,All,All,gust_dir,251.134,0.103,406
+cell,All,grass,wind_dir,247.587,0.11,102
+cell,All,grass,gust_dir,254.439,0.096,102
+cell,All,shrub,wind_dir,247.742,0.13,203
+cell,All,shrub,gust_dir,251.457,0.115,202
+cell,All,tree,wind_dir,231.358,0.136,48
+cell,All,tree,gust_dir,226.75,0.088,48
+cell,All,nonburnable,wind_dir,253.741,0.112,54
+cell,All,nonburnable,gust_dir,263.459,0.09,54
+cell,Northern California,All,wind_dir,234.462,0.116,168
+cell,Northern California,All,gust_dir,235.553,0.09,168
+cell,Northern California,grass,wind_dir,241.71,0.123,52
+cell,Northern California,grass,gust_dir,250.683,0.094,52
+cell,Northern California,shrub,wind_dir,228.341,0.122,58
+cell,Northern California,shrub,gust_dir,227.048,0.117,58
+cell,Northern California,tree,wind_dir,230.537,0.118,34
+cell,Northern California,tree,gust_dir,225.689,0.078,34
+cell,Northern California,nonburnable,wind_dir,240.411,0.088,24
+cell,Northern California,nonburnable,gust_dir,245.587,0.046,24
+cell,Southern California,All,wind_dir,254.548,0.128,233
+cell,Southern California,All,gust_dir,260.331,0.112,232
+cell,Southern California,grass,wind_dir,258.432,0.095,49
+cell,Southern California,grass,gust_dir,260.073,0.095,49
+cell,Southern California,shrub,wind_dir,254.776,0.135,141
+cell,Southern California,shrub,gust_dir,261.488,0.118,140
+cell,Southern California,tree,wind_dir,233.819,0.179,13
+cell,Southern California,tree,gust_dir,221.502,0.106,13
+cell,Southern California,nonburnable,wind_dir,260.75,0.133,30
+cell,Southern California,nonburnable,gust_dir,268.489,0.128,30
+cell,Great Basin,All,wind_dir,230.815,0.192,4
+cell,Great Basin,All,gust_dir,254.967,0.208,4
+cell,Great Basin,grass,wind_dir,212.974,0.382,1
+cell,Great Basin,grass,gust_dir,231.775,0.357,1
+cell,Great Basin,shrub,wind_dir,267.368,0.132,2
+cell,Great Basin,shrub,gust_dir,272.674,0.13,2
+cell,Great Basin,tree,wind_dir,218.884,0.196,1
+cell,Great Basin,tree,gust_dir,268.446,0.263,1
+cell,Other (NWCC),All,wind_dir,226.865,0.391,1
+cell,Other (NWCC),All,gust_dir,213.222,0.344,1
+cell,Other (NWCC),shrub,wind_dir,226.865,0.391,1
+cell,Other (NWCC),shrub,gust_dir,213.222,0.344,1
+cell,Other (SWCC),All,wind_dir,265.631,0.233,1
+cell,Other (SWCC),All,gust_dir,261.335,0.272,1
+cell,Other (SWCC),shrub,wind_dir,265.631,0.233,1
+cell,Other (SWCC),shrub,gust_dir,261.335,0.272,1
+window,All,All,wind_dir,246.322,0.123,407
+window,All,All,gust_dir,251.134,0.103,406
+window,All,grass,wind_dir,271.256,0.113,73
+window,All,grass,gust_dir,272.552,0.107,73
+window,All,shrub,wind_dir,247.901,0.126,204
+window,All,shrub,gust_dir,253.409,0.115,203
+window,All,tree,wind_dir,231.914,0.134,129
+window,All,tree,gust_dir,231.577,0.09,129
+window,All,nonburnable,wind_dir,293.32,0.151,1
+window,All,nonburnable,gust_dir,303.678,0.112,1
+window,Northern California,All,wind_dir,234.462,0.116,168
+window,Northern California,All,gust_dir,235.553,0.09,168
+window,Northern California,grass,wind_dir,241.345,0.086,32
+window,Northern California,grass,gust_dir,241.656,0.069,32
+window,Northern California,shrub,wind_dir,238.262,0.145,41
+window,Northern California,shrub,gust_dir,240.362,0.142,41
+window,Northern California,tree,wind_dir,230.654,0.115,95
+window,Northern California,tree,gust_dir,229.8,0.076,95
+window,Southern California,All,wind_dir,254.548,0.128,233
+window,Southern California,All,gust_dir,260.331,0.112,232
+window,Southern California,grass,wind_dir,284.393,0.147,41
+window,Southern California,grass,gust_dir,283.275,0.148,41
+window,Southern California,shrub,wind_dir,251.161,0.119,158
+window,Southern California,shrub,gust_dir,257.993,0.107,157
+window,Southern California,tree,wind_dir,235.363,0.183,33
+window,Southern California,tree,gust_dir,234.712,0.123,33
+window,Southern California,nonburnable,wind_dir,293.32,0.151,1
+window,Southern California,nonburnable,gust_dir,303.678,0.112,1
+window,Great Basin,All,wind_dir,230.815,0.192,4
+window,Great Basin,All,gust_dir,254.967,0.208,4
+window,Great Basin,shrub,wind_dir,246.942,0.14,3
+window,Great Basin,shrub,gust_dir,270.551,0.174,3
+window,Great Basin,tree,wind_dir,212.974,0.382,1
+window,Great Basin,tree,gust_dir,231.775,0.357,1
+window,Other (NWCC),All,wind_dir,226.865,0.391,1
+window,Other (NWCC),All,gust_dir,213.222,0.344,1
+window,Other (NWCC),shrub,wind_dir,226.865,0.391,1
+window,Other (NWCC),shrub,gust_dir,213.222,0.344,1
+window,Other (SWCC),All,wind_dir,265.631,0.233,1
+window,Other (SWCC),All,gust_dir,261.335,0.272,1
+window,Other (SWCC),shrub,wind_dir,265.631,0.233,1
+window,Other (SWCC),shrub,gust_dir,261.335,0.272,1

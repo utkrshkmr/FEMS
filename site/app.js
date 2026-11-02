@@ -3,7 +3,7 @@
   "use strict";
   const { $, purge, initTheme, csv } = FX;
   const view = $("#view");
-  const PAGES = { landfire: window.PageLandfire, fems: window.PageStations };
+  const PAGES = { landfire: window.PageLandfire, fems: window.PageStations, met: window.PageMet };
   let INDEX = null, rendering = 0;
   async function route() {
     const tab = PAGES[location.hash.slice(1)] ? location.hash.slice(1) : "landfire";

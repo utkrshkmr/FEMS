@@ -1,0 +1,8 @@
+variable,low,high
+temperature,-60,130
+humidity,0,100
+rain,0,5
+wind,0,100
+gust,0,150
+solar,0,1400
+fm10,0,60

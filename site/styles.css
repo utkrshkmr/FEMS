@@ -186,3 +186,12 @@ details.about:not([open]) summary::before { content: "▸ "; }
 .toc { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; padding: 8px 0 4px; border-bottom: 1px solid var(--border); margin-bottom: 8px; }
 h2.part { font-size: 20px; margin-top: 40px; padding-top: 12px; border-top: 2px solid var(--axis); }
 table.data tr.pinned td { font-weight: 600; background: var(--surface-2); }
+
+/* MET small multiples */
+.smallscroll { overflow-x: auto; margin: 8px 0 16px; }
+.smallgrid { display: grid; gap: 8px; align-items: stretch; min-width: 760px; }
+.smallhead { font-size: 13px; font-weight: 600; color: var(--ink-2); text-transform: none; align-self: end; }
+.smallhead.side { align-self: center; }
+.smallcell { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 8px; min-width: 0; }
+.smalltitle { font-size: 12px; color: var(--ink-2); font-weight: 600; }
+.chart.mini { min-height: 130px; height: 130px; }

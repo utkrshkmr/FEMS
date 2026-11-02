@@ -394,6 +394,66 @@
   {
    "path": "stations/window_LF2025_FBFM40.csv",
    "bytes": 53257
+  },
+  {
+   "path": "met/annual.csv",
+   "bytes": 706527
+  },
+  {
+   "path": "met/directions.csv",
+   "bytes": 4593
+  },
+  {
+   "path": "met/fems_nearest.csv",
+   "bytes": 42311
+  },
+  {
+   "path": "met/limits.csv",
+   "bytes": 107
+  },
+  {
+   "path": "met/qc_breaks.csv",
+   "bytes": 123
+  },
+  {
+   "path": "met/qc_by_year.csv",
+   "bytes": 6010
+  },
+  {
+   "path": "met/qc_flags.csv",
+   "bytes": 914
+  },
+  {
+   "path": "met/roses.csv",
+   "bytes": 388898
+  },
+  {
+   "path": "met/solar_midday_flags.csv",
+   "bytes": 502
+  },
+  {
+   "path": "met/state_monthly.csv",
+   "bytes": 114823
+  },
+  {
+   "path": "met/state_seasonal.csv",
+   "bytes": 12992
+  },
+  {
+   "path": "met/stations.csv",
+   "bytes": 54108
+  },
+  {
+   "path": "met/summary.csv",
+   "bytes": 537
+  },
+  {
+   "path": "met/trend_years.csv",
+   "bytes": 1595
+  },
+  {
+   "path": "met/trends.csv",
+   "bytes": 74079
   }
  ]
 }

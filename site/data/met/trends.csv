@@ -1,0 +1,1012 @@
+source,region,fuel,var,policy,n_members,n_fixed,n_years,mean,slope_per_decade,p_value
+cell,All,All,fm10_dmin,filled,407,374,10,11.61757,0.62811,0.28313
+cell,All,All,fm10_dmin,strict,407,374,10,11.61757,0.62811,0.28313
+cell,All,All,fm10_mean,filled,407,374,10,14.72469,0.4179,0.59151
+cell,All,All,fm10_mean,strict,407,374,10,14.72469,0.4179,0.59151
+cell,All,All,gust_max,filled,407,375,10,55.4048,-0.90667,0.85803
+cell,All,All,gust_max,strict,407,163,10,49.74356,2.11656,0.37109
+cell,All,All,gust_mean,filled,407,375,10,11.1136,-0.3766,0.59151
+cell,All,All,gust_mean,strict,407,163,10,10.98852,-0.38689,0.59151
+cell,All,All,rain_total,filled,407,375,10,23.94826,3.47227,0.59151
+cell,All,All,rain_total,strict,407,217,8,25.06226,4.77966,0.38648
+cell,All,All,rh_dmin,filled,407,374,10,33.39734,0.79294,0.85803
+cell,All,All,rh_dmin,strict,407,93,8,33.5596,1.09146,0.90154
+cell,All,All,rh_mean,filled,407,374,10,54.03306,-0.68255,1.0
+cell,All,All,rh_mean,strict,407,93,8,56.48435,1.00349,1.0
+cell,All,All,solar_mean,filled,407,375,10,218.62219,6.28273,0.59151
+cell,All,All,temp_dmax,filled,407,374,10,69.79075,-0.87,0.47427
+cell,All,All,temp_dmax,strict,407,177,10,70.84416,-0.56814,1.0
+cell,All,All,temp_dmin,filled,407,374,10,47.48289,-0.86497,0.1074
+cell,All,All,temp_dmin,strict,407,177,10,47.51229,-0.939,0.15241
+cell,All,All,temp_mean,filled,407,374,10,57.6933,-0.52662,0.28313
+cell,All,All,temp_mean,strict,407,177,10,58.23152,-0.39448,0.47427
+cell,All,All,wind_mean,filled,407,375,10,5.2627,-0.32563,0.1074
+cell,All,All,wind_mean,strict,407,123,10,5.68306,-0.26343,0.2105
+cell,All,grass,fm10_dmin,filled,102,92,10,11.35739,0.25007,0.72051
+cell,All,grass,fm10_dmin,strict,102,92,10,11.35739,0.25007,0.72051
+cell,All,grass,fm10_mean,filled,102,92,10,14.73764,-0.01765,1.0
+cell,All,grass,fm10_mean,strict,102,92,10,14.73764,-0.01765,1.0
+cell,All,grass,gust_max,filled,102,92,10,56.55978,1.37681,0.85803
+cell,All,grass,gust_max,strict,102,45,10,51.63556,3.77778,0.07364
+cell,All,grass,gust_mean,filled,102,92,10,11.45174,-0.00678,1.0
+cell,All,grass,gust_mean,strict,102,45,10,11.06366,0.07022,1.0
+cell,All,grass,rain_total,filled,102,92,10,22.04149,1.42003,0.72051
+cell,All,grass,rain_total,strict,102,57,8,24.33886,3.99818,0.53619
+cell,All,grass,rh_dmin,filled,102,92,10,35.27547,0.02999,1.0
+cell,All,grass,rh_dmin,strict,102,25,8,35.5567,1.07355,0.53619
+cell,All,grass,rh_mean,filled,102,92,10,55.57357,-1.24274,0.85803
+cell,All,grass,rh_mean,strict,102,25,8,58.97519,1.14878,1.0
+cell,All,grass,solar_mean,filled,102,92,10,217.7652,5.225,0.47427
+cell,All,grass,temp_dmax,filled,102,92,10,70.74611,-0.16278,1.0
+cell,All,grass,temp_dmax,strict,102,49,10,72.06896,-0.14356,1.0
+cell,All,grass,temp_dmin,filled,102,92,10,49.50357,-1.16993,0.15241
+cell,All,grass,temp_dmin,strict,102,49,10,49.90887,-0.79857,0.37109
+cell,All,grass,temp_mean,filled,102,92,10,59.37411,-0.40657,0.47427
+cell,All,grass,temp_mean,strict,102,49,10,60.15779,-0.37431,0.47427
+cell,All,grass,wind_mean,filled,102,92,10,5.71914,-0.32801,0.15241
+cell,All,grass,wind_mean,strict,102,42,10,5.46804,-0.34438,0.1074
+cell,All,shrub,fm10_dmin,filled,203,187,10,11.29846,0.90538,0.15241
+cell,All,shrub,fm10_dmin,strict,203,187,10,11.29846,0.90538,0.15241
+cell,All,shrub,fm10_mean,filled,203,187,10,14.28995,0.67804,0.37109
+cell,All,shrub,fm10_mean,strict,203,187,10,14.28995,0.67804,0.37109
+cell,All,shrub,gust_max,filled,203,188,10,58.23723,-2.33452,0.59151
+cell,All,shrub,gust_max,strict,203,81,10,52.28642,1.57407,0.47427
+cell,All,shrub,gust_mean,filled,203,188,10,11.90613,-0.35084,0.37109
+cell,All,shrub,gust_mean,strict,203,81,10,11.91646,-0.45451,0.28313
+cell,All,shrub,rain_total,filled,203,188,10,19.63286,5.47214,0.47427
+cell,All,shrub,rain_total,strict,203,106,8,20.74079,8.89234,0.26551
+cell,All,shrub,rh_dmin,filled,203,187,10,31.69244,2.06008,0.72051
+cell,All,shrub,rh_dmin,strict,203,50,8,31.72865,1.58928,0.90154
+cell,All,shrub,rh_mean,filled,203,187,10,51.93833,1.78444,1.0
+cell,All,shrub,rh_mean,strict,203,50,8,53.823,1.16731,0.90154
+cell,All,shrub,solar_mean,filled,203,188,10,223.41816,4.38524,0.59151
+cell,All,shrub,temp_dmax,filled,203,187,10,70.05514,-1.02263,0.28313
+cell,All,shrub,temp_dmax,strict,203,87,10,70.80883,-0.61058,0.59151
+cell,All,shrub,temp_dmin,filled,203,187,10,47.6807,-0.82109,0.0491
+cell,All,shrub,temp_dmin,strict,203,87,10,47.51395,-0.5312,0.1074
+cell,All,shrub,temp_mean,filled,203,187,10,57.94967,-0.81629,0.0491
+cell,All,shrub,temp_mean,strict,203,87,10,58.29999,-0.50965,0.2105
+cell,All,shrub,wind_mean,filled,203,188,10,5.74169,-0.19901,0.28313
+cell,All,shrub,wind_mean,strict,203,66,10,5.92618,-0.04139,0.59151
+cell,All,tree,fm10_dmin,filled,48,46,10,13.38426,1.20648,0.2105
+cell,All,tree,fm10_dmin,strict,48,46,10,13.38426,1.20648,0.2105
+cell,All,tree,fm10_mean,filled,48,46,10,16.38274,0.98973,0.47427
+cell,All,tree,fm10_mean,strict,48,46,10,16.38274,0.98973,0.47427
+cell,All,tree,gust_max,filled,48,46,10,48.16957,-2.82609,0.59151
+cell,All,tree,gust_max,strict,48,16,10,43.24375,0.52083,0.72051
+cell,All,tree,gust_mean,filled,48,46,10,9.01143,-0.18547,0.72051
+cell,All,tree,gust_mean,strict,48,16,10,9.06393,-0.25241,0.59151
+cell,All,tree,rain_total,filled,48,46,10,42.43915,-0.12391,1.0
+cell,All,tree,rain_total,strict,48,23,8,44.45516,3.00565,0.90154
+cell,All,tree,rh_dmin,filled,48,46,10,37.58844,0.41226,1.0
+cell,All,tree,rh_dmin,strict,48,6,8,39.74763,1.40723,0.90154
+cell,All,tree,rh_mean,filled,48,46,10,58.72149,-3.23156,0.85803
+cell,All,tree,rh_mean,strict,48,6,8,64.3026,-1.78175,0.90154
+cell,All,tree,solar_mean,filled,48,46,10,204.50736,4.89026,0.47427
+cell,All,tree,temp_dmax,filled,48,46,10,66.00591,-1.12732,0.72051
+cell,All,tree,temp_dmax,strict,48,19,10,67.76271,-0.7858,0.72051
+cell,All,tree,temp_dmin,filled,48,46,10,44.25473,-0.80538,0.47427
+cell,All,tree,temp_dmin,strict,48,19,10,44.60945,-0.70534,0.59151
+cell,All,tree,temp_mean,filled,48,46,10,53.71788,-0.5324,0.59151
+cell,All,tree,temp_mean,strict,48,19,10,54.68449,-0.39012,0.85803
+cell,All,tree,wind_mean,filled,48,46,10,3.77003,-0.22811,0.28313
+cell,All,tree,wind_mean,strict,48,6,10,6.14102,-0.46586,0.03182
+cell,All,nonburnable,fm10_dmin,filled,54,49,10,11.66538,0.58794,0.37109
+cell,All,nonburnable,fm10_dmin,strict,54,49,10,11.66538,0.58794,0.37109
+cell,All,nonburnable,fm10_mean,filled,54,49,10,14.80295,0.35273,0.72051
+cell,All,nonburnable,fm10_mean,strict,54,49,10,14.80295,0.35273,0.72051
+cell,All,nonburnable,gust_max,filled,54,49,10,49.16122,3.26531,0.59151
+cell,All,nonburnable,gust_max,strict,54,21,10,40.83333,0.71429,0.78762
+cell,All,nonburnable,gust_mean,filled,54,49,10,9.41146,-0.29599,0.1074
+cell,All,nonburnable,gust_mean,strict,54,21,10,8.71466,-0.47992,0.1074
+cell,All,nonburnable,rain_total,filled,54,49,10,26.72655,2.41633,0.59151
+cell,All,nonburnable,rain_total,strict,54,31,8,26.78073,2.13629,0.53619
+cell,All,nonburnable,rh_dmin,filled,54,49,10,32.44305,1.03179,0.85803
+cell,All,nonburnable,rh_dmin,strict,54,12,8,33.93392,0.23214,1.0
+cell,All,nonburnable,rh_mean,filled,54,49,10,54.73347,0.69585,1.0
+cell,All,nonburnable,rh_mean,strict,54,12,8,58.47488,-0.88109,0.90154
+cell,All,nonburnable,solar_mean,filled,54,49,10,215.08104,3.49022,0.85803
+cell,All,nonburnable,temp_dmax,filled,54,49,10,70.54112,-0.66137,0.47427
+cell,All,nonburnable,temp_dmax,strict,54,22,10,70.91718,-0.27832,0.85803
+cell,All,nonburnable,temp_dmin,filled,54,49,10,45.96456,-1.24066,0.07364
+cell,All,nonburnable,temp_dmin,strict,54,22,10,44.6749,-0.9181,0.15241
+cell,All,nonburnable,temp_mean,filled,54,49,10,57.29115,-0.79078,0.28313
+cell,All,nonburnable,temp_mean,strict,54,22,10,56.7338,-0.21977,0.72051
+cell,All,nonburnable,wind_mean,filled,54,49,10,3.96922,-0.44971,0.02004
+cell,All,nonburnable,wind_mean,strict,54,9,10,4.59824,-0.8151,0.00729
+cell,Northern California,All,fm10_dmin,filled,168,161,10,12.95079,0.78278,0.47427
+cell,Northern California,All,fm10_dmin,strict,168,161,10,12.95079,0.78278,0.47427
+cell,Northern California,All,fm10_mean,filled,168,161,10,16.08531,0.11156,0.72051
+cell,Northern California,All,fm10_mean,strict,168,161,10,16.08531,0.11156,0.72051
+cell,Northern California,All,gust_max,filled,168,161,10,54.2472,-1.18012,0.72051
+cell,Northern California,All,gust_max,strict,168,68,10,48.92206,0.73529,0.72051
+cell,Northern California,All,gust_mean,filled,168,161,10,10.59408,0.11587,0.72051
+cell,Northern California,All,gust_mean,strict,168,68,10,10.59282,0.03829,1.0
+cell,Northern California,All,rain_total,filled,168,161,10,33.60808,2.49425,1.0
+cell,Northern California,All,rain_total,strict,168,90,8,35.39174,1.52896,0.71052
+cell,Northern California,All,rh_dmin,filled,168,161,10,37.26628,0.30261,1.0
+cell,Northern California,All,rh_dmin,strict,168,35,8,37.24846,0.62691,1.0
+cell,Northern California,All,rh_mean,filled,168,161,10,58.8318,-1.74959,0.59151
+cell,Northern California,All,rh_mean,strict,168,35,8,61.02545,0.43708,0.90154
+cell,Northern California,All,solar_mean,filled,168,161,10,203.84417,3.75093,0.37109
+cell,Northern California,All,temp_dmax,filled,168,161,10,66.77625,-1.1155,0.85803
+cell,Northern California,All,temp_dmax,strict,168,71,10,67.93857,-0.38604,0.85803
+cell,Northern California,All,temp_dmin,filled,168,161,10,44.58638,-1.11353,0.47427
+cell,Northern California,All,temp_dmin,strict,168,71,10,44.9409,-1.27502,0.28313
+cell,Northern California,All,temp_mean,filled,168,161,10,54.67591,-0.67597,0.72051
+cell,Northern California,All,temp_mean,strict,168,71,10,55.44341,-0.59876,0.72051
+cell,Northern California,All,wind_mean,filled,168,161,10,4.84222,-0.04369,1.0
+cell,Northern California,All,wind_mean,strict,168,46,10,5.80543,-0.30735,0.37109
+cell,Northern California,grass,fm10_dmin,filled,52,49,10,12.17556,0.22636,0.72051
+cell,Northern California,grass,fm10_dmin,strict,52,49,10,12.17556,0.22636,0.72051
+cell,Northern California,grass,fm10_mean,filled,52,49,10,15.59238,0.05808,1.0
+cell,Northern California,grass,fm10_mean,strict,52,49,10,15.59238,0.05808,1.0
+cell,Northern California,grass,gust_max,filled,52,49,10,57.82041,2.53968,0.59151
+cell,Northern California,grass,gust_max,strict,52,25,10,53.404,4.45714,0.2105
+cell,Northern California,grass,gust_mean,filled,52,49,10,11.72982,0.21255,0.47427
+cell,Northern California,grass,gust_mean,strict,52,25,10,11.73058,0.54036,0.28313
+cell,Northern California,grass,rain_total,filled,52,49,10,28.36584,-0.41283,0.72051
+cell,Northern California,grass,rain_total,strict,52,30,8,32.13967,1.92706,0.26551
+cell,Northern California,grass,rh_dmin,filled,52,49,10,37.63309,-0.34294,0.72051
+cell,Northern California,grass,rh_dmin,strict,52,12,8,38.50369,1.61918,0.53619
+cell,Northern California,grass,rh_mean,filled,52,49,10,58.45042,-2.05175,0.59151
+cell,Northern California,grass,rh_mean,strict,52,12,8,62.82814,1.17672,0.90154
+cell,Northern California,grass,solar_mean,filled,52,49,10,208.7505,4.37681,0.37109
+cell,Northern California,grass,temp_dmax,filled,52,49,10,68.37415,0.31655,1.0
+cell,Northern California,grass,temp_dmax,strict,52,24,10,69.38955,0.16162,0.85803
+cell,Northern California,grass,temp_dmin,filled,52,49,10,47.49517,-1.02076,0.37109
+cell,Northern California,grass,temp_dmin,strict,52,24,10,47.9159,-0.93817,0.47427
+cell,Northern California,grass,temp_mean,filled,52,49,10,57.18141,-0.3071,0.72051
+cell,Northern California,grass,temp_mean,strict,52,24,10,57.85876,-0.1657,0.59151
+cell,Northern California,grass,wind_mean,filled,52,49,10,5.76192,-0.23321,0.59151
+cell,Northern California,grass,wind_mean,strict,52,21,10,6.03482,-0.04826,1.0
+cell,Northern California,shrub,fm10_dmin,filled,58,56,10,13.18633,1.244,0.28313
+cell,Northern California,shrub,fm10_dmin,strict,58,56,10,13.18633,1.244,0.28313
+cell,Northern California,shrub,fm10_mean,filled,58,56,10,15.90069,0.55897,0.47427
+cell,Northern California,shrub,fm10_mean,strict,58,56,10,15.90069,0.55897,0.47427
+cell,Northern California,shrub,gust_max,filled,58,56,10,56.60893,-2.14286,0.5296
+cell,Northern California,shrub,gust_max,strict,58,22,10,48.85455,-0.15152,1.0
+cell,Northern California,shrub,gust_mean,filled,58,56,10,11.08422,0.47025,0.2105
+cell,Northern California,shrub,gust_mean,strict,58,22,10,10.7009,0.3587,0.59151
+cell,Northern California,shrub,rain_total,filled,58,56,10,27.6387,5.62634,0.85803
+cell,Northern California,shrub,rain_total,strict,58,31,8,29.47419,-0.25375,1.0
+cell,Northern California,shrub,rh_dmin,filled,58,56,10,35.46384,-0.34525,1.0
+cell,Northern California,shrub,rh_dmin,strict,58,11,8,34.4721,1.90445,0.90154
+cell,Northern California,shrub,rh_mean,filled,58,56,10,56.90457,-1.0073,0.85803
+cell,Northern California,shrub,rh_mean,strict,58,11,8,57.52008,0.62338,0.71052
+cell,Northern California,shrub,solar_mean,filled,58,56,10,205.64344,4.9951,0.28313
+cell,Northern California,shrub,temp_dmax,filled,58,56,10,65.32416,-1.34556,0.59151
+cell,Northern California,shrub,temp_dmax,strict,58,24,10,65.53031,-0.81011,0.85803
+cell,Northern California,shrub,temp_dmin,filled,58,56,10,42.45861,-0.89635,0.47427
+cell,Northern California,shrub,temp_dmin,strict,58,24,10,42.10134,-1.24321,0.37109
+cell,Northern California,shrub,temp_mean,filled,58,56,10,52.98384,-0.68323,0.72051
+cell,Northern California,shrub,temp_mean,strict,58,24,10,52.94903,-0.39973,0.72051
+cell,Northern California,shrub,wind_mean,filled,58,56,10,5.10739,0.19536,0.28313
+cell,Northern California,shrub,wind_mean,strict,58,16,10,5.59812,-0.01934,1.0
+cell,Northern California,tree,fm10_dmin,filled,34,32,10,13.637,0.81888,0.37109
+cell,Northern California,tree,fm10_dmin,strict,34,32,10,13.637,0.81888,0.37109
+cell,Northern California,tree,fm10_mean,filled,34,32,10,16.94805,0.28356,0.59151
+cell,Northern California,tree,fm10_mean,strict,34,32,10,16.94805,0.28356,0.59151
+cell,Northern California,tree,gust_max,filled,34,32,10,48.31562,-7.8125,0.15241
+cell,Northern California,tree,gust_max,strict,34,10,10,45.2,-1.71429,0.72051
+cell,Northern California,tree,gust_mean,filled,34,32,10,9.07418,-0.36245,0.28313
+cell,Northern California,tree,gust_mean,strict,34,10,10,9.73685,-0.46712,0.47427
+cell,Northern California,tree,rain_total,filled,34,32,10,49.4835,1.79219,0.85803
+cell,Northern California,tree,rain_total,strict,34,15,8,51.29892,4.07083,0.53619
+cell,Northern California,tree,rh_dmin,filled,34,32,10,40.07524,-0.79278,0.85803
+cell,Northern California,tree,rh_dmin,strict,34,4,8,44.50075,2.34645,0.53619
+cell,Northern California,tree,rh_mean,filled,34,32,10,61.47769,-1.90598,0.85803
+cell,Northern California,tree,rh_mean,strict,34,4,8,67.07478,0.43244,1.0
+cell,Northern California,tree,solar_mean,filled,34,32,10,196.55255,3.39568,0.59151
+cell,Northern California,tree,temp_dmax,filled,34,32,10,66.24202,-1.2899,0.72051
+cell,Northern California,tree,temp_dmax,strict,34,12,10,67.65322,-0.66054,1.0
+cell,Northern California,tree,temp_dmin,filled,34,32,10,44.60596,-0.71478,0.47427
+cell,Northern California,tree,temp_dmin,strict,34,12,10,45.59384,-1.1435,0.2105
+cell,Northern California,tree,temp_mean,filled,34,32,10,53.96406,-0.76276,0.72051
+cell,Northern California,tree,temp_mean,strict,34,12,10,55.07603,-0.62287,0.72051
+cell,Northern California,tree,wind_mean,filled,34,32,10,3.72839,-0.48168,0.02004
+cell,Northern California,tree,wind_mean,strict,34,4,10,6.72523,-0.71835,0.02004
+cell,Northern California,nonburnable,fm10_dmin,filled,24,24,10,13.06898,0.49794,0.37109
+cell,Northern California,nonburnable,fm10_dmin,strict,24,24,10,13.06898,0.49794,0.37109
+cell,Northern California,nonburnable,fm10_mean,filled,24,24,10,16.37219,0.04223,1.0
+cell,Northern California,nonburnable,fm10_mean,strict,24,24,10,16.37219,0.04223,1.0
+cell,Northern California,nonburnable,gust_max,filled,24,24,10,49.35,4.79167,0.59151
+cell,Northern California,nonburnable,gust_max,strict,24,11,10,42.25455,-1.59091,0.59151
+cell,Northern California,nonburnable,gust_mean,filled,24,24,10,9.15813,0.10521,0.85803
+cell,Northern California,nonburnable,gust_mean,strict,24,11,10,8.569,-0.47242,0.1074
+cell,Northern California,nonburnable,rain_total,filled,24,24,10,37.07233,4.6349,1.0
+cell,Northern California,nonburnable,rain_total,strict,24,14,8,38.42018,5.72181,0.90154
+cell,Northern California,nonburnable,rh_dmin,filled,24,24,10,36.97777,0.15304,0.72051
+cell,Northern California,nonburnable,rh_dmin,strict,24,8,8,35.55698,0.14385,0.90154
+cell,Northern California,nonburnable,rh_mean,filled,24,24,10,60.57949,-1.66943,0.59151
+cell,Northern California,nonburnable,rh_mean,strict,24,8,8,60.11664,1.28635,1.0
+cell,Northern California,nonburnable,solar_mean,filled,24,24,10,199.35094,2.80732,0.72051
+cell,Northern California,nonburnable,temp_dmax,filled,24,24,10,67.61439,-0.79082,0.72051
+cell,Northern California,nonburnable,temp_dmax,strict,24,11,10,70.33848,-0.7342,0.72051
+cell,Northern California,nonburnable,temp_dmin,filled,24,24,10,43.58627,-1.27678,0.07364
+cell,Northern California,nonburnable,temp_dmin,strict,24,11,10,43.9331,-1.45164,0.03182
+cell,Northern California,nonburnable,temp_mean,filled,24,24,10,54.45782,-1.12451,0.72051
+cell,Northern California,nonburnable,temp_mean,strict,24,11,10,56.01657,-1.00116,0.28313
+cell,Northern California,nonburnable,wind_mean,filled,24,24,10,3.83084,-0.52975,0.03182
+cell,Northern California,nonburnable,wind_mean,strict,24,5,10,4.76952,-1.09139,0.01227
+cell,Southern California,All,fm10_dmin,filled,233,207,10,10.57769,0.66142,0.28313
+cell,Southern California,All,fm10_dmin,strict,233,207,10,10.57769,0.66142,0.28313
+cell,Southern California,All,fm10_mean,filled,233,207,10,13.69086,0.68352,0.72051
+cell,Southern California,All,fm10_mean,strict,233,207,10,13.69086,0.68352,0.72051
+cell,Southern California,All,gust_max,filled,233,208,10,56.28798,-0.04808,1.0
+cell,Southern California,All,gust_max,strict,233,91,10,50.34505,4.12698,0.2105
+cell,Southern California,All,gust_mean,filled,233,208,10,11.53826,-0.40758,0.1074
+cell,Southern California,All,gust_mean,strict,233,91,10,11.30385,-0.41413,0.28313
+cell,Southern California,All,rain_total,filled,233,208,10,16.56112,6.13662,0.37109
+cell,Southern California,All,rain_total,strict,233,123,8,17.79663,10.40845,0.17355
+cell,Southern California,All,rh_dmin,filled,233,207,10,30.57416,2.41973,0.85803
+cell,Southern California,All,rh_dmin,strict,233,56,8,31.42431,1.80245,0.90154
+cell,Southern California,All,rh_mean,filled,233,207,10,50.47844,2.11575,1.0
+cell,Southern California,All,rh_mean,strict,233,56,8,53.75001,0.81149,1.0
+cell,Southern California,All,solar_mean,filled,233,208,10,230.04861,4.3751,0.72051
+cell,Southern California,All,temp_dmax,filled,233,207,10,72.18091,-0.97761,0.1074
+cell,Southern California,All,temp_dmax,strict,233,103,10,73.02451,-0.58754,0.28313
+cell,Southern California,All,temp_dmin,filled,233,207,10,49.89192,-0.62193,0.03182
+cell,Southern California,All,temp_dmin,strict,233,103,10,49.5888,-0.47326,0.2105
+cell,Southern California,All,temp_mean,filled,233,207,10,60.13421,-0.86101,0.0491
+cell,Southern California,All,temp_mean,strict,233,103,10,60.38979,-0.41174,0.07364
+cell,Southern California,All,wind_mean,filled,233,208,10,5.61889,-0.28185,0.15241
+cell,Southern California,All,wind_mean,strict,233,74,10,5.63451,-0.05155,0.59151
+cell,Southern California,grass,fm10_dmin,filled,49,42,10,10.36895,0.3824,0.72051
+cell,Southern California,grass,fm10_dmin,strict,49,42,10,10.36895,0.3824,0.72051
+cell,Southern California,grass,fm10_mean,filled,49,42,10,13.73782,0.01739,1.0
+cell,Southern California,grass,fm10_mean,strict,49,42,10,13.73782,0.01739,1.0
+cell,Southern California,grass,gust_max,filled,49,42,10,55.26429,-0.39683,0.72051
+cell,Southern California,grass,gust_max,strict,49,19,10,49.43684,5.78947,0.0491
+cell,Southern California,grass,gust_mean,filled,49,42,10,11.14115,-0.43871,0.28313
+cell,Southern California,grass,gust_mean,strict,49,19,10,10.18107,-0.41661,0.15241
+cell,Southern California,grass,rain_total,filled,49,42,10,14.64874,6.50476,0.37109
+cell,Southern California,grass,rain_total,strict,49,26,8,15.38322,8.58269,0.26551
+cell,Southern California,grass,rh_dmin,filled,49,42,10,32.74727,2.57518,1.0
+cell,Southern California,grass,rh_dmin,strict,49,12,8,33.36784,1.81376,0.90154
+cell,Southern California,grass,rh_mean,filled,49,42,10,52.37184,1.35318,1.0
+cell,Southern California,grass,rh_mean,strict,49,12,8,55.92221,2.98759,0.71052
+cell,Southern California,grass,solar_mean,filled,49,42,10,228.21809,6.06198,0.47427
+cell,Southern California,grass,temp_dmax,filled,49,42,10,73.65941,-0.75841,0.2105
+cell,Southern California,grass,temp_dmax,strict,49,24,10,75.06081,-0.44078,0.59151
+cell,Southern California,grass,temp_dmin,filled,49,42,10,52.1644,-0.75115,0.15241
+cell,Southern California,grass,temp_dmin,strict,49,24,10,52.47285,-0.76115,0.15241
+cell,Southern California,grass,temp_mean,filled,49,42,10,62.15902,-0.6814,0.0491
+cell,Southern California,grass,temp_mean,strict,49,24,10,62.8854,-0.64343,0.1074
+cell,Southern California,grass,wind_mean,filled,49,42,10,5.71628,-0.58171,0.07364
+cell,Southern California,grass,wind_mean,strict,49,20,10,4.95839,-0.48908,0.00729
+cell,Southern California,shrub,fm10_dmin,filled,141,127,10,10.47799,0.70289,0.28313
+cell,Southern California,shrub,fm10_dmin,strict,141,127,10,10.47799,0.70289,0.28313
+cell,Southern California,shrub,fm10_mean,filled,141,127,10,13.61678,0.77132,0.72051
+cell,Southern California,shrub,fm10_mean,strict,141,127,10,13.61678,0.77132,0.72051
+cell,Southern California,shrub,gust_max,filled,141,128,10,58.76172,-0.45573,0.85803
+cell,Southern California,shrub,gust_max,strict,141,57,10,53.23509,3.07018,0.2105
+cell,Southern California,shrub,gust_mean,filled,141,128,10,12.28295,-0.42906,0.15241
+cell,Southern California,shrub,gust_mean,strict,141,57,10,12.36435,-0.38488,0.28313
+cell,Southern California,shrub,rain_total,filled,141,128,10,16.11045,6.21406,0.37109
+cell,Southern California,shrub,rain_total,strict,141,73,8,17.34411,13.16069,0.17355
+cell,Southern California,shrub,rh_dmin,filled,141,127,10,30.20109,2.48913,0.72051
+cell,Southern California,shrub,rh_dmin,strict,141,39,8,30.95485,2.13886,0.90154
+cell,Southern California,shrub,rh_mean,filled,141,127,10,49.96332,3.34967,1.0
+cell,Southern California,shrub,rh_mean,strict,141,39,8,52.78024,1.21402,1.0
+cell,Southern California,shrub,solar_mean,filled,141,128,10,231.19843,3.48043,0.72051
+cell,Southern California,shrub,temp_dmax,filled,141,127,10,72.12893,-1.14585,0.1074
+cell,Southern California,shrub,temp_dmax,strict,141,62,10,72.91615,-0.70725,0.2105
+cell,Southern California,shrub,temp_dmin,filled,141,127,10,50.03129,-0.76783,0.02004
+cell,Southern California,shrub,temp_dmin,strict,141,62,10,49.67783,-0.54697,0.07364
+cell,Southern California,shrub,temp_mean,filled,141,127,10,60.1478,-0.94704,0.0491
+cell,Southern California,shrub,temp_mean,strict,141,62,10,60.43493,-0.54656,0.1074
+cell,Southern California,shrub,wind_mean,filled,141,128,10,6.0394,-0.24712,0.15241
+cell,Southern California,shrub,wind_mean,strict,141,48,10,6.048,0.06341,1.0
+cell,Southern California,tree,fm10_dmin,filled,13,13,10,12.72552,1.79405,0.07364
+cell,Southern California,tree,fm10_dmin,strict,13,13,10,12.72552,1.79405,0.07364
+cell,Southern California,tree,fm10_mean,filled,13,13,10,15.02124,1.00528,0.37109
+cell,Southern California,tree,fm10_mean,strict,13,13,10,15.02124,1.00528,0.37109
+cell,Southern California,tree,gust_max,filled,13,13,10,49.29231,7.21154,0.2105
+cell,Southern California,tree,gust_max,strict,13,5,10,43.0,5.25,0.47427
+cell,Southern California,tree,gust_mean,filled,13,13,10,9.11127,0.63377,0.0491
+cell,Southern California,tree,gust_mean,strict,13,5,10,8.33862,0.32079,0.28313
+cell,Southern California,tree,rain_total,filled,13,13,10,26.728,-0.4022,1.0
+cell,Southern California,tree,rain_total,strict,13,7,8,32.94018,1.8682,0.90154
+cell,Southern California,tree,rh_dmin,filled,13,13,10,31.97565,3.3943,0.72051
+cell,Southern California,tree,rh_dmin,strict,13,1,8,29.35655,1.1336,0.71052
+cell,Southern California,tree,rh_mean,filled,13,13,10,52.00346,0.83992,1.0
+cell,Southern California,tree,rh_mean,strict,13,1,8,59.73928,1.43028,0.90154
+cell,Southern California,tree,solar_mean,filled,13,13,10,224.38495,5.20513,0.47427
+cell,Southern California,tree,temp_dmax,filled,13,13,10,65.66232,-0.19345,0.72051
+cell,Southern California,tree,temp_dmax,strict,13,6,10,68.80145,-0.17328,1.0
+cell,Southern California,tree,temp_dmin,filled,13,13,10,44.3505,0.11931,1.0
+cell,Southern California,tree,temp_dmin,strict,13,6,10,44.78149,-0.02743,1.0
+cell,Southern California,tree,temp_mean,filled,13,13,10,53.69637,-0.00854,1.0
+cell,Southern California,tree,temp_mean,strict,13,6,10,55.32858,0.19266,0.85803
+cell,Southern California,tree,wind_mean,filled,13,13,10,4.08077,0.35534,0.02004
+cell,Southern California,tree,wind_mean,strict,13,2,10,4.97258,-0.2035,0.59151
+cell,Southern California,nonburnable,fm10_dmin,filled,30,25,10,10.31793,0.71445,0.2105
+cell,Southern California,nonburnable,fm10_dmin,strict,30,25,10,10.31793,0.71445,0.2105
+cell,Southern California,nonburnable,fm10_mean,filled,30,25,10,13.29648,0.45012,0.85803
+cell,Southern California,nonburnable,fm10_mean,strict,30,25,10,13.29648,0.45012,0.85803
+cell,Southern California,nonburnable,gust_max,filled,30,25,10,48.98,2.28571,0.37109
+cell,Southern California,nonburnable,gust_max,strict,30,10,10,39.27,3.85714,0.2105
+cell,Southern California,nonburnable,gust_mean,filled,30,25,10,9.65466,-0.54447,0.0491
+cell,Southern California,nonburnable,gust_mean,strict,30,10,10,8.87489,-0.3342,0.15241
+cell,Southern California,nonburnable,rain_total,filled,30,25,10,16.7946,4.302,0.59151
+cell,Southern California,nonburnable,rain_total,strict,30,17,8,17.19529,4.28366,0.71052
+cell,Southern California,nonburnable,rh_dmin,filled,30,25,10,28.08972,-0.08475,1.0
+cell,Southern California,nonburnable,rh_dmin,strict,30,4,8,30.68779,-1.2948,1.0
+cell,Southern California,nonburnable,rh_mean,filled,30,25,10,49.12129,-0.14677,1.0
+cell,Southern California,nonburnable,rh_mean,strict,30,4,8,55.19137,-2.11759,0.90154
+cell,Southern California,nonburnable,solar_mean,filled,30,25,10,230.18192,2.28457,0.59151
+cell,Southern California,nonburnable,temp_dmax,filled,30,25,10,73.35078,-0.86299,0.1074
+cell,Southern California,nonburnable,temp_dmax,strict,30,11,10,71.49587,0.06162,0.85803
+cell,Southern California,nonburnable,temp_dmin,filled,30,25,10,48.24772,-0.85278,0.2105
+cell,Southern California,nonburnable,temp_dmin,strict,30,11,10,45.4167,0.04211,1.0
+cell,Southern California,nonburnable,temp_mean,filled,30,25,10,60.01114,-0.51606,0.1074
+cell,Southern California,nonburnable,temp_mean,strict,30,11,10,57.45103,0.40392,0.37109
+cell,Southern California,nonburnable,wind_mean,filled,30,25,10,4.10205,-0.50543,0.01227
+cell,Southern California,nonburnable,wind_mean,strict,30,4,10,4.38414,-0.37818,0.0491
+cell,Great Basin,All,fm10_dmin,filled,4,4,10,12.28599,1.48146,0.28313
+cell,Great Basin,All,fm10_dmin,strict,4,4,10,12.28599,1.48146,0.28313
+cell,Great Basin,All,fm10_mean,filled,4,4,10,14.16219,0.77275,0.59151
+cell,Great Basin,All,fm10_mean,strict,4,4,10,14.16219,0.77275,0.59151
+cell,Great Basin,All,gust_max,filled,4,4,10,56.0,-3.75,0.72051
+cell,Great Basin,All,gust_max,strict,4,4,10,50.025,-11.25,0.0491
+cell,Great Basin,All,gust_mean,filled,4,4,10,10.34683,-0.15757,0.85803
+cell,Great Basin,All,gust_mean,strict,4,4,10,10.54161,-0.09817,1.0
+cell,Great Basin,All,rain_total,filled,4,4,10,15.551,-7.87143,0.2105
+cell,Great Basin,All,rain_total,strict,4,4,8,16.06719,-7.225,0.17355
+cell,Great Basin,All,rh_dmin,filled,4,4,10,25.39262,-0.8897,0.59151
+cell,Great Basin,All,rh_dmin,strict,4,2,8,28.7927,-0.63645,0.90154
+cell,Great Basin,All,rh_mean,filled,4,4,10,47.60338,-1.66742,0.85803
+cell,Great Basin,All,rh_mean,strict,4,2,8,53.57643,0.21854,1.0
+cell,Great Basin,All,solar_mean,filled,4,4,10,220.15347,6.47853,0.2105
+cell,Great Basin,All,temp_dmax,filled,4,4,10,64.52118,-1.11594,0.59151
+cell,Great Basin,All,temp_dmax,strict,4,3,10,64.75126,-1.11522,0.72051
+cell,Great Basin,All,temp_dmin,filled,4,4,10,36.18064,-1.57543,0.47427
+cell,Great Basin,All,temp_dmin,strict,4,3,10,37.07514,-0.32653,0.72051
+cell,Great Basin,All,temp_mean,filled,4,4,10,49.61377,-0.17538,1.0
+cell,Great Basin,All,temp_mean,strict,4,3,10,50.11662,0.2002,1.0
+cell,Great Basin,All,wind_mean,filled,4,4,10,4.02386,-0.00287,1.0
+cell,Great Basin,All,wind_mean,strict,4,3,10,5.00435,-0.02758,1.0
+cell,Great Basin,grass,fm10_dmin,filled,1,1,10,12.78122,1.45529,0.1074
+cell,Great Basin,grass,fm10_dmin,strict,1,1,10,12.78122,1.45529,0.1074
+cell,Great Basin,grass,fm10_mean,filled,1,1,10,14.84819,0.76095,0.28313
+cell,Great Basin,grass,fm10_mean,strict,1,1,10,14.84819,0.76095,0.28313
+cell,Great Basin,grass,gust_max,filled,1,1,10,49.2,0.0,1.0
+cell,Great Basin,grass,gust_max,strict,1,1,10,49.2,0.0,1.0
+cell,Great Basin,grass,gust_mean,filled,1,1,10,10.87042,0.45333,0.28313
+cell,Great Basin,grass,gust_mean,strict,1,1,10,11.15986,0.55465,0.28313
+cell,Great Basin,grass,rain_total,filled,1,1,10,22.644,-4.06667,0.59151
+cell,Great Basin,grass,rain_total,strict,1,1,8,23.16125,-6.30556,0.53619
+cell,Great Basin,grass,rh_dmin,filled,1,1,10,25.9363,-0.93493,0.72051
+cell,Great Basin,grass,rh_dmin,strict,1,1,8,26.45914,-0.92848,0.90154
+cell,Great Basin,grass,rh_mean,filled,1,1,10,49.08051,-3.93469,0.59151
+cell,Great Basin,grass,rh_mean,strict,1,1,8,49.37564,-1.19352,1.0
+cell,Great Basin,grass,solar_mean,filled,1,1,10,220.46438,8.66052,0.1074
+cell,Great Basin,grass,temp_dmax,filled,1,1,10,64.61364,-0.59436,0.72051
+cell,Great Basin,grass,temp_dmax,strict,1,1,10,64.57046,-0.55084,0.85803
+cell,Great Basin,grass,temp_dmin,filled,1,1,10,36.1606,0.17953,1.0
+cell,Great Basin,grass,temp_dmin,strict,1,1,10,36.20472,-0.12325,1.0
+cell,Great Basin,grass,temp_mean,filled,1,1,10,49.85004,0.64923,0.72051
+cell,Great Basin,grass,temp_mean,strict,1,1,10,49.87156,0.45243,0.72051
+cell,Great Basin,grass,wind_mean,filled,1,1,10,3.74327,0.36905,0.2105
+cell,Great Basin,grass,wind_mean,strict,1,1,10,3.75879,0.32364,0.2105
+cell,Great Basin,shrub,fm10_dmin,filled,2,2,10,11.25128,1.25567,0.2105
+cell,Great Basin,shrub,fm10_dmin,strict,2,2,10,11.25128,1.25567,0.2105
+cell,Great Basin,shrub,fm10_mean,filled,2,2,10,12.90415,0.62002,0.72051
+cell,Great Basin,shrub,fm10_mean,strict,2,2,10,12.90415,0.62002,0.72051
+cell,Great Basin,shrub,gust_max,filled,2,2,10,72.95,-10.0,0.59151
+cell,Great Basin,shrub,gust_max,strict,2,2,10,63.0,-15.0,0.1074
+cell,Great Basin,shrub,gust_mean,filled,2,2,10,12.40564,-0.36883,0.72051
+cell,Great Basin,shrub,gust_mean,strict,2,2,10,12.52267,-0.25526,0.85803
+cell,Great Basin,shrub,rain_total,filled,2,2,10,9.1475,-6.475,0.00921
+cell,Great Basin,shrub,rain_total,strict,2,2,8,9.35188,-6.02639,0.04606
+cell,Great Basin,shrub,rh_dmin,filled,2,2,10,22.32844,-0.81864,0.72051
+cell,Great Basin,shrub,rh_dmin,strict,2,0,0,,,
+cell,Great Basin,shrub,rh_mean,filled,2,2,10,41.73766,-0.13709,1.0
+cell,Great Basin,shrub,rh_mean,strict,2,0,0,,,
+cell,Great Basin,shrub,solar_mean,filled,2,2,10,229.74853,6.95126,0.37109
+cell,Great Basin,shrub,temp_dmax,filled,2,2,10,65.2771,-0.68355,0.85803
+cell,Great Basin,shrub,temp_dmax,strict,2,1,10,66.83906,-0.22635,1.0
+cell,Great Basin,shrub,temp_dmin,filled,2,2,10,38.39584,-2.62147,0.2105
+cell,Great Basin,shrub,temp_dmin,strict,2,1,10,43.25608,-0.05317,0.85803
+cell,Great Basin,shrub,temp_mean,filled,2,2,10,51.24266,-0.68698,1.0
+cell,Great Basin,shrub,temp_mean,strict,2,1,10,54.35675,0.08399,1.0
+cell,Great Basin,shrub,wind_mean,filled,2,2,10,5.64474,-0.22818,0.47427
+cell,Great Basin,shrub,wind_mean,strict,2,2,10,5.62713,-0.16362,0.59151
+cell,Great Basin,tree,fm10_dmin,filled,1,1,10,13.86017,1.99025,0.2105
+cell,Great Basin,tree,fm10_dmin,strict,1,1,10,13.86017,1.99025,0.2105
+cell,Great Basin,tree,fm10_mean,filled,1,1,10,15.99225,1.23156,0.47427
+cell,Great Basin,tree,fm10_mean,strict,1,1,10,15.99225,1.23156,0.47427
+cell,Great Basin,tree,gust_max,filled,1,1,10,28.9,0.0,1.0
+cell,Great Basin,tree,gust_max,strict,1,1,10,24.9,-4.28571,0.01345
+cell,Great Basin,tree,gust_mean,filled,1,1,10,5.70562,-0.99623,0.03182
+cell,Great Basin,tree,gust_mean,strict,1,1,10,5.96126,-1.10802,0.03182
+cell,Great Basin,tree,rain_total,filled,1,1,10,21.265,-7.6,0.59151
+cell,Great Basin,tree,rain_total,strict,1,1,8,22.40375,-13.45714,0.53619
+cell,Great Basin,tree,rh_dmin,filled,1,1,10,30.97728,0.84266,0.72051
+cell,Great Basin,tree,rh_dmin,strict,1,1,8,31.12627,0.71152,0.71052
+cell,Great Basin,tree,rh_mean,filled,1,1,10,57.8577,-0.55224,1.0
+cell,Great Basin,tree,rh_mean,strict,1,1,8,57.77721,0.49477,0.71052
+cell,Great Basin,tree,solar_mean,filled,1,1,10,200.65244,4.34578,0.59151
+cell,Great Basin,tree,temp_dmax,filled,1,1,10,62.91687,-1.38926,0.47427
+cell,Great Basin,tree,temp_dmax,strict,1,1,10,62.84427,-1.31421,0.47427
+cell,Great Basin,tree,temp_dmin,filled,1,1,10,31.7703,-1.74625,0.72051
+cell,Great Basin,tree,temp_dmin,strict,1,1,10,31.76463,-1.77072,0.72051
+cell,Great Basin,tree,temp_mean,filled,1,1,10,46.11972,-0.47838,0.59151
+cell,Great Basin,tree,temp_mean,strict,1,1,10,46.12156,-0.54666,0.59151
+cell,Great Basin,tree,wind_mean,filled,1,1,10,1.06269,-0.19303,0.15241
+cell,Other (NWCC),All,fm10_dmin,filled,1,1,10,14.35359,0.72555,0.2105
+cell,Other (NWCC),All,fm10_dmin,strict,1,1,10,14.35359,0.72555,0.2105
+cell,Other (NWCC),All,fm10_mean,filled,1,1,10,17.72743,0.2737,0.85803
+cell,Other (NWCC),All,fm10_mean,strict,1,1,10,17.72743,0.2737,0.85803
+cell,Other (NWCC),All,gust_max,filled,1,1,10,56.4,11.66667,0.37109
+cell,Other (NWCC),All,gust_max,strict,1,0,0,,,
+cell,Other (NWCC),All,gust_mean,filled,1,1,10,8.04608,3.24977,0.02004
+cell,Other (NWCC),All,gust_mean,strict,1,0,0,,,
+cell,Other (NWCC),All,rain_total,filled,1,1,10,59.661,-11.45,0.28313
+cell,Other (NWCC),All,rain_total,strict,1,0,0,,,
+cell,Other (NWCC),All,rh_dmin,filled,1,1,10,42.54889,-2.90317,0.28313
+cell,Other (NWCC),All,rh_dmin,strict,1,0,0,,,
+cell,Other (NWCC),All,rh_mean,filled,1,1,10,64.36247,-2.94728,0.07364
+cell,Other (NWCC),All,rh_mean,strict,1,0,0,,,
+cell,Other (NWCC),All,solar_mean,filled,1,1,10,187.91285,2.28685,0.47427
+cell,Other (NWCC),All,temp_dmax,filled,1,1,10,62.03768,-1.99149,0.28313
+cell,Other (NWCC),All,temp_dmax,strict,1,0,0,,,
+cell,Other (NWCC),All,temp_dmin,filled,1,1,10,42.49208,-0.2665,0.85803
+cell,Other (NWCC),All,temp_dmin,strict,1,0,0,,,
+cell,Other (NWCC),All,temp_mean,filled,1,1,10,50.92325,0.11604,1.0
+cell,Other (NWCC),All,temp_mean,strict,1,0,0,,,
+cell,Other (NWCC),All,wind_mean,filled,1,1,10,2.88592,0.86579,0.03182
+cell,Other (NWCC),All,wind_mean,strict,1,0,0,,,
+cell,Other (NWCC),shrub,fm10_dmin,filled,1,1,10,14.35359,0.72555,0.2105
+cell,Other (NWCC),shrub,fm10_dmin,strict,1,1,10,14.35359,0.72555,0.2105
+cell,Other (NWCC),shrub,fm10_mean,filled,1,1,10,17.72743,0.2737,0.85803
+cell,Other (NWCC),shrub,fm10_mean,strict,1,1,10,17.72743,0.2737,0.85803
+cell,Other (NWCC),shrub,gust_max,filled,1,1,10,56.4,11.66667,0.37109
+cell,Other (NWCC),shrub,gust_max,strict,1,0,0,,,
+cell,Other (NWCC),shrub,gust_mean,filled,1,1,10,8.04608,3.24977,0.02004
+cell,Other (NWCC),shrub,gust_mean,strict,1,0,0,,,
+cell,Other (NWCC),shrub,rain_total,filled,1,1,10,59.661,-11.45,0.28313
+cell,Other (NWCC),shrub,rain_total,strict,1,0,0,,,
+cell,Other (NWCC),shrub,rh_dmin,filled,1,1,10,42.54889,-2.90317,0.28313
+cell,Other (NWCC),shrub,rh_dmin,strict,1,0,0,,,
+cell,Other (NWCC),shrub,rh_mean,filled,1,1,10,64.36247,-2.94728,0.07364
+cell,Other (NWCC),shrub,rh_mean,strict,1,0,0,,,
+cell,Other (NWCC),shrub,solar_mean,filled,1,1,10,187.91285,2.28685,0.47427
+cell,Other (NWCC),shrub,temp_dmax,filled,1,1,10,62.03768,-1.99149,0.28313
+cell,Other (NWCC),shrub,temp_dmax,strict,1,0,0,,,
+cell,Other (NWCC),shrub,temp_dmin,filled,1,1,10,42.49208,-0.2665,0.85803
+cell,Other (NWCC),shrub,temp_dmin,strict,1,0,0,,,
+cell,Other (NWCC),shrub,temp_mean,filled,1,1,10,50.92325,0.11604,1.0
+cell,Other (NWCC),shrub,temp_mean,strict,1,0,0,,,
+cell,Other (NWCC),shrub,wind_mean,filled,1,1,10,2.88592,0.86579,0.03182
+cell,Other (NWCC),shrub,wind_mean,strict,1,0,0,,,
+cell,Other (SWCC),All,fm10_dmin,filled,1,1,10,6.81628,0.14594,0.59151
+cell,Other (SWCC),All,fm10_dmin,strict,1,1,10,6.81628,0.14594,0.59151
+cell,Other (SWCC),All,fm10_mean,filled,1,1,10,8.91541,0.099,0.85803
+cell,Other (SWCC),All,fm10_mean,strict,1,1,10,8.91541,0.099,0.85803
+cell,Other (SWCC),All,gust_max,filled,1,1,10,54.7,-1.66667,0.71538
+cell,Other (SWCC),All,gust_max,strict,1,0,0,,,
+cell,Other (SWCC),All,gust_mean,filled,1,1,10,12.56118,0.0647,1.0
+cell,Other (SWCC),All,gust_mean,strict,1,0,0,,,
+cell,Other (SWCC),All,rain_total,filled,1,1,10,3.118,0.13333,1.0
+cell,Other (SWCC),All,rain_total,strict,1,0,0,,,
+cell,Other (SWCC),All,rh_dmin,filled,1,1,10,17.76628,0.3045,0.59151
+cell,Other (SWCC),All,rh_dmin,strict,1,0,0,,,
+cell,Other (SWCC),All,rh_mean,filled,1,1,10,32.63132,1.0201,0.59151
+cell,Other (SWCC),All,rh_mean,strict,1,0,0,,,
+cell,Other (SWCC),All,solar_mean,filled,1,1,10,245.773,4.55553,0.15241
+cell,Other (SWCC),All,temp_dmax,filled,1,1,10,89.19211,0.21035,0.85803
+cell,Other (SWCC),All,temp_dmax,strict,1,0,0,,,
+cell,Other (SWCC),All,temp_dmin,filled,1,1,10,65.35148,-0.73813,0.2105
+cell,Other (SWCC),All,temp_dmin,strict,1,0,0,,,
+cell,Other (SWCC),All,temp_mean,filled,1,1,10,77.31318,-0.25714,0.72051
+cell,Other (SWCC),All,temp_mean,strict,1,0,0,,,
+cell,Other (SWCC),All,wind_mean,filled,1,1,10,6.2053,-0.28152,0.47427
+cell,Other (SWCC),All,wind_mean,strict,1,0,0,,,
+cell,Other (SWCC),shrub,fm10_dmin,filled,1,1,10,6.81628,0.14594,0.59151
+cell,Other (SWCC),shrub,fm10_dmin,strict,1,1,10,6.81628,0.14594,0.59151
+cell,Other (SWCC),shrub,fm10_mean,filled,1,1,10,8.91541,0.099,0.85803
+cell,Other (SWCC),shrub,fm10_mean,strict,1,1,10,8.91541,0.099,0.85803
+cell,Other (SWCC),shrub,gust_max,filled,1,1,10,54.7,-1.66667,0.71538
+cell,Other (SWCC),shrub,gust_max,strict,1,0,0,,,
+cell,Other (SWCC),shrub,gust_mean,filled,1,1,10,12.56118,0.0647,1.0
+cell,Other (SWCC),shrub,gust_mean,strict,1,0,0,,,
+cell,Other (SWCC),shrub,rain_total,filled,1,1,10,3.118,0.13333,1.0
+cell,Other (SWCC),shrub,rain_total,strict,1,0,0,,,
+cell,Other (SWCC),shrub,rh_dmin,filled,1,1,10,17.76628,0.3045,0.59151
+cell,Other (SWCC),shrub,rh_dmin,strict,1,0,0,,,
+cell,Other (SWCC),shrub,rh_mean,filled,1,1,10,32.63132,1.0201,0.59151
+cell,Other (SWCC),shrub,rh_mean,strict,1,0,0,,,
+cell,Other (SWCC),shrub,solar_mean,filled,1,1,10,245.773,4.55553,0.15241
+cell,Other (SWCC),shrub,temp_dmax,filled,1,1,10,89.19211,0.21035,0.85803
+cell,Other (SWCC),shrub,temp_dmax,strict,1,0,0,,,
+cell,Other (SWCC),shrub,temp_dmin,filled,1,1,10,65.35148,-0.73813,0.2105
+cell,Other (SWCC),shrub,temp_dmin,strict,1,0,0,,,
+cell,Other (SWCC),shrub,temp_mean,filled,1,1,10,77.31318,-0.25714,0.72051
+cell,Other (SWCC),shrub,temp_mean,strict,1,0,0,,,
+cell,Other (SWCC),shrub,wind_mean,filled,1,1,10,6.2053,-0.28152,0.47427
+cell,Other (SWCC),shrub,wind_mean,strict,1,0,0,,,
+window,All,All,fm10_dmin,filled,407,374,10,11.61757,0.62811,0.28313
+window,All,All,fm10_dmin,strict,407,374,10,11.61757,0.62811,0.28313
+window,All,All,fm10_mean,filled,407,374,10,14.72469,0.4179,0.59151
+window,All,All,fm10_mean,strict,407,374,10,14.72469,0.4179,0.59151
+window,All,All,gust_max,filled,407,375,10,55.4048,-0.90667,0.85803
+window,All,All,gust_max,strict,407,163,10,49.74356,2.11656,0.37109
+window,All,All,gust_mean,filled,407,375,10,11.1136,-0.3766,0.59151
+window,All,All,gust_mean,strict,407,163,10,10.98852,-0.38689,0.59151
+window,All,All,rain_total,filled,407,375,10,23.94826,3.47227,0.59151
+window,All,All,rain_total,strict,407,217,8,25.06226,4.77966,0.38648
+window,All,All,rh_dmin,filled,407,374,10,33.39734,0.79294,0.85803
+window,All,All,rh_dmin,strict,407,93,8,33.5596,1.09146,0.90154
+window,All,All,rh_mean,filled,407,374,10,54.03306,-0.68255,1.0
+window,All,All,rh_mean,strict,407,93,8,56.48435,1.00349,1.0
+window,All,All,solar_mean,filled,407,375,10,218.62219,6.28273,0.59151
+window,All,All,temp_dmax,filled,407,374,10,69.79075,-0.87,0.47427
+window,All,All,temp_dmax,strict,407,177,10,70.84416,-0.56814,1.0
+window,All,All,temp_dmin,filled,407,374,10,47.48289,-0.86497,0.1074
+window,All,All,temp_dmin,strict,407,177,10,47.51229,-0.939,0.15241
+window,All,All,temp_mean,filled,407,374,10,57.6933,-0.52662,0.28313
+window,All,All,temp_mean,strict,407,177,10,58.23152,-0.39448,0.47427
+window,All,All,wind_mean,filled,407,375,10,5.2627,-0.32563,0.1074
+window,All,All,wind_mean,strict,407,123,10,5.68306,-0.26343,0.2105
+window,All,grass,fm10_dmin,filled,73,68,10,10.87607,0.1834,0.85803
+window,All,grass,fm10_dmin,strict,73,68,10,10.87607,0.1834,0.85803
+window,All,grass,fm10_mean,filled,73,68,10,14.18811,-0.06961,1.0
+window,All,grass,fm10_mean,strict,73,68,10,14.18811,-0.06961,1.0
+window,All,grass,gust_max,filled,73,68,10,54.98676,0.48319,1.0
+window,All,grass,gust_max,strict,73,33,10,50.09697,4.88636,0.03182
+window,All,grass,gust_mean,filled,73,68,10,11.95124,0.14782,0.72051
+window,All,grass,gust_mean,strict,73,33,10,11.69875,-0.05086,0.85803
+window,All,grass,rain_total,filled,73,68,10,17.5395,3.18382,0.59151
+window,All,grass,rain_total,strict,73,41,8,18.15945,3.23232,0.53619
+window,All,grass,rh_dmin,filled,73,68,10,33.50476,0.63058,1.0
+window,All,grass,rh_dmin,strict,73,16,8,32.33422,0.13404,1.0
+window,All,grass,rh_mean,filled,73,68,10,53.93023,-0.87638,0.85803
+window,All,grass,rh_mean,strict,73,16,8,56.52432,0.44507,1.0
+window,All,grass,solar_mean,filled,73,68,10,220.4848,5.26681,0.47427
+window,All,grass,temp_dmax,filled,73,68,10,72.30376,-0.08644,0.85803
+window,All,grass,temp_dmax,strict,73,35,10,73.41789,0.09749,1.0
+window,All,grass,temp_dmin,filled,73,68,10,49.96948,-0.94716,0.28313
+window,All,grass,temp_dmin,strict,73,35,10,49.8041,-0.67275,0.28313
+window,All,grass,temp_mean,filled,73,68,10,60.52209,-0.33321,0.37109
+window,All,grass,temp_mean,strict,73,35,10,61.02359,-0.128,1.0
+window,All,grass,wind_mean,filled,73,68,10,6.20553,-0.25829,0.37109
+window,All,grass,wind_mean,strict,73,27,10,6.26322,-0.28669,0.15241
+window,All,shrub,fm10_dmin,filled,204,182,10,10.70757,0.66367,0.47427
+window,All,shrub,fm10_dmin,strict,204,182,10,10.70757,0.66367,0.47427
+window,All,shrub,fm10_mean,filled,204,182,10,13.82931,0.72754,0.72051
+window,All,shrub,fm10_mean,strict,204,182,10,13.82931,0.72754,0.72051
+window,All,shrub,gust_max,filled,204,183,10,59.05738,-2.0765,0.85803
+window,All,shrub,gust_max,strict,204,79,10,52.36076,0.97046,0.85803
+window,All,shrub,gust_mean,filled,204,183,10,12.00855,-0.45095,0.15241
+window,All,shrub,gust_mean,strict,204,79,10,11.75747,-0.55194,0.2105
+window,All,shrub,rain_total,filled,204,183,10,17.34337,5.55319,0.47427
+window,All,shrub,rain_total,strict,204,108,8,18.85595,10.7001,0.26551
+window,All,shrub,rh_dmin,filled,204,182,10,30.9639,2.13038,0.85803
+window,All,shrub,rh_dmin,strict,204,50,8,31.67114,1.89918,0.90154
+window,All,shrub,rh_mean,filled,204,182,10,51.02657,2.57562,1.0
+window,All,shrub,rh_mean,strict,204,50,8,53.77534,1.71581,1.0
+window,All,shrub,solar_mean,filled,204,183,10,226.06494,5.46261,0.72051
+window,All,shrub,temp_dmax,filled,204,182,10,71.50787,-1.213,0.2105
+window,All,shrub,temp_dmax,strict,204,89,10,71.55472,-0.71164,0.47427
+window,All,shrub,temp_dmin,filled,204,182,10,49.04427,-0.88411,0.03182
+window,All,shrub,temp_dmin,strict,204,89,10,48.13412,-0.82659,0.03182
+window,All,shrub,temp_mean,filled,204,182,10,59.40921,-0.89194,0.07364
+window,All,shrub,temp_mean,strict,204,89,10,58.96053,-0.60798,0.07364
+window,All,shrub,wind_mean,filled,204,183,10,5.83593,-0.28481,0.1074
+window,All,shrub,wind_mean,strict,204,69,10,5.69975,-0.1197,0.37109
+window,All,tree,fm10_dmin,filled,129,123,10,13.41115,1.13108,0.2105
+window,All,tree,fm10_dmin,strict,129,123,10,13.41115,1.13108,0.2105
+window,All,tree,fm10_mean,filled,129,123,10,16.398,0.46556,0.47427
+window,All,tree,fm10_mean,strict,129,123,10,16.398,0.46556,0.47427
+window,All,tree,gust_max,filled,129,123,10,50.22927,-0.67751,1.0
+window,All,tree,gust_max,strict,129,51,10,45.46078,2.18487,0.47427
+window,All,tree,gust_mean,filled,129,123,10,9.31196,0.12806,1.0
+window,All,tree,gust_mean,strict,129,51,10,9.33783,-0.06248,0.72051
+window,All,tree,rain_total,filled,129,123,10,37.49202,1.93486,1.0
+window,All,tree,rain_total,strict,129,67,8,39.62265,0.26294,1.0
+window,All,tree,rh_dmin,filled,129,123,10,37.09124,0.40547,1.0
+window,All,tree,rh_dmin,strict,129,27,8,37.7829,0.64061,0.90154
+window,All,tree,rh_mean,filled,129,123,10,58.74048,-0.86852,0.85803
+window,All,tree,rh_mean,strict,129,27,8,61.47734,0.38806,1.0
+window,All,tree,solar_mean,filled,129,123,10,206.33975,5.36886,0.47427
+window,All,tree,temp_dmax,filled,129,123,10,65.79371,-0.8492,0.72051
+window,All,tree,temp_dmax,strict,129,53,10,67.95132,-0.40941,0.85803
+window,All,tree,temp_dmin,filled,129,123,10,43.79102,-0.71572,0.37109
+window,All,tree,temp_dmin,strict,129,53,10,44.95463,-1.07687,0.37109
+window,All,tree,temp_mean,filled,129,123,10,53.5438,-0.6259,0.85803
+window,All,tree,temp_mean,strict,129,53,10,55.16353,-0.41325,0.72051
+window,All,tree,wind_mean,filled,129,123,10,3.88394,-0.11989,0.47427
+window,All,tree,wind_mean,strict,129,27,10,5.06025,-0.38641,0.1074
+window,All,nonburnable,fm10_dmin,filled,1,1,10,7.05028,-0.34321,0.59151
+window,All,nonburnable,fm10_dmin,strict,1,1,10,7.05028,-0.34321,0.59151
+window,All,nonburnable,fm10_mean,filled,1,1,10,8.35576,-0.53959,0.47427
+window,All,nonburnable,fm10_mean,strict,1,1,10,8.35576,-0.53959,0.47427
+window,All,nonburnable,gust_max,filled,1,1,10,52.0,-2.5,0.12424
+window,All,nonburnable,gust_max,strict,1,0,0,,,
+window,All,nonburnable,gust_mean,filled,1,1,10,11.9795,-0.37321,0.37109
+window,All,nonburnable,gust_mean,strict,1,0,0,,,
+window,All,nonburnable,rain_total,filled,1,1,10,2.557,-1.74286,0.32324
+window,All,nonburnable,rain_total,strict,1,1,8,2.8125,0.66667,0.90154
+window,All,nonburnable,rh_dmin,filled,1,1,10,14.62999,-1.2542,0.47427
+window,All,nonburnable,rh_dmin,strict,1,0,0,,,
+window,All,nonburnable,rh_mean,filled,1,1,10,29.19423,-2.17754,0.59151
+window,All,nonburnable,rh_mean,strict,1,0,0,,,
+window,All,nonburnable,solar_mean,filled,1,1,10,240.68271,1.99733,0.72051
+window,All,nonburnable,temp_dmax,filled,1,1,10,78.02541,1.02116,0.15241
+window,All,nonburnable,temp_dmax,strict,1,0,0,,,
+window,All,nonburnable,temp_dmin,filled,1,1,10,48.32381,-0.93934,0.2105
+window,All,nonburnable,temp_dmin,strict,1,0,0,,,
+window,All,nonburnable,temp_mean,filled,1,1,10,63.42818,0.07711,0.85803
+window,All,nonburnable,temp_mean,strict,1,0,0,,,
+window,All,nonburnable,wind_mean,filled,1,1,10,5.83642,-0.55567,0.15241
+window,All,nonburnable,wind_mean,strict,1,0,0,,,
+window,Northern California,All,fm10_dmin,filled,168,161,10,12.95079,0.78278,0.47427
+window,Northern California,All,fm10_dmin,strict,168,161,10,12.95079,0.78278,0.47427
+window,Northern California,All,fm10_mean,filled,168,161,10,16.08531,0.11156,0.72051
+window,Northern California,All,fm10_mean,strict,168,161,10,16.08531,0.11156,0.72051
+window,Northern California,All,gust_max,filled,168,161,10,54.2472,-1.18012,0.72051
+window,Northern California,All,gust_max,strict,168,68,10,48.92206,0.73529,0.72051
+window,Northern California,All,gust_mean,filled,168,161,10,10.59408,0.11587,0.72051
+window,Northern California,All,gust_mean,strict,168,68,10,10.59282,0.03829,1.0
+window,Northern California,All,rain_total,filled,168,161,10,33.60808,2.49425,1.0
+window,Northern California,All,rain_total,strict,168,90,8,35.39174,1.52896,0.71052
+window,Northern California,All,rh_dmin,filled,168,161,10,37.26628,0.30261,1.0
+window,Northern California,All,rh_dmin,strict,168,35,8,37.24846,0.62691,1.0
+window,Northern California,All,rh_mean,filled,168,161,10,58.8318,-1.74959,0.59151
+window,Northern California,All,rh_mean,strict,168,35,8,61.02545,0.43708,0.90154
+window,Northern California,All,solar_mean,filled,168,161,10,203.84417,3.75093,0.37109
+window,Northern California,All,temp_dmax,filled,168,161,10,66.77625,-1.1155,0.85803
+window,Northern California,All,temp_dmax,strict,168,71,10,67.93857,-0.38604,0.85803
+window,Northern California,All,temp_dmin,filled,168,161,10,44.58638,-1.11353,0.47427
+window,Northern California,All,temp_dmin,strict,168,71,10,44.9409,-1.27502,0.28313
+window,Northern California,All,temp_mean,filled,168,161,10,54.67591,-0.67597,0.72051
+window,Northern California,All,temp_mean,strict,168,71,10,55.44341,-0.59876,0.72051
+window,Northern California,All,wind_mean,filled,168,161,10,4.84222,-0.04369,1.0
+window,Northern California,All,wind_mean,strict,168,46,10,5.80543,-0.30735,0.37109
+window,Northern California,grass,fm10_dmin,filled,32,31,10,11.68876,0.08355,0.85803
+window,Northern California,grass,fm10_dmin,strict,32,31,10,11.68876,0.08355,0.85803
+window,Northern California,grass,fm10_mean,filled,32,31,10,15.08856,-0.25993,0.72051
+window,Northern California,grass,fm10_mean,strict,32,31,10,15.08856,-0.25993,0.72051
+window,Northern California,grass,gust_max,filled,32,31,10,55.86452,-0.90323,1.0
+window,Northern California,grass,gust_max,strict,32,14,10,54.04286,3.36735,0.37109
+window,Northern California,grass,gust_mean,filled,32,31,10,11.55884,0.49054,0.2105
+window,Northern California,grass,gust_mean,strict,32,14,10,12.31642,0.21463,0.47427
+window,Northern California,grass,rain_total,filled,32,31,10,23.93271,0.06083,1.0
+window,Northern California,grass,rain_total,strict,32,17,8,26.77993,-0.46317,1.0
+window,Northern California,grass,rh_dmin,filled,32,31,10,35.73769,-0.85686,0.72051
+window,Northern California,grass,rh_dmin,strict,32,7,8,35.07329,1.86888,0.53619
+window,Northern California,grass,rh_mean,filled,32,31,10,56.93182,-1.81992,0.47427
+window,Northern California,grass,rh_mean,strict,32,7,8,59.46374,0.45632,0.90154
+window,Northern California,grass,solar_mean,filled,32,31,10,208.47185,4.04233,0.47427
+window,Northern California,grass,temp_dmax,filled,32,31,10,70.24774,0.30505,1.0
+window,Northern California,grass,temp_dmax,strict,32,14,10,70.68081,0.33972,1.0
+window,Northern California,grass,temp_dmin,filled,32,31,10,48.106,-1.17716,0.37109
+window,Northern California,grass,temp_dmin,strict,32,14,10,47.74459,-1.14813,0.28313
+window,Northern California,grass,temp_mean,filled,32,31,10,58.56636,-0.12261,0.72051
+window,Northern California,grass,temp_mean,strict,32,14,10,58.71769,-0.052,0.85803
+window,Northern California,grass,wind_mean,filled,32,31,10,5.88399,-0.29455,0.2105
+window,Northern California,grass,wind_mean,strict,32,11,10,6.46809,-0.35061,0.37109
+window,Northern California,shrub,fm10_dmin,filled,41,39,10,12.63669,1.01537,0.37109
+window,Northern California,shrub,fm10_dmin,strict,41,39,10,12.63669,1.01537,0.37109
+window,Northern California,shrub,fm10_mean,filled,41,39,10,15.39681,0.77096,0.59151
+window,Northern California,shrub,fm10_mean,strict,41,39,10,15.39681,0.77096,0.59151
+window,Northern California,shrub,gust_max,filled,41,39,10,59.81026,1.79487,0.37109
+window,Northern California,shrub,gust_max,strict,41,16,10,52.49375,-5.0,0.15241
+window,Northern California,shrub,gust_mean,filled,41,39,10,12.34699,0.60971,0.28313
+window,Northern California,shrub,gust_mean,strict,41,16,10,12.02986,-0.11443,1.0
+window,Northern California,shrub,rain_total,filled,41,39,10,23.13023,1.53526,0.85803
+window,Northern California,shrub,rain_total,strict,41,24,8,25.17146,2.75797,0.53619
+window,Northern California,shrub,rh_dmin,filled,41,39,10,34.6866,-0.64416,1.0
+window,Northern California,shrub,rh_dmin,strict,41,8,8,34.44457,2.90408,0.90154
+window,Northern California,shrub,rh_mean,filled,41,39,10,56.02003,-0.50472,0.85803
+window,Northern California,shrub,rh_mean,strict,41,8,8,58.51161,2.32424,0.53619
+window,Northern California,shrub,solar_mean,filled,41,39,10,208.66285,5.79186,0.37109
+window,Northern California,shrub,temp_dmax,filled,41,39,10,66.11219,-0.66429,0.72051
+window,Northern California,shrub,temp_dmax,strict,41,18,10,66.99629,-1.1888,0.85803
+window,Northern California,shrub,temp_dmin,filled,41,39,10,42.97212,-1.06222,0.28313
+window,Northern California,shrub,temp_dmin,strict,41,18,10,42.96098,-1.18053,0.1074
+window,Northern California,shrub,temp_mean,filled,41,39,10,53.86908,-0.78134,0.59151
+window,Northern California,shrub,temp_mean,strict,41,18,10,54.32622,-0.7464,0.37109
+window,Northern California,shrub,wind_mean,filled,41,39,10,6.13184,0.25971,0.28313
+window,Northern California,shrub,wind_mean,strict,41,15,10,6.23382,-0.05347,0.85803
+window,Northern California,tree,fm10_dmin,filled,95,91,10,13.51532,0.92302,0.37109
+window,Northern California,tree,fm10_dmin,strict,95,91,10,13.51532,0.92302,0.37109
+window,Northern California,tree,fm10_mean,filled,95,91,10,16.71994,0.20804,0.72051
+window,Northern California,tree,fm10_mean,strict,95,91,10,16.71994,0.20804,0.72051
+window,Northern California,tree,gust_max,filled,95,91,10,51.31209,-6.4011,0.59151
+window,Northern California,tree,gust_max,strict,95,38,10,45.53158,0.48872,0.85803
+window,Northern California,tree,gust_mean,filled,95,91,10,9.51417,-0.00533,1.0
+window,Northern California,tree,gust_mean,strict,95,38,10,9.35274,-0.0419,0.85803
+window,Northern California,tree,rain_total,filled,95,91,10,41.39459,4.19162,1.0
+window,Northern California,tree,rain_total,strict,95,49,8,43.38536,0.98207,0.90154
+window,Northern California,tree,rh_dmin,filled,95,91,10,38.89258,-0.0851,1.0
+window,Northern California,tree,rh_dmin,strict,95,20,8,39.13133,0.57273,0.71052
+window,Northern California,tree,rh_mean,filled,95,91,10,60.6841,-2.26466,0.59151
+window,Northern California,tree,rh_mean,strict,95,20,8,62.57758,-0.32453,0.90154
+window,Northern California,tree,solar_mean,filled,95,91,10,200.20256,4.04291,0.47427
+window,Northern California,tree,temp_dmax,filled,95,91,10,65.87825,-1.30442,0.59151
+window,Northern California,tree,temp_dmax,strict,95,39,10,67.38908,-0.16535,0.85803
+window,Northern California,tree,temp_dmin,filled,95,91,10,44.07921,-0.73198,0.47427
+window,Northern California,tree,temp_dmin,strict,95,39,10,44.84825,-1.15819,0.28313
+window,Northern California,tree,temp_mean,filled,95,91,10,53.69638,-0.79734,0.85803
+window,Northern California,tree,temp_mean,strict,95,39,10,54.78365,-0.51775,0.72051
+window,Northern California,tree,wind_mean,filled,95,91,10,3.93463,-0.16198,0.47427
+window,Northern California,tree,wind_mean,strict,95,20,10,5.11966,-0.33678,0.1074
+window,Southern California,All,fm10_dmin,filled,233,207,10,10.57769,0.66142,0.28313
+window,Southern California,All,fm10_dmin,strict,233,207,10,10.57769,0.66142,0.28313
+window,Southern California,All,fm10_mean,filled,233,207,10,13.69086,0.68352,0.72051
+window,Southern California,All,fm10_mean,strict,233,207,10,13.69086,0.68352,0.72051
+window,Southern California,All,gust_max,filled,233,208,10,56.28798,-0.04808,1.0
+window,Southern California,All,gust_max,strict,233,91,10,50.34505,4.12698,0.2105
+window,Southern California,All,gust_mean,filled,233,208,10,11.53826,-0.40758,0.1074
+window,Southern California,All,gust_mean,strict,233,91,10,11.30385,-0.41413,0.28313
+window,Southern California,All,rain_total,filled,233,208,10,16.56112,6.13662,0.37109
+window,Southern California,All,rain_total,strict,233,123,8,17.79663,10.40845,0.17355
+window,Southern California,All,rh_dmin,filled,233,207,10,30.57416,2.41973,0.85803
+window,Southern California,All,rh_dmin,strict,233,56,8,31.42431,1.80245,0.90154
+window,Southern California,All,rh_mean,filled,233,207,10,50.47844,2.11575,1.0
+window,Southern California,All,rh_mean,strict,233,56,8,53.75001,0.81149,1.0
+window,Southern California,All,solar_mean,filled,233,208,10,230.04861,4.3751,0.72051
+window,Southern California,All,temp_dmax,filled,233,207,10,72.18091,-0.97761,0.1074
+window,Southern California,All,temp_dmax,strict,233,103,10,73.02451,-0.58754,0.28313
+window,Southern California,All,temp_dmin,filled,233,207,10,49.89192,-0.62193,0.03182
+window,Southern California,All,temp_dmin,strict,233,103,10,49.5888,-0.47326,0.2105
+window,Southern California,All,temp_mean,filled,233,207,10,60.13421,-0.86101,0.0491
+window,Southern California,All,temp_mean,strict,233,103,10,60.38979,-0.41174,0.07364
+window,Southern California,All,wind_mean,filled,233,208,10,5.61889,-0.28185,0.15241
+window,Southern California,All,wind_mean,strict,233,74,10,5.63451,-0.05155,0.59151
+window,Southern California,grass,fm10_dmin,filled,41,37,10,10.19517,0.26706,0.85803
+window,Southern California,grass,fm10_dmin,strict,41,37,10,10.19517,0.26706,0.85803
+window,Southern California,grass,fm10_mean,filled,41,37,10,13.43367,-0.2371,1.0
+window,Southern California,grass,fm10_mean,strict,41,37,10,13.43367,-0.2371,1.0
+window,Southern California,grass,gust_max,filled,41,37,10,54.25135,-0.37838,0.92844
+window,Southern California,grass,gust_max,strict,41,19,10,47.18947,6.66667,0.1074
+window,Southern California,grass,gust_mean,filled,41,37,10,12.28,-0.12346,0.59151
+window,Southern California,grass,gust_mean,strict,41,19,10,11.24363,-0.25691,0.47427
+window,Southern California,grass,rain_total,filled,41,37,10,12.18303,3.99955,0.59151
+window,Southern California,grass,rain_total,strict,41,24,8,12.05328,5.95677,0.38648
+window,Southern California,grass,rh_dmin,filled,41,37,10,31.63393,1.98667,1.0
+window,Southern California,grass,rh_dmin,strict,41,9,8,30.20383,-1.41295,0.90154
+window,Southern California,grass,rh_mean,filled,41,37,10,51.41539,0.2455,1.0
+window,Southern California,grass,rh_mean,strict,41,9,8,54.2381,-0.91681,0.90154
+window,Southern California,grass,solar_mean,filled,41,37,10,230.54971,6.9114,0.37109
+window,Southern California,grass,temp_dmax,filled,41,37,10,74.02637,-0.5833,0.1074
+window,Southern California,grass,temp_dmax,strict,41,21,10,75.24262,0.14817,0.85803
+window,Southern California,grass,temp_dmin,filled,41,37,10,51.53077,-0.58584,0.1074
+window,Southern California,grass,temp_dmin,strict,41,21,10,51.1771,-0.08788,0.85803
+window,Southern California,grass,temp_mean,filled,41,37,10,62.16067,-0.57739,0.15241
+window,Southern California,grass,temp_mean,strict,41,21,10,62.56085,0.1008,1.0
+window,Southern California,grass,wind_mean,filled,41,37,10,6.47493,-0.22791,0.37109
+window,Southern California,grass,wind_mean,strict,41,16,10,6.12236,-0.29675,0.15241
+window,Southern California,shrub,fm10_dmin,filled,158,138,10,10.13343,0.57297,0.37109
+window,Southern California,shrub,fm10_dmin,strict,158,138,10,10.13343,0.57297,0.37109
+window,Southern California,shrub,fm10_mean,filled,158,138,10,13.39141,0.75487,0.85803
+window,Southern California,shrub,fm10_mean,strict,158,138,10,13.39141,0.75487,0.85803
+window,Southern California,shrub,gust_max,filled,158,139,10,58.91367,-1.58273,1.0
+window,Southern California,shrub,gust_max,strict,158,60,10,52.42833,2.54167,0.37109
+window,Southern California,shrub,gust_mean,filled,158,139,10,11.97776,-0.55658,0.03182
+window,Southern California,shrub,gust_mean,strict,158,60,10,11.75593,-0.4584,0.2105
+window,Southern California,shrub,rain_total,filled,158,139,10,15.60732,6.09658,0.37109
+window,Southern California,shrub,rain_total,strict,158,81,8,17.17556,13.33083,0.17355
+window,Southern California,shrub,rh_dmin,filled,158,138,10,30.04857,2.56445,0.85803
+window,Southern California,shrub,rh_dmin,strict,158,41,8,31.14327,2.15285,0.90154
+window,Southern California,shrub,rh_mean,filled,158,138,10,49.73716,3.55899,0.85803
+window,Southern California,shrub,rh_mean,strict,158,41,8,52.75358,1.37594,1.0
+window,Southern California,shrub,solar_mean,filled,158,139,10,231.21005,3.64895,0.72051
+window,Southern California,shrub,temp_dmax,filled,158,138,10,73.12577,-1.19132,0.07364
+window,Southern California,shrub,temp_dmax,strict,158,69,10,72.93846,-0.73757,0.15241
+window,Southern California,shrub,temp_dmin,filled,158,138,10,50.96912,-0.86111,0.02004
+window,Southern California,shrub,temp_dmin,strict,158,69,10,49.79157,-0.62929,0.0491
+window,Southern California,shrub,temp_mean,filled,158,138,10,61.12132,-0.96001,0.0491
+window,Southern California,shrub,temp_mean,strict,158,69,10,60.42227,-0.63645,0.1074
+window,Southern California,shrub,wind_mean,filled,158,139,10,5.80856,-0.35306,0.0491
+window,Southern California,shrub,wind_mean,strict,158,52,10,5.54848,-0.03846,0.85803
+window,Southern California,tree,fm10_dmin,filled,33,31,10,13.12566,1.56962,0.0491
+window,Southern California,tree,fm10_dmin,strict,33,31,10,13.12566,1.56962,0.0491
+window,Southern California,tree,fm10_mean,filled,33,31,10,15.50296,0.98348,0.37109
+window,Southern California,tree,fm10_mean,strict,33,31,10,15.50296,0.98348,0.37109
+window,Southern California,tree,gust_max,filled,33,31,10,47.08387,4.39516,0.28313
+window,Southern California,tree,gust_max,strict,33,12,10,44.925,6.25,0.07133
+window,Southern California,tree,gust_mean,filled,33,31,10,8.66809,0.13076,0.59151
+window,Southern California,tree,gust_mean,strict,33,12,10,9.13877,-0.01374,1.0
+window,Southern California,tree,rain_total,filled,33,31,10,26.51503,-4.25524,0.85803
+window,Southern California,tree,rain_total,strict,33,17,8,29.74551,1.37815,0.90154
+window,Southern California,tree,rh_dmin,filled,33,31,10,32.16328,1.65835,0.72051
+window,Southern California,tree,rh_dmin,strict,33,6,8,35.17545,3.11758,0.71052
+window,Southern California,tree,rh_mean,filled,33,31,10,53.34662,0.10072,1.0
+window,Southern California,tree,rh_mean,strict,33,6,8,59.82682,3.47202,0.90154
+window,Southern California,tree,solar_mean,filled,33,31,10,223.89974,7.27535,0.28313
+window,Southern California,tree,temp_dmax,filled,33,31,10,65.5836,-0.56946,0.37109
+window,Southern California,tree,temp_dmax,strict,33,13,10,69.89813,-0.14187,0.59151
+window,Southern California,tree,temp_dmin,filled,33,31,10,43.19119,-0.48629,0.59151
+window,Southern California,tree,temp_dmin,strict,33,13,10,45.94682,-0.06657,1.0
+window,Southern California,tree,temp_mean,filled,33,31,10,53.21505,-0.20097,0.47427
+window,Southern California,tree,temp_mean,strict,33,13,10,56.71026,-0.05481,1.0
+window,Southern California,tree,wind_mean,filled,33,31,10,3.73969,-0.10149,0.47427
+window,Southern California,tree,wind_mean,strict,33,6,10,5.07909,-0.61373,0.02004
+window,Southern California,nonburnable,fm10_dmin,filled,1,1,10,7.05028,-0.34321,0.59151
+window,Southern California,nonburnable,fm10_dmin,strict,1,1,10,7.05028,-0.34321,0.59151
+window,Southern California,nonburnable,fm10_mean,filled,1,1,10,8.35576,-0.53959,0.47427
+window,Southern California,nonburnable,fm10_mean,strict,1,1,10,8.35576,-0.53959,0.47427
+window,Southern California,nonburnable,gust_max,filled,1,1,10,52.0,-2.5,0.12424
+window,Southern California,nonburnable,gust_max,strict,1,0,0,,,
+window,Southern California,nonburnable,gust_mean,filled,1,1,10,11.9795,-0.37321,0.37109
+window,Southern California,nonburnable,gust_mean,strict,1,0,0,,,
+window,Southern California,nonburnable,rain_total,filled,1,1,10,2.557,-1.74286,0.32324
+window,Southern California,nonburnable,rain_total,strict,1,1,8,2.8125,0.66667,0.90154
+window,Southern California,nonburnable,rh_dmin,filled,1,1,10,14.62999,-1.2542,0.47427
+window,Southern California,nonburnable,rh_dmin,strict,1,0,0,,,
+window,Southern California,nonburnable,rh_mean,filled,1,1,10,29.19423,-2.17754,0.59151
+window,Southern California,nonburnable,rh_mean,strict,1,0,0,,,
+window,Southern California,nonburnable,solar_mean,filled,1,1,10,240.68271,1.99733,0.72051
+window,Southern California,nonburnable,temp_dmax,filled,1,1,10,78.02541,1.02116,0.15241
+window,Southern California,nonburnable,temp_dmax,strict,1,0,0,,,
+window,Southern California,nonburnable,temp_dmin,filled,1,1,10,48.32381,-0.93934,0.2105
+window,Southern California,nonburnable,temp_dmin,strict,1,0,0,,,
+window,Southern California,nonburnable,temp_mean,filled,1,1,10,63.42818,0.07711,0.85803
+window,Southern California,nonburnable,temp_mean,strict,1,0,0,,,
+window,Southern California,nonburnable,wind_mean,filled,1,1,10,5.83642,-0.55567,0.15241
+window,Southern California,nonburnable,wind_mean,strict,1,0,0,,,
+window,Great Basin,All,fm10_dmin,filled,4,4,10,12.28599,1.48146,0.28313
+window,Great Basin,All,fm10_dmin,strict,4,4,10,12.28599,1.48146,0.28313
+window,Great Basin,All,fm10_mean,filled,4,4,10,14.16219,0.77275,0.59151
+window,Great Basin,All,fm10_mean,strict,4,4,10,14.16219,0.77275,0.59151
+window,Great Basin,All,gust_max,filled,4,4,10,56.0,-3.75,0.72051
+window,Great Basin,All,gust_max,strict,4,4,10,50.025,-11.25,0.0491
+window,Great Basin,All,gust_mean,filled,4,4,10,10.34683,-0.15757,0.85803
+window,Great Basin,All,gust_mean,strict,4,4,10,10.54161,-0.09817,1.0
+window,Great Basin,All,rain_total,filled,4,4,10,15.551,-7.87143,0.2105
+window,Great Basin,All,rain_total,strict,4,4,8,16.06719,-7.225,0.17355
+window,Great Basin,All,rh_dmin,filled,4,4,10,25.39262,-0.8897,0.59151
+window,Great Basin,All,rh_dmin,strict,4,2,8,28.7927,-0.63645,0.90154
+window,Great Basin,All,rh_mean,filled,4,4,10,47.60338,-1.66742,0.85803
+window,Great Basin,All,rh_mean,strict,4,2,8,53.57643,0.21854,1.0
+window,Great Basin,All,solar_mean,filled,4,4,10,220.15347,6.47853,0.2105
+window,Great Basin,All,temp_dmax,filled,4,4,10,64.52118,-1.11594,0.59151
+window,Great Basin,All,temp_dmax,strict,4,3,10,64.75126,-1.11522,0.72051
+window,Great Basin,All,temp_dmin,filled,4,4,10,36.18064,-1.57543,0.47427
+window,Great Basin,All,temp_dmin,strict,4,3,10,37.07514,-0.32653,0.72051
+window,Great Basin,All,temp_mean,filled,4,4,10,49.61377,-0.17538,1.0
+window,Great Basin,All,temp_mean,strict,4,3,10,50.11662,0.2002,1.0
+window,Great Basin,All,wind_mean,filled,4,4,10,4.02386,-0.00287,1.0
+window,Great Basin,All,wind_mean,strict,4,3,10,5.00435,-0.02758,1.0
+window,Great Basin,shrub,fm10_dmin,filled,3,3,10,12.12091,1.48618,0.28313
+window,Great Basin,shrub,fm10_dmin,strict,3,3,10,12.12091,1.48618,0.28313
+window,Great Basin,shrub,fm10_mean,filled,3,3,10,13.93352,0.97105,0.59151
+window,Great Basin,shrub,fm10_mean,strict,3,3,10,13.93352,0.97105,0.59151
+window,Great Basin,shrub,gust_max,filled,3,3,10,58.26667,-2.77778,0.85803
+window,Great Basin,shrub,gust_max,strict,3,3,10,50.3,-11.90476,0.07364
+window,Great Basin,shrub,gust_mean,filled,3,3,10,10.1723,-0.45117,0.37109
+window,Great Basin,shrub,gust_mean,strict,3,3,10,10.33553,-0.53182,0.47427
+window,Great Basin,shrub,rain_total,filled,3,3,10,13.18667,-9.72222,0.1074
+window,Great Basin,shrub,rain_total,strict,3,3,8,13.7025,-9.07857,0.10776
+window,Great Basin,shrub,rh_dmin,filled,3,3,10,25.21139,-1.45425,0.59151
+window,Great Basin,shrub,rh_dmin,strict,3,1,8,31.12627,0.71152,0.71052
+window,Great Basin,shrub,rh_mean,filled,3,3,10,47.11101,-0.13052,1.0
+window,Great Basin,shrub,rh_mean,strict,3,1,8,57.77721,0.49477,0.71052
+window,Great Basin,shrub,solar_mean,filled,3,3,10,220.04983,6.82359,0.28313
+window,Great Basin,shrub,temp_dmax,filled,3,3,10,64.49036,-1.14476,0.72051
+window,Great Basin,shrub,temp_dmax,strict,3,2,10,64.84167,-1.0188,0.72051
+window,Great Basin,shrub,temp_dmin,filled,3,3,10,36.18733,-2.41328,0.28313
+window,Great Basin,shrub,temp_dmin,strict,3,2,10,37.51035,-1.64115,0.85803
+window,Great Basin,shrub,temp_mean,filled,3,3,10,49.53501,-0.20088,0.85803
+window,Great Basin,shrub,temp_mean,strict,3,2,10,50.23916,-0.11512,1.0
+window,Great Basin,shrub,wind_mean,filled,3,3,10,4.11739,-0.20366,0.47427
+window,Great Basin,shrub,wind_mean,strict,3,2,10,5.62713,-0.16362,0.59151
+window,Great Basin,tree,fm10_dmin,filled,1,1,10,12.78122,1.45529,0.1074
+window,Great Basin,tree,fm10_dmin,strict,1,1,10,12.78122,1.45529,0.1074
+window,Great Basin,tree,fm10_mean,filled,1,1,10,14.84819,0.76095,0.28313
+window,Great Basin,tree,fm10_mean,strict,1,1,10,14.84819,0.76095,0.28313
+window,Great Basin,tree,gust_max,filled,1,1,10,49.2,0.0,1.0
+window,Great Basin,tree,gust_max,strict,1,1,10,49.2,0.0,1.0
+window,Great Basin,tree,gust_mean,filled,1,1,10,10.87042,0.45333,0.28313
+window,Great Basin,tree,gust_mean,strict,1,1,10,11.15986,0.55465,0.28313
+window,Great Basin,tree,rain_total,filled,1,1,10,22.644,-4.06667,0.59151
+window,Great Basin,tree,rain_total,strict,1,1,8,23.16125,-6.30556,0.53619
+window,Great Basin,tree,rh_dmin,filled,1,1,10,25.9363,-0.93493,0.72051
+window,Great Basin,tree,rh_dmin,strict,1,1,8,26.45914,-0.92848,0.90154
+window,Great Basin,tree,rh_mean,filled,1,1,10,49.08051,-3.93469,0.59151
+window,Great Basin,tree,rh_mean,strict,1,1,8,49.37564,-1.19352,1.0
+window,Great Basin,tree,solar_mean,filled,1,1,10,220.46438,8.66052,0.1074
+window,Great Basin,tree,temp_dmax,filled,1,1,10,64.61364,-0.59436,0.72051
+window,Great Basin,tree,temp_dmax,strict,1,1,10,64.57046,-0.55084,0.85803
+window,Great Basin,tree,temp_dmin,filled,1,1,10,36.1606,0.17953,1.0
+window,Great Basin,tree,temp_dmin,strict,1,1,10,36.20472,-0.12325,1.0
+window,Great Basin,tree,temp_mean,filled,1,1,10,49.85004,0.64923,0.72051
+window,Great Basin,tree,temp_mean,strict,1,1,10,49.87156,0.45243,0.72051
+window,Great Basin,tree,wind_mean,filled,1,1,10,3.74327,0.36905,0.2105
+window,Great Basin,tree,wind_mean,strict,1,1,10,3.75879,0.32364,0.2105
+window,Other (NWCC),All,fm10_dmin,filled,1,1,10,14.35359,0.72555,0.2105
+window,Other (NWCC),All,fm10_dmin,strict,1,1,10,14.35359,0.72555,0.2105
+window,Other (NWCC),All,fm10_mean,filled,1,1,10,17.72743,0.2737,0.85803
+window,Other (NWCC),All,fm10_mean,strict,1,1,10,17.72743,0.2737,0.85803
+window,Other (NWCC),All,gust_max,filled,1,1,10,56.4,11.66667,0.37109
+window,Other (NWCC),All,gust_max,strict,1,0,0,,,
+window,Other (NWCC),All,gust_mean,filled,1,1,10,8.04608,3.24977,0.02004
+window,Other (NWCC),All,gust_mean,strict,1,0,0,,,
+window,Other (NWCC),All,rain_total,filled,1,1,10,59.661,-11.45,0.28313
+window,Other (NWCC),All,rain_total,strict,1,0,0,,,
+window,Other (NWCC),All,rh_dmin,filled,1,1,10,42.54889,-2.90317,0.28313
+window,Other (NWCC),All,rh_dmin,strict,1,0,0,,,
+window,Other (NWCC),All,rh_mean,filled,1,1,10,64.36247,-2.94728,0.07364
+window,Other (NWCC),All,rh_mean,strict,1,0,0,,,
+window,Other (NWCC),All,solar_mean,filled,1,1,10,187.91285,2.28685,0.47427
+window,Other (NWCC),All,temp_dmax,filled,1,1,10,62.03768,-1.99149,0.28313
+window,Other (NWCC),All,temp_dmax,strict,1,0,0,,,
+window,Other (NWCC),All,temp_dmin,filled,1,1,10,42.49208,-0.2665,0.85803
+window,Other (NWCC),All,temp_dmin,strict,1,0,0,,,
+window,Other (NWCC),All,temp_mean,filled,1,1,10,50.92325,0.11604,1.0
+window,Other (NWCC),All,temp_mean,strict,1,0,0,,,
+window,Other (NWCC),All,wind_mean,filled,1,1,10,2.88592,0.86579,0.03182
+window,Other (NWCC),All,wind_mean,strict,1,0,0,,,
+window,Other (NWCC),shrub,fm10_dmin,filled,1,1,10,14.35359,0.72555,0.2105
+window,Other (NWCC),shrub,fm10_dmin,strict,1,1,10,14.35359,0.72555,0.2105
+window,Other (NWCC),shrub,fm10_mean,filled,1,1,10,17.72743,0.2737,0.85803
+window,Other (NWCC),shrub,fm10_mean,strict,1,1,10,17.72743,0.2737,0.85803
+window,Other (NWCC),shrub,gust_max,filled,1,1,10,56.4,11.66667,0.37109
+window,Other (NWCC),shrub,gust_max,strict,1,0,0,,,
+window,Other (NWCC),shrub,gust_mean,filled,1,1,10,8.04608,3.24977,0.02004
+window,Other (NWCC),shrub,gust_mean,strict,1,0,0,,,
+window,Other (NWCC),shrub,rain_total,filled,1,1,10,59.661,-11.45,0.28313
+window,Other (NWCC),shrub,rain_total,strict,1,0,0,,,
+window,Other (NWCC),shrub,rh_dmin,filled,1,1,10,42.54889,-2.90317,0.28313
+window,Other (NWCC),shrub,rh_dmin,strict,1,0,0,,,
+window,Other (NWCC),shrub,rh_mean,filled,1,1,10,64.36247,-2.94728,0.07364
+window,Other (NWCC),shrub,rh_mean,strict,1,0,0,,,
+window,Other (NWCC),shrub,solar_mean,filled,1,1,10,187.91285,2.28685,0.47427
+window,Other (NWCC),shrub,temp_dmax,filled,1,1,10,62.03768,-1.99149,0.28313
+window,Other (NWCC),shrub,temp_dmax,strict,1,0,0,,,
+window,Other (NWCC),shrub,temp_dmin,filled,1,1,10,42.49208,-0.2665,0.85803
+window,Other (NWCC),shrub,temp_dmin,strict,1,0,0,,,
+window,Other (NWCC),shrub,temp_mean,filled,1,1,10,50.92325,0.11604,1.0
+window,Other (NWCC),shrub,temp_mean,strict,1,0,0,,,
+window,Other (NWCC),shrub,wind_mean,filled,1,1,10,2.88592,0.86579,0.03182
+window,Other (NWCC),shrub,wind_mean,strict,1,0,0,,,
+window,Other (SWCC),All,fm10_dmin,filled,1,1,10,6.81628,0.14594,0.59151
+window,Other (SWCC),All,fm10_dmin,strict,1,1,10,6.81628,0.14594,0.59151
+window,Other (SWCC),All,fm10_mean,filled,1,1,10,8.91541,0.099,0.85803
+window,Other (SWCC),All,fm10_mean,strict,1,1,10,8.91541,0.099,0.85803
+window,Other (SWCC),All,gust_max,filled,1,1,10,54.7,-1.66667,0.71538
+window,Other (SWCC),All,gust_max,strict,1,0,0,,,
+window,Other (SWCC),All,gust_mean,filled,1,1,10,12.56118,0.0647,1.0
+window,Other (SWCC),All,gust_mean,strict,1,0,0,,,
+window,Other (SWCC),All,rain_total,filled,1,1,10,3.118,0.13333,1.0
+window,Other (SWCC),All,rain_total,strict,1,0,0,,,
+window,Other (SWCC),All,rh_dmin,filled,1,1,10,17.76628,0.3045,0.59151
+window,Other (SWCC),All,rh_dmin,strict,1,0,0,,,
+window,Other (SWCC),All,rh_mean,filled,1,1,10,32.63132,1.0201,0.59151
+window,Other (SWCC),All,rh_mean,strict,1,0,0,,,
+window,Other (SWCC),All,solar_mean,filled,1,1,10,245.773,4.55553,0.15241
+window,Other (SWCC),All,temp_dmax,filled,1,1,10,89.19211,0.21035,0.85803
+window,Other (SWCC),All,temp_dmax,strict,1,0,0,,,
+window,Other (SWCC),All,temp_dmin,filled,1,1,10,65.35148,-0.73813,0.2105
+window,Other (SWCC),All,temp_dmin,strict,1,0,0,,,
+window,Other (SWCC),All,temp_mean,filled,1,1,10,77.31318,-0.25714,0.72051
+window,Other (SWCC),All,temp_mean,strict,1,0,0,,,
+window,Other (SWCC),All,wind_mean,filled,1,1,10,6.2053,-0.28152,0.47427
+window,Other (SWCC),All,wind_mean,strict,1,0,0,,,
+window,Other (SWCC),shrub,fm10_dmin,filled,1,1,10,6.81628,0.14594,0.59151
+window,Other (SWCC),shrub,fm10_dmin,strict,1,1,10,6.81628,0.14594,0.59151
+window,Other (SWCC),shrub,fm10_mean,filled,1,1,10,8.91541,0.099,0.85803
+window,Other (SWCC),shrub,fm10_mean,strict,1,1,10,8.91541,0.099,0.85803
+window,Other (SWCC),shrub,gust_max,filled,1,1,10,54.7,-1.66667,0.71538
+window,Other (SWCC),shrub,gust_max,strict,1,0,0,,,
+window,Other (SWCC),shrub,gust_mean,filled,1,1,10,12.56118,0.0647,1.0
+window,Other (SWCC),shrub,gust_mean,strict,1,0,0,,,
+window,Other (SWCC),shrub,rain_total,filled,1,1,10,3.118,0.13333,1.0
+window,Other (SWCC),shrub,rain_total,strict,1,0,0,,,
+window,Other (SWCC),shrub,rh_dmin,filled,1,1,10,17.76628,0.3045,0.59151
+window,Other (SWCC),shrub,rh_dmin,strict,1,0,0,,,
+window,Other (SWCC),shrub,rh_mean,filled,1,1,10,32.63132,1.0201,0.59151
+window,Other (SWCC),shrub,rh_mean,strict,1,0,0,,,
+window,Other (SWCC),shrub,solar_mean,filled,1,1,10,245.773,4.55553,0.15241
+window,Other (SWCC),shrub,temp_dmax,filled,1,1,10,89.19211,0.21035,0.85803
+window,Other (SWCC),shrub,temp_dmax,strict,1,0,0,,,
+window,Other (SWCC),shrub,temp_dmin,filled,1,1,10,65.35148,-0.73813,0.2105
+window,Other (SWCC),shrub,temp_dmin,strict,1,0,0,,,
+window,Other (SWCC),shrub,temp_mean,filled,1,1,10,77.31318,-0.25714,0.72051
+window,Other (SWCC),shrub,temp_mean,strict,1,0,0,,,
+window,Other (SWCC),shrub,wind_mean,filled,1,1,10,6.2053,-0.28152,0.47427
+window,Other (SWCC),shrub,wind_mean,strict,1,0,0,,,

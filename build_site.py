@@ -14,7 +14,7 @@ import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 
-TASK_DIRS = ["landfire", "stations"]
+TASK_DIRS = ["landfire", "stations", "met"]
 KEEP_EXT = {".csv", ".svg"}
 NET_RE = re.compile(r"^(LF\d{4}(?:_Remap)?)_to_(LF\d{4}(?:_Remap)?)_net\.csv$")
 

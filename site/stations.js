@@ -200,7 +200,7 @@ window.PageStations = (() => {
       box.innerHTML = "";
       box.append(
         tiles(...statuses.filter(s => count(s.key)).map(s => tile(s.label, fmt(count(s.key)), `of ${fmt(rows.length)} stations`))),
-        neverReported.length && st.level === "category" ? note(`<strong>Read this first.</strong> No fuel any California station reports maps to ${neverReported.join(" or ")}, so a station on a ${neverReported.join(" or ")} cell can never match at this level. That is a limit of what FEMS samples, not evidence that LANDFIRE is wrong. Those stations appear below as mismatches.`) : null,
+        ...(neverReported.length && st.level === "category" ? [note(`<strong>Read this first.</strong> No fuel any California station reports maps to ${neverReported.join(" or ")}, so a station on a ${neverReported.join(" or ")} cell can never match at this level. That is a limit of what FEMS samples, not evidence that LANDFIRE is wrong. Those stations appear below as mismatches.`)] : []),
         h("div", { class: "row" },
           panel(h("h3", {}, `${relLabel(st.release)}, ${st.product}, ${LEVEL[st.level].toLowerCase()}`), map),
           panel(h("h3", {}, "Status by the category of the cell"), table(xt, { maxHeight: "none" }),
